@@ -1,1 +1,2670 @@
-{}\n
+{
+  "season": 2026,
+  "week": 3,
+  "updatedAt": "2026-09-26T16:26:11.630622+00:00",
+  "dataStatus": "CURRENT_SEASON_CONTEXT_V2",
+  "games": [
+    {
+      "id": "2026_03_ATL_GB",
+      "kickoff": "2026-09-24 20:15 ET",
+      "away": "ATL",
+      "home": "GB",
+      "venue": "Lambeau Field",
+      "state": "FINAL",
+      "awayScore": 35,
+      "homeScore": 14,
+      "moneyline": {
+        "kind": "MONEYLINE",
+        "label": "GB",
+        "confidence": 75,
+        "updated": "2026-09-26T16:08:42.017265+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "A 2026-os eredmények, a hazai/idegenbeli bontás és a friss forma alapján becsült hazai pontkülönbség +8.8."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "ATL: 0–2, 8.0 szerzett / 27.0 kapott pont meccsenként; GB: 1–1, 21.0 / 28.0."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "ATL idegenben: 0–1 (1 meccs), átlagos pontkülönbség -7.0; GB otthon: 0–0 (0 meccs), +0.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "ATL utolsó 2 meccsének átlagos pontkülönbsége -19.0; GB: -7.0."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: outdoors, 61°F, szél 5 mph."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          },
+          {
+            "title": "Piaci referencia",
+            "weight": 10,
+            "impact": 0,
+            "detail": "A referencia spread +4.5."
+          }
+        ]
+      },
+      "spread": {
+        "kind": "SPREAD",
+        "label": "GB +4.5",
+        "confidence": 73,
+        "updated": "2026-09-26T16:08:42.017265+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "Becsült hazai margin +8.8, referencia +4.5; edge +4.3."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "ATL: 0–2, 8.0 szerzett / 27.0 kapott pont meccsenként; GB: 1–1, 21.0 / 28.0."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "ATL idegenben: 0–1 (1 meccs), átlagos pontkülönbség -7.0; GB otthon: 0–0 (0 meccs), +0.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "ATL utolsó 2 meccsének átlagos pontkülönbsége -19.0; GB: -7.0."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: outdoors, 61°F, szél 5 mph."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          }
+        ]
+      },
+      "total": {
+        "kind": "NO_BET",
+        "label": "NO BET",
+        "confidence": 0,
+        "updated": "2026-09-26T16:08:42.017265+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "Becsült total 42.0, referencia 43.5; eltérés -1.5, ami nem éri el a 2 pontos küszöböt."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "ATL: 0–2, 8.0 szerzett / 27.0 kapott pont meccsenként; GB: 1–1, 21.0 / 28.0."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "ATL idegenben: 0–1 (1 meccs), átlagos pontkülönbség -7.0; GB otthon: 0–0 (0 meccs), +0.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "ATL utolsó 2 meccsének átlagos pontkülönbsége -19.0; GB: -7.0."
+          },
+          {
+            "title": "Ponttermelési környezet",
+            "weight": 25,
+            "impact": 0,
+            "detail": "ATL meccsein idén átlagosan 35.0, GB meccsein 49.0 összpont született; a legutóbbi meccsek átlaga 35.0 és 49.0."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: outdoors, 61°F, szél 5 mph."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          }
+        ]
+      },
+      "totalTests": {
+        "overSafe": 40.5,
+        "overRisk": 43.5,
+        "underSafe": 46.5,
+        "underRisk": 43.5
+      },
+      "market": {
+        "spread_line": 4.5,
+        "total_line": 43.5,
+        "away_moneyline": 190,
+        "home_moneyline": -230
+      }
+    },
+    {
+      "id": "2026_03_LAC_BUF",
+      "kickoff": "2026-09-27 13:00 ET",
+      "away": "LAC",
+      "home": "BUF",
+      "venue": "Highmark Stadium",
+      "state": "UPCOMING",
+      "awayScore": null,
+      "homeScore": null,
+      "moneyline": {
+        "kind": "MONEYLINE",
+        "label": "BUF",
+        "confidence": 76,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "A 2026-os eredmények, a hazai/idegenbeli bontás és a friss forma alapján becsült hazai pontkülönbség +13.2."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "LAC: 0–2, 14.0 szerzett / 26.0 kapott pont meccsenként; BUF: 2–0, 38.5 / 31.0."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "LAC idegenben: 0–0 (0 meccs), átlagos pontkülönbség +0.0; BUF otthon: 1–0 (1 meccs), +10.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "LAC utolsó 2 meccsének átlagos pontkülönbsége -12.0; BUF: +7.5."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: outdoors."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          },
+          {
+            "title": "Piaci referencia",
+            "weight": 10,
+            "impact": 0,
+            "detail": "A referencia spread +7.0."
+          }
+        ]
+      },
+      "spread": {
+        "kind": "SPREAD",
+        "label": "BUF +7.0",
+        "confidence": 78,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "Becsült hazai margin +13.2, referencia +7.0; edge +6.2."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "LAC: 0–2, 14.0 szerzett / 26.0 kapott pont meccsenként; BUF: 2–0, 38.5 / 31.0."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "LAC idegenben: 0–0 (0 meccs), átlagos pontkülönbség +0.0; BUF otthon: 1–0 (1 meccs), +10.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "LAC utolsó 2 meccsének átlagos pontkülönbsége -12.0; BUF: +7.5."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: outdoors."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          }
+        ]
+      },
+      "total": {
+        "kind": "OVER",
+        "label": "Over 50.5",
+        "confidence": 68,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "A 2026-os ponttermelés/pontengedés és a friss totalok 54.8 pontos becslést adnak a 50.5-es vonallal szemben."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "LAC: 0–2, 14.0 szerzett / 26.0 kapott pont meccsenként; BUF: 2–0, 38.5 / 31.0."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "LAC idegenben: 0–0 (0 meccs), átlagos pontkülönbség +0.0; BUF otthon: 1–0 (1 meccs), +10.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "LAC utolsó 2 meccsének átlagos pontkülönbsége -12.0; BUF: +7.5."
+          },
+          {
+            "title": "Ponttermelési környezet",
+            "weight": 25,
+            "impact": 0,
+            "detail": "LAC meccsein idén átlagosan 40.0, BUF meccsein 69.5 összpont született; a legutóbbi meccsek átlaga 40.0 és 69.5."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: outdoors."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          }
+        ]
+      },
+      "totalTests": {
+        "overSafe": 47.5,
+        "overRisk": 50.5,
+        "underSafe": 53.5,
+        "underRisk": 50.5
+      },
+      "market": {
+        "spread_line": 7,
+        "total_line": 50.5,
+        "away_moneyline": 275,
+        "home_moneyline": -345
+      }
+    },
+    {
+      "id": "2026_03_CAR_CLE",
+      "kickoff": "2026-09-27 13:00 ET",
+      "away": "CAR",
+      "home": "CLE",
+      "venue": "Huntington Bank Field",
+      "state": "UPCOMING",
+      "awayScore": null,
+      "homeScore": null,
+      "moneyline": {
+        "kind": "MONEYLINE",
+        "label": "CAR",
+        "confidence": 76,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "A 2026-os eredmények, a hazai/idegenbeli bontás és a friss forma alapján becsült hazai pontkülönbség -12.4."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "CAR: 1–1, 35.5 szerzett / 31.0 kapott pont meccsenként; CLE: 1–1, 16.5 / 26.5."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "CAR idegenben: 1–0 (1 meccs), átlagos pontkülönbség +31.0; CLE otthon: 0–0 (0 meccs), +0.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "CAR utolsó 2 meccsének átlagos pontkülönbsége +4.5; CLE: -10.0."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: outdoors."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          },
+          {
+            "title": "Piaci referencia",
+            "weight": 10,
+            "impact": 0,
+            "detail": "A referencia spread -2.5."
+          }
+        ]
+      },
+      "spread": {
+        "kind": "SPREAD",
+        "label": "CAR +2.5",
+        "confidence": 79,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "Becsült hazai margin -12.4, referencia -2.5; edge -9.9."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "CAR: 1–1, 35.5 szerzett / 31.0 kapott pont meccsenként; CLE: 1–1, 16.5 / 26.5."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "CAR idegenben: 1–0 (1 meccs), átlagos pontkülönbség +31.0; CLE otthon: 0–0 (0 meccs), +0.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "CAR utolsó 2 meccsének átlagos pontkülönbsége +4.5; CLE: -10.0."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: outdoors."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          }
+        ]
+      },
+      "total": {
+        "kind": "OVER",
+        "label": "Over 42.5",
+        "confidence": 79,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "A 2026-os ponttermelés/pontengedés és a friss totalok 54.8 pontos becslést adnak a 42.5-es vonallal szemben."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "CAR: 1–1, 35.5 szerzett / 31.0 kapott pont meccsenként; CLE: 1–1, 16.5 / 26.5."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "CAR idegenben: 1–0 (1 meccs), átlagos pontkülönbség +31.0; CLE otthon: 0–0 (0 meccs), +0.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "CAR utolsó 2 meccsének átlagos pontkülönbsége +4.5; CLE: -10.0."
+          },
+          {
+            "title": "Ponttermelési környezet",
+            "weight": 25,
+            "impact": 0,
+            "detail": "CAR meccsein idén átlagosan 66.5, CLE meccsein 43.0 összpont született; a legutóbbi meccsek átlaga 66.5 és 43.0."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: outdoors."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          }
+        ]
+      },
+      "totalTests": {
+        "overSafe": 39.5,
+        "overRisk": 42.5,
+        "underSafe": 45.5,
+        "underRisk": 42.5
+      },
+      "market": {
+        "spread_line": -2.5,
+        "total_line": 42.5,
+        "away_moneyline": -142,
+        "home_moneyline": 120
+      }
+    },
+    {
+      "id": "2026_03_NYJ_DET",
+      "kickoff": "2026-09-27 13:00 ET",
+      "away": "NYJ",
+      "home": "DET",
+      "venue": "Ford Field",
+      "state": "UPCOMING",
+      "awayScore": null,
+      "homeScore": null,
+      "moneyline": {
+        "kind": "MONEYLINE",
+        "label": "NYJ",
+        "confidence": 65,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "A 2026-os eredmények, a hazai/idegenbeli bontás és a friss forma alapján becsült hazai pontkülönbség -3.8."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "NYJ: 1–1, 20.0 szerzett / 15.0 kapott pont meccsenként; DET: 1–1, 31.0 / 35.5."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "NYJ idegenben: 1–0 (1 meccs), átlagos pontkülönbség +13.0; DET otthon: 1–0 (1 meccs), +1.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "NYJ utolsó 2 meccsének átlagos pontkülönbsége +5.0; DET: -4.5."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: dome."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          },
+          {
+            "title": "Piaci referencia",
+            "weight": 10,
+            "impact": 0,
+            "detail": "A referencia spread +6.5."
+          }
+        ]
+      },
+      "spread": {
+        "kind": "SPREAD",
+        "label": "NYJ -6.5",
+        "confidence": 79,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "Becsült hazai margin -3.8, referencia +6.5; edge -10.3."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "NYJ: 1–1, 20.0 szerzett / 15.0 kapott pont meccsenként; DET: 1–1, 31.0 / 35.5."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "NYJ idegenben: 1–0 (1 meccs), átlagos pontkülönbség +13.0; DET otthon: 1–0 (1 meccs), +1.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "NYJ utolsó 2 meccsének átlagos pontkülönbsége +5.0; DET: -4.5."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: dome."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          }
+        ]
+      },
+      "total": {
+        "kind": "OVER",
+        "label": "Over 48.5",
+        "confidence": 64,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "A 2026-os ponttermelés/pontengedés és a friss totalok 50.8 pontos becslést adnak a 48.5-es vonallal szemben."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "NYJ: 1–1, 20.0 szerzett / 15.0 kapott pont meccsenként; DET: 1–1, 31.0 / 35.5."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "NYJ idegenben: 1–0 (1 meccs), átlagos pontkülönbség +13.0; DET otthon: 1–0 (1 meccs), +1.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "NYJ utolsó 2 meccsének átlagos pontkülönbsége +5.0; DET: -4.5."
+          },
+          {
+            "title": "Ponttermelési környezet",
+            "weight": 25,
+            "impact": 0,
+            "detail": "NYJ meccsein idén átlagosan 35.0, DET meccsein 66.5 összpont született; a legutóbbi meccsek átlaga 35.0 és 66.5."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: dome."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          }
+        ]
+      },
+      "totalTests": {
+        "overSafe": 45.5,
+        "overRisk": 48.5,
+        "underSafe": 51.5,
+        "underRisk": 48.5
+      },
+      "market": {
+        "spread_line": 6.5,
+        "total_line": 48.5,
+        "away_moneyline": 245,
+        "home_moneyline": -305
+      }
+    },
+    {
+      "id": "2026_03_HOU_IND",
+      "kickoff": "2026-09-27 13:00 ET",
+      "away": "HOU",
+      "home": "IND",
+      "venue": "Lucas Oil Stadium",
+      "state": "UPCOMING",
+      "awayScore": null,
+      "homeScore": null,
+      "moneyline": {
+        "kind": "MONEYLINE",
+        "label": "HOU",
+        "confidence": 65,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "A 2026-os eredmények, a hazai/idegenbeli bontás és a friss forma alapján becsült hazai pontkülönbség -3.6."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "HOU: 0–2, 18.5 szerzett / 28.0 kapott pont meccsenként; IND: 0–2, 26.5 / 37.0."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "HOU idegenben: 0–0 (0 meccs), átlagos pontkülönbség +0.0; IND otthon: 0–1 (1 meccs), -18.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "HOU utolsó 2 meccsének átlagos pontkülönbsége -9.5; IND: -10.5."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális megbízható időjárási adat nincs a csomagban; nem feltételezünk hatást."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          },
+          {
+            "title": "Piaci referencia",
+            "weight": 10,
+            "impact": 0,
+            "detail": "A referencia spread -1.5."
+          }
+        ]
+      },
+      "spread": {
+        "kind": "SPREAD",
+        "label": "HOU +1.5",
+        "confidence": 66,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "Becsült hazai margin -3.6, referencia -1.5; edge -2.1."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "HOU: 0–2, 18.5 szerzett / 28.0 kapott pont meccsenként; IND: 0–2, 26.5 / 37.0."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "HOU idegenben: 0–0 (0 meccs), átlagos pontkülönbség +0.0; IND otthon: 0–1 (1 meccs), -18.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "HOU utolsó 2 meccsének átlagos pontkülönbsége -9.5; IND: -10.5."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális megbízható időjárási adat nincs a csomagban; nem feltételezünk hatást."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          }
+        ]
+      },
+      "total": {
+        "kind": "OVER",
+        "label": "Over 42.5",
+        "confidence": 79,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "A 2026-os ponttermelés/pontengedés és a friss totalok 55.0 pontos becslést adnak a 42.5-es vonallal szemben."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "HOU: 0–2, 18.5 szerzett / 28.0 kapott pont meccsenként; IND: 0–2, 26.5 / 37.0."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "HOU idegenben: 0–0 (0 meccs), átlagos pontkülönbség +0.0; IND otthon: 0–1 (1 meccs), -18.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "HOU utolsó 2 meccsének átlagos pontkülönbsége -9.5; IND: -10.5."
+          },
+          {
+            "title": "Ponttermelési környezet",
+            "weight": 25,
+            "impact": 0,
+            "detail": "HOU meccsein idén átlagosan 46.5, IND meccsein 63.5 összpont született; a legutóbbi meccsek átlaga 46.5 és 63.5."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális megbízható időjárási adat nincs a csomagban; nem feltételezünk hatást."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          }
+        ]
+      },
+      "totalTests": {
+        "overSafe": 39.5,
+        "overRisk": 42.5,
+        "underSafe": 45.5,
+        "underRisk": 42.5
+      },
+      "market": {
+        "spread_line": -1.5,
+        "total_line": 42.5,
+        "away_moneyline": -125,
+        "home_moneyline": 105
+      }
+    },
+    {
+      "id": "2026_03_NE_JAX",
+      "kickoff": "2026-09-27 13:00 ET",
+      "away": "NE",
+      "home": "JAX",
+      "venue": "EverBank Stadium",
+      "state": "UPCOMING",
+      "awayScore": null,
+      "homeScore": null,
+      "moneyline": {
+        "kind": "MONEYLINE",
+        "label": "JAX",
+        "confidence": 75,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "A 2026-os eredmények, a hazai/idegenbeli bontás és a friss forma alapján becsült hazai pontkülönbség +8.6."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "NE: 1–1, 15.0 szerzett / 8.0 kapott pont meccsenként; JAX: 1–1, 23.5 / 15.0."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "NE idegenben: 0–1 (1 meccs), átlagos pontkülönbség -3.0; JAX otthon: 1–0 (1 meccs), +24.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "NE utolsó 2 meccsének átlagos pontkülönbsége +7.0; JAX: +8.5."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: outdoors."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          },
+          {
+            "title": "Piaci referencia",
+            "weight": 10,
+            "impact": 0,
+            "detail": "A referencia spread +3.0."
+          }
+        ]
+      },
+      "spread": {
+        "kind": "SPREAD",
+        "label": "JAX +3.0",
+        "confidence": 76,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "Becsült hazai margin +8.6, referencia +3.0; edge +5.6."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "NE: 1–1, 15.0 szerzett / 8.0 kapott pont meccsenként; JAX: 1–1, 23.5 / 15.0."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "NE idegenben: 0–1 (1 meccs), átlagos pontkülönbség -3.0; JAX otthon: 1–0 (1 meccs), +24.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "NE utolsó 2 meccsének átlagos pontkülönbsége +7.0; JAX: +8.5."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: outdoors."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          }
+        ]
+      },
+      "total": {
+        "kind": "UNDER",
+        "label": "Under 46.5",
+        "confidence": 79,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "A 2026-os ponttermelés/pontengedés és a friss totalok 30.8 pontos becslést adnak a 46.5-es vonallal szemben."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "NE: 1–1, 15.0 szerzett / 8.0 kapott pont meccsenként; JAX: 1–1, 23.5 / 15.0."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "NE idegenben: 0–1 (1 meccs), átlagos pontkülönbség -3.0; JAX otthon: 1–0 (1 meccs), +24.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "NE utolsó 2 meccsének átlagos pontkülönbsége +7.0; JAX: +8.5."
+          },
+          {
+            "title": "Ponttermelési környezet",
+            "weight": 25,
+            "impact": 0,
+            "detail": "NE meccsein idén átlagosan 23.0, JAX meccsein 38.5 összpont született; a legutóbbi meccsek átlaga 23.0 és 38.5."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: outdoors."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          }
+        ]
+      },
+      "totalTests": {
+        "overSafe": 43.5,
+        "overRisk": 46.5,
+        "underSafe": 49.5,
+        "underRisk": 46.5
+      },
+      "market": {
+        "spread_line": 3,
+        "total_line": 46.5,
+        "away_moneyline": 130,
+        "home_moneyline": -155
+      }
+    },
+    {
+      "id": "2026_03_KC_MIA",
+      "kickoff": "2026-09-27 13:00 ET",
+      "away": "KC",
+      "home": "MIA",
+      "venue": "Hard Rock Stadium",
+      "state": "UPCOMING",
+      "awayScore": null,
+      "homeScore": null,
+      "moneyline": {
+        "kind": "MONEYLINE",
+        "label": "KC",
+        "confidence": 76,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "A 2026-os eredmények, a hazai/idegenbeli bontás és a friss forma alapján becsült hazai pontkülönbség -13.7."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "KC: 2–0, 32.0 szerzett / 20.0 kapott pont meccsenként; MIA: 0–2, 13.0 / 31.0."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "KC idegenben: 0–0 (0 meccs), átlagos pontkülönbség +0.0; MIA otthon: 0–0 (0 meccs), +0.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "KC utolsó 2 meccsének átlagos pontkülönbsége +12.0; MIA: -18.0."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: outdoors."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          },
+          {
+            "title": "Piaci referencia",
+            "weight": 10,
+            "impact": 0,
+            "detail": "A referencia spread -10.0."
+          }
+        ]
+      },
+      "spread": {
+        "kind": "SPREAD",
+        "label": "KC +10.0",
+        "confidence": 71,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "Becsült hazai margin -13.7, referencia -10.0; edge -3.7."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "KC: 2–0, 32.0 szerzett / 20.0 kapott pont meccsenként; MIA: 0–2, 13.0 / 31.0."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "KC idegenben: 0–0 (0 meccs), átlagos pontkülönbség +0.0; MIA otthon: 0–0 (0 meccs), +0.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "KC utolsó 2 meccsének átlagos pontkülönbsége +12.0; MIA: -18.0."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: outdoors."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          }
+        ]
+      },
+      "total": {
+        "kind": "OVER",
+        "label": "Over 45.5",
+        "confidence": 65,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "A 2026-os ponttermelés/pontengedés és a friss totalok 48.0 pontos becslést adnak a 45.5-es vonallal szemben."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "KC: 2–0, 32.0 szerzett / 20.0 kapott pont meccsenként; MIA: 0–2, 13.0 / 31.0."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "KC idegenben: 0–0 (0 meccs), átlagos pontkülönbség +0.0; MIA otthon: 0–0 (0 meccs), +0.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "KC utolsó 2 meccsének átlagos pontkülönbsége +12.0; MIA: -18.0."
+          },
+          {
+            "title": "Ponttermelési környezet",
+            "weight": 25,
+            "impact": 0,
+            "detail": "KC meccsein idén átlagosan 52.0, MIA meccsein 44.0 összpont született; a legutóbbi meccsek átlaga 52.0 és 44.0."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: outdoors."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          }
+        ]
+      },
+      "totalTests": {
+        "overSafe": 42.5,
+        "overRisk": 45.5,
+        "underSafe": 48.5,
+        "underRisk": 45.5
+      },
+      "market": {
+        "spread_line": -10,
+        "total_line": 45.5,
+        "away_moneyline": -650,
+        "home_moneyline": 470
+      }
+    },
+    {
+      "id": "2026_03_TEN_NYG",
+      "kickoff": "2026-09-27 13:00 ET",
+      "away": "TEN",
+      "home": "NYG",
+      "venue": "MetLife Stadium",
+      "state": "UPCOMING",
+      "awayScore": null,
+      "homeScore": null,
+      "moneyline": {
+        "kind": "MONEYLINE",
+        "label": "NYG",
+        "confidence": 66,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "A 2026-os eredmények, a hazai/idegenbeli bontás és a friss forma alapján becsült hazai pontkülönbség +4.2."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "TEN: 0–2, 15.0 szerzett / 23.5 kapott pont meccsenként; NYG: 1–1, 17.0 / 24.0."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "TEN idegenben: 0–0 (0 meccs), átlagos pontkülönbség +0.0; NYG otthon: 1–0 (1 meccs), +8.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "TEN utolsó 2 meccsének átlagos pontkülönbsége -8.5; NYG: -7.0."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: outdoors."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          },
+          {
+            "title": "Piaci referencia",
+            "weight": 10,
+            "impact": 0,
+            "detail": "A referencia spread +2.5."
+          }
+        ]
+      },
+      "spread": {
+        "kind": "SPREAD",
+        "label": "NYG +2.5",
+        "confidence": 65,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "Becsült hazai margin +4.2, referencia +2.5; edge +1.7."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "TEN: 0–2, 15.0 szerzett / 23.5 kapott pont meccsenként; NYG: 1–1, 17.0 / 24.0."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "TEN idegenben: 0–0 (0 meccs), átlagos pontkülönbség +0.0; NYG otthon: 1–0 (1 meccs), +8.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "TEN utolsó 2 meccsének átlagos pontkülönbsége -8.5; NYG: -7.0."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: outdoors."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          }
+        ]
+      },
+      "total": {
+        "kind": "OVER",
+        "label": "Over 37.5",
+        "confidence": 64,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "A 2026-os ponttermelés/pontengedés és a friss totalok 39.8 pontos becslést adnak a 37.5-es vonallal szemben."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "TEN: 0–2, 15.0 szerzett / 23.5 kapott pont meccsenként; NYG: 1–1, 17.0 / 24.0."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "TEN idegenben: 0–0 (0 meccs), átlagos pontkülönbség +0.0; NYG otthon: 1–0 (1 meccs), +8.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "TEN utolsó 2 meccsének átlagos pontkülönbsége -8.5; NYG: -7.0."
+          },
+          {
+            "title": "Ponttermelési környezet",
+            "weight": 25,
+            "impact": 0,
+            "detail": "TEN meccsein idén átlagosan 38.5, NYG meccsein 41.0 összpont született; a legutóbbi meccsek átlaga 38.5 és 41.0."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: outdoors."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          }
+        ]
+      },
+      "totalTests": {
+        "overSafe": 34.5,
+        "overRisk": 37.5,
+        "underSafe": 40.5,
+        "underRisk": 37.5
+      },
+      "market": {
+        "spread_line": 2.5,
+        "total_line": 37.5,
+        "away_moneyline": 114,
+        "home_moneyline": -135
+      }
+    },
+    {
+      "id": "2026_03_CIN_PIT",
+      "kickoff": "2026-09-27 13:00 ET",
+      "away": "CIN",
+      "home": "PIT",
+      "venue": "Acrisure Stadium",
+      "state": "UPCOMING",
+      "awayScore": null,
+      "homeScore": null,
+      "moneyline": {
+        "kind": "MONEYLINE",
+        "label": "CIN",
+        "confidence": 72,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "A 2026-os eredmények, a hazai/idegenbeli bontás és a friss forma alapján becsült hazai pontkülönbség -7.4."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "CIN: 2–0, 26.5 szerzett / 16.5 kapott pont meccsenként; PIT: 1–1, 11.5 / 16.5."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "CIN idegenben: 1–0 (1 meccs), átlagos pontkülönbség +14.0; PIT otthon: 1–0 (1 meccs), +7.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "CIN utolsó 2 meccsének átlagos pontkülönbsége +10.0; PIT: -5.0."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: outdoors."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          },
+          {
+            "title": "Piaci referencia",
+            "weight": 10,
+            "impact": 0,
+            "detail": "A referencia spread -3.5."
+          }
+        ]
+      },
+      "spread": {
+        "kind": "SPREAD",
+        "label": "CIN +3.5",
+        "confidence": 71,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "Becsült hazai margin -7.4, referencia -3.5; edge -3.9."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "CIN: 2–0, 26.5 szerzett / 16.5 kapott pont meccsenként; PIT: 1–1, 11.5 / 16.5."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "CIN idegenben: 1–0 (1 meccs), átlagos pontkülönbség +14.0; PIT otthon: 1–0 (1 meccs), +7.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "CIN utolsó 2 meccsének átlagos pontkülönbsége +10.0; PIT: -5.0."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: outdoors."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          }
+        ]
+      },
+      "total": {
+        "kind": "UNDER",
+        "label": "Under 42.5",
+        "confidence": 74,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "A 2026-os ponttermelés/pontengedés és a friss totalok 35.5 pontos becslést adnak a 42.5-es vonallal szemben."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "CIN: 2–0, 26.5 szerzett / 16.5 kapott pont meccsenként; PIT: 1–1, 11.5 / 16.5."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "CIN idegenben: 1–0 (1 meccs), átlagos pontkülönbség +14.0; PIT otthon: 1–0 (1 meccs), +7.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "CIN utolsó 2 meccsének átlagos pontkülönbsége +10.0; PIT: -5.0."
+          },
+          {
+            "title": "Ponttermelési környezet",
+            "weight": 25,
+            "impact": 0,
+            "detail": "CIN meccsein idén átlagosan 43.0, PIT meccsein 28.0 összpont született; a legutóbbi meccsek átlaga 43.0 és 28.0."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: outdoors."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          }
+        ]
+      },
+      "totalTests": {
+        "overSafe": 39.5,
+        "overRisk": 42.5,
+        "underSafe": 45.5,
+        "underRisk": 42.5
+      },
+      "market": {
+        "spread_line": -3.5,
+        "total_line": 42.5,
+        "away_moneyline": -185,
+        "home_moneyline": 154
+      }
+    },
+    {
+      "id": "2026_03_SEA_WAS",
+      "kickoff": "2026-09-27 13:00 ET",
+      "away": "SEA",
+      "home": "WAS",
+      "venue": "Northwest Stadium",
+      "state": "UPCOMING",
+      "awayScore": null,
+      "homeScore": null,
+      "moneyline": {
+        "kind": "MONEYLINE",
+        "label": "SEA",
+        "confidence": 76,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "A 2026-os eredmények, a hazai/idegenbeli bontás és a friss forma alapján becsült hazai pontkülönbség -15.6."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "SEA: 2–0, 22.0 szerzett / 8.5 kapott pont meccsenként; WAS: 0–2, 21.0 / 30.5."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "SEA idegenben: 1–0 (1 meccs), átlagos pontkülönbség +24.0; WAS otthon: 0–0 (0 meccs), +0.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "SEA utolsó 2 meccsének átlagos pontkülönbsége +13.5; WAS: -9.5."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: outdoors."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          },
+          {
+            "title": "Piaci referencia",
+            "weight": 10,
+            "impact": 0,
+            "detail": "A referencia spread -7.5."
+          }
+        ]
+      },
+      "spread": {
+        "kind": "SPREAD",
+        "label": "SEA +7.5",
+        "confidence": 79,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "Becsült hazai margin -15.6, referencia -7.5; edge -8.1."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "SEA: 2–0, 22.0 szerzett / 8.5 kapott pont meccsenként; WAS: 0–2, 21.0 / 30.5."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "SEA idegenben: 1–0 (1 meccs), átlagos pontkülönbség +24.0; WAS otthon: 0–0 (0 meccs), +0.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "SEA utolsó 2 meccsének átlagos pontkülönbsége +13.5; WAS: -9.5."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: outdoors."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          }
+        ]
+      },
+      "total": {
+        "kind": "NO_BET",
+        "label": "NO BET",
+        "confidence": 0,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "Becsült total 41.0, referencia 40.5; eltérés +0.5, ami nem éri el a 2 pontos küszöböt."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "SEA: 2–0, 22.0 szerzett / 8.5 kapott pont meccsenként; WAS: 0–2, 21.0 / 30.5."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "SEA idegenben: 1–0 (1 meccs), átlagos pontkülönbség +24.0; WAS otthon: 0–0 (0 meccs), +0.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "SEA utolsó 2 meccsének átlagos pontkülönbsége +13.5; WAS: -9.5."
+          },
+          {
+            "title": "Ponttermelési környezet",
+            "weight": 25,
+            "impact": 0,
+            "detail": "SEA meccsein idén átlagosan 30.5, WAS meccsein 51.5 összpont született; a legutóbbi meccsek átlaga 30.5 és 51.5."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: outdoors."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          }
+        ]
+      },
+      "totalTests": {
+        "overSafe": 37.5,
+        "overRisk": 40.5,
+        "underSafe": 43.5,
+        "underRisk": 40.5
+      },
+      "market": {
+        "spread_line": -7.5,
+        "total_line": 40.5,
+        "away_moneyline": -395,
+        "home_moneyline": 310
+      }
+    },
+    {
+      "id": "2026_03_ARI_SF",
+      "kickoff": "2026-09-27 16:05 ET",
+      "away": "ARI",
+      "home": "SF",
+      "venue": "Levi's Stadium",
+      "state": "UPCOMING",
+      "awayScore": null,
+      "homeScore": null,
+      "moneyline": {
+        "kind": "MONEYLINE",
+        "label": "SF",
+        "confidence": 76,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "A 2026-os eredmények, a hazai/idegenbeli bontás és a friss forma alapján becsült hazai pontkülönbség +16.7."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "ARI: 1–1, 16.5 szerzett / 22.5 kapott pont meccsenként; SF: 2–0, 31.0 / 10.0."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "ARI idegenben: 1–0 (1 meccs), átlagos pontkülönbség +12.0; SF otthon: 1–0 (1 meccs), +22.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "ARI utolsó 2 meccsének átlagos pontkülönbsége -6.0; SF: +21.0."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: outdoors."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          },
+          {
+            "title": "Piaci referencia",
+            "weight": 10,
+            "impact": 0,
+            "detail": "A referencia spread +8.5."
+          }
+        ]
+      },
+      "spread": {
+        "kind": "SPREAD",
+        "label": "SF +8.5",
+        "confidence": 79,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "Becsült hazai margin +16.7, referencia +8.5; edge +8.2."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "ARI: 1–1, 16.5 szerzett / 22.5 kapott pont meccsenként; SF: 2–0, 31.0 / 10.0."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "ARI idegenben: 1–0 (1 meccs), átlagos pontkülönbség +12.0; SF otthon: 1–0 (1 meccs), +22.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "ARI utolsó 2 meccsének átlagos pontkülönbsége -6.0; SF: +21.0."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: outdoors."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          }
+        ]
+      },
+      "total": {
+        "kind": "UNDER",
+        "label": "Under 47.5",
+        "confidence": 75,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "A 2026-os ponttermelés/pontengedés és a friss totalok 40.0 pontos becslést adnak a 47.5-es vonallal szemben."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "ARI: 1–1, 16.5 szerzett / 22.5 kapott pont meccsenként; SF: 2–0, 31.0 / 10.0."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "ARI idegenben: 1–0 (1 meccs), átlagos pontkülönbség +12.0; SF otthon: 1–0 (1 meccs), +22.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "ARI utolsó 2 meccsének átlagos pontkülönbsége -6.0; SF: +21.0."
+          },
+          {
+            "title": "Ponttermelési környezet",
+            "weight": 25,
+            "impact": 0,
+            "detail": "ARI meccsein idén átlagosan 39.0, SF meccsein 41.0 összpont született; a legutóbbi meccsek átlaga 39.0 és 41.0."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: outdoors."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          }
+        ]
+      },
+      "totalTests": {
+        "overSafe": 44.5,
+        "overRisk": 47.5,
+        "underSafe": 50.5,
+        "underRisk": 47.5
+      },
+      "market": {
+        "spread_line": 8.5,
+        "total_line": 47.5,
+        "away_moneyline": 340,
+        "home_moneyline": -440
+      }
+    },
+    {
+      "id": "2026_03_MIN_TB",
+      "kickoff": "2026-09-27 16:05 ET",
+      "away": "MIN",
+      "home": "TB",
+      "venue": "Raymond James Stadium",
+      "state": "UPCOMING",
+      "awayScore": null,
+      "homeScore": null,
+      "moneyline": {
+        "kind": "MONEYLINE",
+        "label": "MIN",
+        "confidence": 74,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "A 2026-os eredmények, a hazai/idegenbeli bontás és a friss forma alapján becsült hazai pontkülönbség -8.2."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "MIN: 2–0, 24.0 szerzett / 12.5 kapott pont meccsenként; TB: 0–2, 23.0 / 28.0."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "MIN idegenben: 1–0 (1 meccs), átlagos pontkülönbség +6.0; TB otthon: 0–1 (1 meccs), -4.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "MIN utolsó 2 meccsének átlagos pontkülönbsége +11.5; TB: -5.0."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: outdoors."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          },
+          {
+            "title": "Piaci referencia",
+            "weight": 10,
+            "impact": 0,
+            "detail": "A referencia spread -1.5."
+          }
+        ]
+      },
+      "spread": {
+        "kind": "SPREAD",
+        "label": "MIN +1.5",
+        "confidence": 79,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "Becsült hazai margin -8.2, referencia -1.5; edge -6.7."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "MIN: 2–0, 24.0 szerzett / 12.5 kapott pont meccsenként; TB: 0–2, 23.0 / 28.0."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "MIN idegenben: 1–0 (1 meccs), átlagos pontkülönbség +6.0; TB otthon: 0–1 (1 meccs), -4.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "MIN utolsó 2 meccsének átlagos pontkülönbsége +11.5; TB: -5.0."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: outdoors."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          }
+        ]
+      },
+      "total": {
+        "kind": "NO_BET",
+        "label": "NO BET",
+        "confidence": 0,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "Becsült total 43.8, referencia 42.5; eltérés +1.2, ami nem éri el a 2 pontos küszöböt."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "MIN: 2–0, 24.0 szerzett / 12.5 kapott pont meccsenként; TB: 0–2, 23.0 / 28.0."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "MIN idegenben: 1–0 (1 meccs), átlagos pontkülönbség +6.0; TB otthon: 0–1 (1 meccs), -4.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "MIN utolsó 2 meccsének átlagos pontkülönbsége +11.5; TB: -5.0."
+          },
+          {
+            "title": "Ponttermelési környezet",
+            "weight": 25,
+            "impact": 0,
+            "detail": "MIN meccsein idén átlagosan 36.5, TB meccsein 51.0 összpont született; a legutóbbi meccsek átlaga 36.5 és 51.0."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: outdoors."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          }
+        ]
+      },
+      "totalTests": {
+        "overSafe": 39.5,
+        "overRisk": 42.5,
+        "underSafe": 45.5,
+        "underRisk": 42.5
+      },
+      "market": {
+        "spread_line": -1.5,
+        "total_line": 42.5,
+        "away_moneyline": -120,
+        "home_moneyline": 100
+      }
+    },
+    {
+      "id": "2026_03_BAL_DAL",
+      "kickoff": "2026-09-27 16:25 ET",
+      "away": "BAL",
+      "home": "DAL",
+      "venue": "Maracana Stadium",
+      "state": "UPCOMING",
+      "awayScore": null,
+      "homeScore": null,
+      "moneyline": {
+        "kind": "MONEYLINE",
+        "label": "BAL",
+        "confidence": 58,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "A 2026-os eredmények, a hazai/idegenbeli bontás és a friss forma alapján becsült hazai pontkülönbség -0.3."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "BAL: 1–1, 29.0 szerzett / 23.5 kapott pont meccsenként; DAL: 1–1, 28.5 / 24.0."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "BAL idegenben: 1–0 (1 meccs), átlagos pontkülönbség +18.0; DAL otthon: 1–0 (1 meccs), +17.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "BAL utolsó 2 meccsének átlagos pontkülönbsége +5.5; DAL: +4.5."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális megbízható időjárási adat nincs a csomagban; nem feltételezünk hatást."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          },
+          {
+            "title": "Piaci referencia",
+            "weight": 10,
+            "impact": 0,
+            "detail": "A referencia spread -3.5."
+          }
+        ]
+      },
+      "spread": {
+        "kind": "SPREAD",
+        "label": "DAL -3.5",
+        "confidence": 69,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "Becsült hazai margin -0.3, referencia -3.5; edge +3.2."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "BAL: 1–1, 29.0 szerzett / 23.5 kapott pont meccsenként; DAL: 1–1, 28.5 / 24.0."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "BAL idegenben: 1–0 (1 meccs), átlagos pontkülönbség +18.0; DAL otthon: 1–0 (1 meccs), +17.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "BAL utolsó 2 meccsének átlagos pontkülönbsége +5.5; DAL: +4.5."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális megbízható időjárási adat nincs a csomagban; nem feltételezünk hatást."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          }
+        ]
+      },
+      "total": {
+        "kind": "NO_BET",
+        "label": "NO BET",
+        "confidence": 0,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "Becsült total 52.5, referencia 53.5; eltérés -1.0, ami nem éri el a 2 pontos küszöböt."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "BAL: 1–1, 29.0 szerzett / 23.5 kapott pont meccsenként; DAL: 1–1, 28.5 / 24.0."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "BAL idegenben: 1–0 (1 meccs), átlagos pontkülönbség +18.0; DAL otthon: 1–0 (1 meccs), +17.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "BAL utolsó 2 meccsének átlagos pontkülönbsége +5.5; DAL: +4.5."
+          },
+          {
+            "title": "Ponttermelési környezet",
+            "weight": 25,
+            "impact": 0,
+            "detail": "BAL meccsein idén átlagosan 52.5, DAL meccsein 52.5 összpont született; a legutóbbi meccsek átlaga 52.5 és 52.5."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális megbízható időjárási adat nincs a csomagban; nem feltételezünk hatást."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          }
+        ]
+      },
+      "totalTests": {
+        "overSafe": 50.5,
+        "overRisk": 53.5,
+        "underSafe": 56.5,
+        "underRisk": 53.5
+      },
+      "market": {
+        "spread_line": -3.5,
+        "total_line": 53.5,
+        "away_moneyline": -166,
+        "home_moneyline": 140
+      }
+    },
+    {
+      "id": "2026_03_LV_NO",
+      "kickoff": "2026-09-27 16:25 ET",
+      "away": "LV",
+      "home": "NO",
+      "venue": "Caesars Superdome",
+      "state": "UPCOMING",
+      "awayScore": null,
+      "homeScore": null,
+      "moneyline": {
+        "kind": "MONEYLINE",
+        "label": "LV",
+        "confidence": 67,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "A 2026-os eredmények, a hazai/idegenbeli bontás és a friss forma alapján becsült hazai pontkülönbség -4.9."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "LV: 2–0, 26.5 szerzett / 13.5 kapott pont meccsenként; NO: 1–1, 27.0 / 24.0."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "LV idegenben: 1–0 (1 meccs), átlagos pontkülönbség +12.0; NO otthon: 0–0 (0 meccs), +0.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "LV utolsó 2 meccsének átlagos pontkülönbsége +13.0; NO: +3.0."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: dome."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          },
+          {
+            "title": "Piaci referencia",
+            "weight": 10,
+            "impact": 0,
+            "detail": "A referencia spread +3.0."
+          }
+        ]
+      },
+      "spread": {
+        "kind": "SPREAD",
+        "label": "LV -3.0",
+        "confidence": 79,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "Becsült hazai margin -4.9, referencia +3.0; edge -7.9."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "LV: 2–0, 26.5 szerzett / 13.5 kapott pont meccsenként; NO: 1–1, 27.0 / 24.0."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "LV idegenben: 1–0 (1 meccs), átlagos pontkülönbség +12.0; NO otthon: 0–0 (0 meccs), +0.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "LV utolsó 2 meccsének átlagos pontkülönbsége +13.0; NO: +3.0."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: dome."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          }
+        ]
+      },
+      "total": {
+        "kind": "OVER",
+        "label": "Over 43.5",
+        "confidence": 64,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "A 2026-os ponttermelés/pontengedés és a friss totalok 45.5 pontos becslést adnak a 43.5-es vonallal szemben."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "LV: 2–0, 26.5 szerzett / 13.5 kapott pont meccsenként; NO: 1–1, 27.0 / 24.0."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "LV idegenben: 1–0 (1 meccs), átlagos pontkülönbség +12.0; NO otthon: 0–0 (0 meccs), +0.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "LV utolsó 2 meccsének átlagos pontkülönbsége +13.0; NO: +3.0."
+          },
+          {
+            "title": "Ponttermelési környezet",
+            "weight": 25,
+            "impact": 0,
+            "detail": "LV meccsein idén átlagosan 40.0, NO meccsein 51.0 összpont született; a legutóbbi meccsek átlaga 40.0 és 51.0."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: dome."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          }
+        ]
+      },
+      "totalTests": {
+        "overSafe": 40.5,
+        "overRisk": 43.5,
+        "underSafe": 46.5,
+        "underRisk": 43.5
+      },
+      "market": {
+        "spread_line": 3,
+        "total_line": 43.5,
+        "away_moneyline": 154,
+        "home_moneyline": -185
+      }
+    },
+    {
+      "id": "2026_03_LA_DEN",
+      "kickoff": "2026-09-27 20:20 ET",
+      "away": "LA",
+      "home": "DEN",
+      "venue": "Empower Field at Mile High",
+      "state": "UPCOMING",
+      "awayScore": null,
+      "homeScore": null,
+      "moneyline": {
+        "kind": "MONEYLINE",
+        "label": "LA",
+        "confidence": 60,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "A 2026-os eredmények, a hazai/idegenbeli bontás és a friss forma alapján becsült hazai pontkülönbség -1.1."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "LA: 1–1, 17.5 szerzett / 16.5 kapott pont meccsenként; DEN: 1–1, 15.0 / 22.0."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "LA idegenben: 0–0 (0 meccs), átlagos pontkülönbség +0.0; DEN otthon: 1–0 (1 meccs), +7.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "LA utolsó 2 meccsének átlagos pontkülönbsége +1.0; DEN: -7.0."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: outdoors."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          },
+          {
+            "title": "Piaci referencia",
+            "weight": 10,
+            "impact": 0,
+            "detail": "A referencia spread -2.5."
+          }
+        ]
+      },
+      "spread": {
+        "kind": "NO_BET",
+        "label": "NO BET",
+        "confidence": 0,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "A modell és a referencia spread eltérése 1.4 pont; ez nem éri el az 1.5 pontos küszöböt."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "LA: 1–1, 17.5 szerzett / 16.5 kapott pont meccsenként; DEN: 1–1, 15.0 / 22.0."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "LA idegenben: 0–0 (0 meccs), átlagos pontkülönbség +0.0; DEN otthon: 1–0 (1 meccs), +7.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "LA utolsó 2 meccsének átlagos pontkülönbsége +1.0; DEN: -7.0."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: outdoors."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          }
+        ]
+      },
+      "total": {
+        "kind": "UNDER",
+        "label": "Under 44.5",
+        "confidence": 78,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "A 2026-os ponttermelés/pontengedés és a friss totalok 35.5 pontos becslést adnak a 44.5-es vonallal szemben."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "LA: 1–1, 17.5 szerzett / 16.5 kapott pont meccsenként; DEN: 1–1, 15.0 / 22.0."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "LA idegenben: 0–0 (0 meccs), átlagos pontkülönbség +0.0; DEN otthon: 1–0 (1 meccs), +7.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "LA utolsó 2 meccsének átlagos pontkülönbsége +1.0; DEN: -7.0."
+          },
+          {
+            "title": "Ponttermelési környezet",
+            "weight": 25,
+            "impact": 0,
+            "detail": "LA meccsein idén átlagosan 34.0, DEN meccsein 37.0 összpont született; a legutóbbi meccsek átlaga 34.0 és 37.0."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: outdoors."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          }
+        ]
+      },
+      "totalTests": {
+        "overSafe": 41.5,
+        "overRisk": 44.5,
+        "underSafe": 47.5,
+        "underRisk": 44.5
+      },
+      "market": {
+        "spread_line": -2.5,
+        "total_line": 44.5,
+        "away_moneyline": -130,
+        "home_moneyline": 110
+      }
+    },
+    {
+      "id": "2026_03_PHI_CHI",
+      "kickoff": "2026-09-28 20:15 ET",
+      "away": "PHI",
+      "home": "CHI",
+      "venue": "Soldier Field",
+      "state": "UPCOMING",
+      "awayScore": null,
+      "homeScore": null,
+      "moneyline": {
+        "kind": "MONEYLINE",
+        "label": "PHI",
+        "confidence": 58,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "A 2026-os eredmények, a hazai/idegenbeli bontás és a friss forma alapján becsült hazai pontkülönbség -0.1."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "PHI: 2–0, 24.0 szerzett / 21.0 kapott pont meccsenként; CHI: 1–1, 31.0 / 23.0."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "PHI idegenben: 1–0 (1 meccs), átlagos pontkülönbség +4.0; CHI otthon: 0–1 (1 meccs), -6.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "PHI utolsó 2 meccsének átlagos pontkülönbsége +3.0; CHI: +8.0."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: outdoors."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          },
+          {
+            "title": "Piaci referencia",
+            "weight": 10,
+            "impact": 0,
+            "detail": "A referencia spread -4.5."
+          }
+        ]
+      },
+      "spread": {
+        "kind": "SPREAD",
+        "label": "CHI -4.5",
+        "confidence": 73,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "Becsült hazai margin -0.1, referencia -4.5; edge +4.4."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "PHI: 2–0, 24.0 szerzett / 21.0 kapott pont meccsenként; CHI: 1–1, 31.0 / 23.0."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "PHI idegenben: 1–0 (1 meccs), átlagos pontkülönbség +4.0; CHI otthon: 0–1 (1 meccs), -6.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "PHI utolsó 2 meccsének átlagos pontkülönbsége +3.0; CHI: +8.0."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: outdoors."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          }
+        ]
+      },
+      "total": {
+        "kind": "OVER",
+        "label": "Over 41.5",
+        "confidence": 76,
+        "updated": "2026-09-26T16:26:11.630622+00:00",
+        "evidence": [
+          {
+            "title": "Mit lát a modell?",
+            "weight": 25,
+            "impact": 1,
+            "detail": "A 2026-os ponttermelés/pontengedés és a friss totalok 49.5 pontos becslést adnak a 41.5-es vonallal szemben."
+          },
+          {
+            "title": "2026-os szezon",
+            "weight": 25,
+            "impact": 0,
+            "detail": "PHI: 2–0, 24.0 szerzett / 21.0 kapott pont meccsenként; CHI: 1–1, 31.0 / 23.0."
+          },
+          {
+            "title": "Hazai / idegenbeli bontás",
+            "weight": 20,
+            "impact": 0,
+            "detail": "PHI idegenben: 1–0 (1 meccs), átlagos pontkülönbség +4.0; CHI otthon: 0–1 (1 meccs), -6.0."
+          },
+          {
+            "title": "Friss forma",
+            "weight": 15,
+            "impact": 0,
+            "detail": "PHI utolsó 2 meccsének átlagos pontkülönbsége +3.0; CHI: +8.0."
+          },
+          {
+            "title": "Ponttermelési környezet",
+            "weight": 25,
+            "impact": 0,
+            "detail": "PHI meccsein idén átlagosan 45.0, CHI meccsein 54.0 összpont született; a legutóbbi meccsek átlaga 45.0 és 54.0."
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 5,
+            "impact": 0,
+            "detail": "tető: outdoors."
+          },
+          {
+            "title": "Sérülések és kezdők",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Aktuális strukturált sérülésadat nincs ebben az offline adatcsomagban. Sérülésből ezért nem számolunk előnyt, és nem találunk ki hiányzó játékost."
+          }
+        ]
+      },
+      "totalTests": {
+        "overSafe": 38.5,
+        "overRisk": 41.5,
+        "underSafe": 44.5,
+        "underRisk": 41.5
+      },
+      "market": {
+        "spread_line": -4.5,
+        "total_line": 41.5,
+        "away_moneyline": -238,
+        "home_moneyline": 195
+      }
+    }
+  ],
+  "model": {
+    "version": "v2-current-season-context",
+    "greenDisabled": true,
+    "maxConfidence": 79,
+    "note": "Current-season/home-away/recent form first. Injury data is only used when an external verified feed has populated it."
+  }
+}
