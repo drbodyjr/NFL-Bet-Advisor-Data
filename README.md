@@ -1,0 +1,1 @@
+# NFL Bet Advisor Data\n\nPublic, read-only generated data feed for the private NFL Bet Advisor app. No API keys or application source code are stored here.\n
