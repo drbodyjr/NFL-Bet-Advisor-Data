@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 4,
-  "updatedAt": "2026-10-04T14:33:12.556797+00:00",
+  "updatedAt": "2026-10-04T15:11:37.968533+00:00",
   "dataStatus": "CURRENT_SEASON_SHRINKAGE_V3",
   "games": [
     {
@@ -2535,7 +2535,7 @@
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség -2.1 (alap -0.8, sérülési korrekció -1.26)."
+            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség -2.3 (alap -0.8, sérülési korrekció -1.45)."
           },
           {
             "title": "2026-os szezon",
@@ -2576,8 +2576,8 @@
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
-            "impact": -1.26,
-            "detail": "LA: Aaron Donald (DT) — OUT, Soreness [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; LA: Josaiah Stewart (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; LA: Jaylen Watson (CB) — OUT, Dislocated [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; LA: Colby Parkinson (TE) — QUESTIONABLE, Sprain [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; PHI: DeVonta Smith (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; PHI: Fred Johnson (OT) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; PHI: Marcus Epps (S) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; PHI: Zack Baun (LB) — OUT, Concussion [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; PHI: Hollywood Brown (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; PHI: Dallas Goedert (TE) — OUT, Sprain [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység] | Beépített modellhatás: 1.26 pont, vendég oldal felé.",
+            "impact": -1.45,
+            "detail": "LA: Aaron Donald (DT) — OUT, Soreness [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; LA: Josaiah Stewart (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; LA: Jaylen Watson (CB) — OUT, Dislocated [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; LA: Colby Parkinson (TE) — QUESTIONABLE, Sprain [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; PHI: Lane Johnson (OT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; PHI: DeVonta Smith (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; PHI: Fred Johnson (OT) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; PHI: Marcus Epps (S) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; PHI: Zack Baun (LB) — OUT, Concussion [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; PHI: Hollywood Brown (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; PHI: Dallas Goedert (TE) — OUT, Sprain [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység] | Beépített modellhatás: 1.45 pont, vendég oldal felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           }
@@ -2593,7 +2593,7 @@
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált margin -2.1, piaci margin -3.5; edge +1.4, ami nem éri el a 2.0 pontos küszöböt."
+            "detail": "Sérülésekkel korrigált margin -2.3, piaci margin -3.5; edge +1.2, ami nem éri el a 2.0 pontos küszöböt."
           },
           {
             "title": "2026-os szezon",
@@ -2628,8 +2628,8 @@
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
-            "impact": -1.26,
-            "detail": "LA: Aaron Donald (DT) — OUT, Soreness [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; LA: Josaiah Stewart (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; LA: Jaylen Watson (CB) — OUT, Dislocated [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; LA: Colby Parkinson (TE) — QUESTIONABLE, Sprain [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; PHI: DeVonta Smith (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; PHI: Fred Johnson (OT) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; PHI: Marcus Epps (S) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; PHI: Zack Baun (LB) — OUT, Concussion [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; PHI: Hollywood Brown (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; PHI: Dallas Goedert (TE) — OUT, Sprain [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység] | Beépített modellhatás: 1.26 pont, vendég oldal felé.",
+            "impact": -1.45,
+            "detail": "LA: Aaron Donald (DT) — OUT, Soreness [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; LA: Josaiah Stewart (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; LA: Jaylen Watson (CB) — OUT, Dislocated [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; LA: Colby Parkinson (TE) — QUESTIONABLE, Sprain [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; PHI: Lane Johnson (OT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; PHI: DeVonta Smith (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; PHI: Fred Johnson (OT) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; PHI: Marcus Epps (S) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; PHI: Zack Baun (LB) — OUT, Concussion [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; PHI: Hollywood Brown (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; PHI: Dallas Goedert (TE) — OUT, Sprain [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység] | Beépített modellhatás: 1.45 pont, vendég oldal felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           }
@@ -2645,7 +2645,7 @@
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált total 43.3 (alap 43.5, sérülési korrekció -0.17), referencia 42.5; eltérés +0.8, ami nem éri el a 3.0 pontos küszöböt."
+            "detail": "Sérülésekkel korrigált total 43.2 (alap 43.5, sérülési korrekció -0.23), referencia 42.5; eltérés +0.7, ami nem éri el a 3.0 pontos küszöböt."
           },
           {
             "title": "2026-os szezon",
@@ -2686,8 +2686,8 @@
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
-            "impact": -0.17,
-            "detail": "LA: Aaron Donald (DT) — OUT, Soreness [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; LA: Josaiah Stewart (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; LA: Jaylen Watson (CB) — OUT, Dislocated [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; LA: Colby Parkinson (TE) — QUESTIONABLE, Sprain [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; PHI: DeVonta Smith (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; PHI: Fred Johnson (OT) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; PHI: Marcus Epps (S) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; PHI: Zack Baun (LB) — OUT, Concussion [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; PHI: Hollywood Brown (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; PHI: Dallas Goedert (TE) — OUT, Sprain [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység] | Beépített modellhatás: 0.17 pont, alacsonyabb total felé.",
+            "impact": -0.23,
+            "detail": "LA: Aaron Donald (DT) — OUT, Soreness [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; LA: Josaiah Stewart (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; LA: Jaylen Watson (CB) — OUT, Dislocated [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; LA: Colby Parkinson (TE) — QUESTIONABLE, Sprain [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; PHI: Lane Johnson (OT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; PHI: DeVonta Smith (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; PHI: Fred Johnson (OT) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; PHI: Marcus Epps (S) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; PHI: Zack Baun (LB) — OUT, Concussion [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; PHI: Hollywood Brown (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; PHI: Dallas Goedert (TE) — OUT, Sprain [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység] | Beépített modellhatás: 0.23 pont, alacsonyabb total felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           }
@@ -2700,22 +2700,22 @@
         "underRisk": 42.5
       },
       "forecast": {
-        "homeMargin": -2.07,
+        "homeMargin": -2.26,
         "rawHomeMargin": 0.21,
         "marketHomeMargin": -3.5,
-        "spreadEdge": 1.43,
-        "total": 43.3,
+        "spreadEdge": 1.24,
+        "total": 43.24,
         "rawTotal": 43.94,
         "marketTotal": 42.5,
-        "totalEdge": 0.8,
+        "totalEdge": 0.74,
         "leagueTotalPrior": 45.82,
         "sampleReliability": 0.5,
         "spreadThreshold": 2.0,
         "totalThreshold": 3.0,
         "baseHomeMargin": -0.81,
         "baseTotal": 43.47,
-        "injurySpreadAdjustment": -1.26,
-        "injuryTotalAdjustment": -0.17,
+        "injurySpreadAdjustment": -1.45,
+        "injuryTotalAdjustment": -0.23,
         "injuryApplied": true
       },
       "market": {
@@ -2726,10 +2726,10 @@
         "home_moneyline": 164.0
       },
       "injuryImpact": {
-        "spreadAdjustment": -1.26,
-        "totalAdjustment": -0.17,
+        "spreadAdjustment": -1.45,
+        "totalAdjustment": -0.23,
         "awayBurden": 0.78,
-        "homeBurden": 2.03,
+        "homeBurden": 2.22,
         "keyDrivers": [
           "Jaylen Watson OUT: 0.35 pt",
           "DeVonta Smith OUT: 0.35 pt",
@@ -2821,6 +2821,16 @@
           "importance": "KÖZEPES",
           "modelPoints": 0.25,
           "consequence": "biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység"
+        },
+        {
+          "team": "PHI",
+          "name": "Lane Johnson",
+          "position": "OT",
+          "status": "QUESTIONABLE",
+          "injury": "Not Specified",
+          "importance": "KIS",
+          "modelPoints": 0.19,
+          "consequence": "kérdéses; lehetséges hatás: pass protection és futásblokkolás"
         },
         {
           "team": "LA",
@@ -3051,8 +3061,8 @@
         "spread_line": -3.0,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 38.5,
-        "away_moneyline": -170.0,
-        "home_moneyline": 142.0
+        "away_moneyline": -175.0,
+        "home_moneyline": 145.0
       },
       "injuryImpact": {
         "spreadAdjustment": -0.32,
@@ -4399,7 +4409,7 @@
         "kind": "MONEYLINE",
         "label": "CAR",
         "confidence": 55,
-        "updated": "2026-10-04T14:33:12.556797+00:00",
+        "updated": "2026-10-04T15:11:37.968533+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -4457,7 +4467,7 @@
         "kind": "SPREAD",
         "label": "CAR +3.5",
         "confidence": 61,
-        "updated": "2026-10-04T14:33:12.556797+00:00",
+        "updated": "2026-10-04T15:11:37.968533+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -4509,7 +4519,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-04T14:33:12.556797+00:00",
+        "updated": "2026-10-04T15:11:37.968533+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -4696,7 +4706,7 @@
         "kind": "MONEYLINE",
         "label": "NO",
         "confidence": 56,
-        "updated": "2026-10-04T14:33:12.556797+00:00",
+        "updated": "2026-10-04T15:11:37.968533+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -4754,7 +4764,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-04T14:33:12.556797+00:00",
+        "updated": "2026-10-04T15:11:37.968533+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -4806,7 +4816,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-04T14:33:12.556797+00:00",
+        "updated": "2026-10-04T15:11:37.968533+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
