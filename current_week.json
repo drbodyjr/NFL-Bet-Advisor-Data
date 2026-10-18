@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 6,
-  "updatedAt": "2026-10-18T19:28:13.946059+00:00",
+  "updatedAt": "2026-10-18T20:46:04.404266+00:00",
   "dataStatus": "HISTORICAL_MARKET_V4",
   "games": [
     {
@@ -435,9 +435,9 @@
       "away": "CHI",
       "home": "ATL",
       "venue": "Mercedes-Benz Stadium",
-      "state": "UPCOMING",
-      "awayScore": null,
-      "homeScore": null,
+      "state": "FINAL",
+      "awayScore": 31,
+      "homeScore": 23,
       "moneyline": {
         "kind": "MONEYLINE",
         "label": "ATL",
@@ -650,9 +650,9 @@
       "away": "BAL",
       "home": "CLE",
       "venue": "Huntington Bank Field",
-      "state": "UPCOMING",
-      "awayScore": null,
-      "homeScore": null,
+      "state": "FINAL",
+      "awayScore": 10,
+      "homeScore": 13,
       "moneyline": {
         "kind": "MONEYLINE",
         "label": "BAL",
@@ -865,9 +865,9 @@
       "away": "TEN",
       "home": "IND",
       "venue": "Lucas Oil Stadium",
-      "state": "UPCOMING",
-      "awayScore": null,
-      "homeScore": null,
+      "state": "FINAL",
+      "awayScore": 26,
+      "homeScore": 20,
       "moneyline": {
         "kind": "MONEYLINE",
         "label": "IND",
@@ -1080,9 +1080,9 @@
       "away": "NYJ",
       "home": "NE",
       "venue": "Gillette Stadium",
-      "state": "UPCOMING",
-      "awayScore": null,
-      "homeScore": null,
+      "state": "FINAL",
+      "awayScore": 19,
+      "homeScore": 26,
       "moneyline": {
         "kind": "MONEYLINE",
         "label": "NE",
@@ -1295,9 +1295,9 @@
       "away": "NO",
       "home": "NYG",
       "venue": "MetLife Stadium",
-      "state": "UPCOMING",
-      "awayScore": null,
-      "homeScore": null,
+      "state": "FINAL",
+      "awayScore": 34,
+      "homeScore": 27,
       "moneyline": {
         "kind": "MONEYLINE",
         "label": "NYG",
@@ -1510,9 +1510,9 @@
       "away": "CAR",
       "home": "PHI",
       "venue": "Lincoln Financial Field",
-      "state": "UPCOMING",
-      "awayScore": null,
-      "homeScore": null,
+      "state": "FINAL",
+      "awayScore": 25,
+      "homeScore": 14,
       "moneyline": {
         "kind": "MONEYLINE",
         "label": "CAR",
@@ -2156,162 +2156,9 @@
         "spread_line": 12.5,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 51.5,
-        "away_moneyline": 525.0,
-        "home_moneyline": -750.0
-      },
-      "injuryImpact": {
-        "spreadAdjustment": -0.13,
-        "totalAdjustment": -0.17,
-        "awayBurden": 2.22,
-        "homeBurden": 2.35,
-        "keyDrivers": [
-          "Carson Beck OUT: 0.60 pt",
-          "Starling Thomas V OUT: 0.35 pt",
-          "Ty Simpson OUT: 0.60 pt",
-          "Trent McDuffie OUT: 0.35 pt",
-          "Tutu Atwell OUT: 0.35 pt",
-          "Larrell Murchison OUT: 0.35 pt",
-          "Bill Murray OUT: 0.35 pt",
-          "CJ Daniels OUT: 0.35 pt"
-        ],
-        "model": "provisional-injury-impact-v1.1-depth-role",
-        "calibrated": false,
-        "dataAvailable": true,
-        "appliedToForecast": true
-      },
-      "injuries": [
-        {
-          "team": "ARI",
-          "name": "Carson Beck",
-          "position": "QB",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "NAGY",
-          "modelPoints": 0.6,
-          "consequence": "biztos hiányzó; lehetséges hatás: irányító/passing offense"
-        },
-        {
-          "team": "LA",
-          "name": "Ty Simpson",
-          "position": "QB",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "NAGY",
-          "modelPoints": 0.6,
-          "consequence": "biztos hiányzó; lehetséges hatás: irányító/passing offense"
-        },
-        {
-          "team": "ARI",
-          "name": "Starling Thomas V",
-          "position": "CB",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.35,
-          "consequence": "biztos hiányzó; lehetséges hatás: passzvédekezés/coverage"
-        },
-        {
-          "team": "LA",
-          "name": "Trent McDuffie",
-          "position": "CB",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.35,
-          "consequence": "biztos hiányzó; lehetséges hatás: passzvédekezés/coverage"
-        },
-        {
-          "team": "LA",
-          "name": "Tutu Atwell",
-          "position": "WR",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.35,
-          "consequence": "biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység"
-        },
-        {
-          "team": "LA",
-          "name": "Larrell Murchison",
-          "position": "DE",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.35,
-          "consequence": "biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés"
-        },
-        {
-          "team": "LA",
-          "name": "Bill Murray",
-          "position": "G",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.35,
-          "consequence": "biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás"
-        },
-        {
-          "team": "LA",
-          "name": "CJ Daniels",
-          "position": "WR",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.35,
-          "consequence": "biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység"
-        },
-        {
-          "team": "ARI",
-          "name": "Wydett Williams Jr.",
-          "position": "S",
-          "status": "OUT",
-          "injury": "Concussion",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.28,
-          "consequence": "biztos hiányzó; lehetséges hatás: passzvédekezés/coverage"
-        },
-        {
-          "team": "ARI",
-          "name": "Andrew Wingard",
-          "position": "S",
-          "status": "OUT",
-          "injury": "Bruise",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.28,
-          "consequence": "biztos hiányzó; lehetséges hatás: passzvédekezés/coverage"
-        },
-        {
-          "team": "ARI",
-          "name": "Jerrick Reed II",
-          "position": "S",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.28,
-          "consequence": "biztos hiányzó; lehetséges hatás: passzvédekezés/coverage"
-        },
-        {
-          "team": "ARI",
-          "name": "Andrew Billings",
-          "position": "DT",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.25,
-          "consequence": "biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés"
-        },
-        {
-          "team": "ARI",
-          "name": "Jeremiyah Love",
-          "position": "RB",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KIS",
-          "modelPoints": 0.18,
-          "consequence": "biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection"
-        }
-      ],
-      "injurySource": "ESPN core injury feed"
+        "away_moneyline": 500.0,
+        "home_moneyline": -700.0
+      }
     },
     {
       "id": "2026_06_LAC_KC",
@@ -2537,172 +2384,9 @@
         "spread_line": 7.5,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 41.5,
-        "away_moneyline": 330.0,
-        "home_moneyline": -425.0
-      },
-      "injuryImpact": {
-        "spreadAdjustment": -0.42,
-        "totalAdjustment": -0.55,
-        "awayBurden": 2.48,
-        "homeBurden": 2.9,
-        "keyDrivers": [
-          "Rodney Shelley OUT: 0.35 pt",
-          "Tre' Harris OUT: 0.35 pt",
-          "Donte Jackson OUT: 0.35 pt",
-          "Kayode Awosika OUT: 0.35 pt",
-          "Joe Alt OUT: 0.55 pt",
-          "Josh Simmons OUT: 0.55 pt",
-          "Garrett Nussmeier OUT: 0.60 pt",
-          "Diego Pounds OUT: 0.55 pt"
-        ],
-        "model": "provisional-injury-impact-v1.1-depth-role",
-        "calibrated": false,
-        "dataAvailable": true,
-        "appliedToForecast": true
-      },
-      "injuries": [
-        {
-          "team": "KC",
-          "name": "Garrett Nussmeier",
-          "position": "QB",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "NAGY",
-          "modelPoints": 0.6,
-          "consequence": "biztos hiányzó; lehetséges hatás: irányító/passing offense"
-        },
-        {
-          "team": "LAC",
-          "name": "Joe Alt",
-          "position": "OT",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.55,
-          "consequence": "biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás"
-        },
-        {
-          "team": "KC",
-          "name": "Josh Simmons",
-          "position": "OT",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.55,
-          "consequence": "biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás"
-        },
-        {
-          "team": "KC",
-          "name": "Diego Pounds",
-          "position": "OT",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.55,
-          "consequence": "biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás"
-        },
-        {
-          "team": "LAC",
-          "name": "Rodney Shelley",
-          "position": "CB",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.35,
-          "consequence": "biztos hiányzó; lehetséges hatás: passzvédekezés/coverage"
-        },
-        {
-          "team": "LAC",
-          "name": "Tre' Harris",
-          "position": "WR",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.35,
-          "consequence": "biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység"
-        },
-        {
-          "team": "LAC",
-          "name": "Donte Jackson",
-          "position": "CB",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.35,
-          "consequence": "biztos hiányzó; lehetséges hatás: passzvédekezés/coverage"
-        },
-        {
-          "team": "LAC",
-          "name": "Kayode Awosika",
-          "position": "G",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.35,
-          "consequence": "biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás"
-        },
-        {
-          "team": "KC",
-          "name": "Rashee Rice",
-          "position": "WR",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.35,
-          "consequence": "biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység"
-        },
-        {
-          "team": "KC",
-          "name": "Jadon Canady",
-          "position": "CB",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.35,
-          "consequence": "biztos hiányzó; lehetséges hatás: passzvédekezés/coverage"
-        },
-        {
-          "team": "LAC",
-          "name": "Derwin James Jr.",
-          "position": "S",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.28,
-          "consequence": "biztos hiányzó; lehetséges hatás: passzvédekezés/coverage"
-        },
-        {
-          "team": "LAC",
-          "name": "Bud Dupree",
-          "position": "LB",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.25,
-          "consequence": "biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés"
-        },
-        {
-          "team": "KC",
-          "name": "Jared Wiley",
-          "position": "TE",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.25,
-          "consequence": "biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység"
-        },
-        {
-          "team": "KC",
-          "name": "Jack Pyburn",
-          "position": "LB",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.25,
-          "consequence": "biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés"
-        }
-      ],
-      "injurySource": "ESPN core injury feed"
+        "away_moneyline": 350.0,
+        "home_moneyline": -455.0
+      }
     },
     {
       "id": "2026_06_BUF_LV",
@@ -2930,139 +2614,7 @@
         "total_line": 53.5,
         "away_moneyline": -238.0,
         "home_moneyline": 195.0
-      },
-      "injuryImpact": {
-        "spreadAdjustment": -0.26,
-        "totalAdjustment": -0.23,
-        "awayBurden": 1.85,
-        "homeBurden": 2.11,
-        "keyDrivers": [
-          "Ar'maj Reed-Adams OUT: 0.35 pt",
-          "Mike Danna OUT: 0.35 pt",
-          "Jude Bowry OUT: 0.55 pt",
-          "DJ Moore OUT: 0.35 pt",
-          "Aidan O'Connell OUT: 0.60 pt",
-          "Cian Slone OUT: 0.35 pt",
-          "Bryce Cabeldue OUT: 0.35 pt"
-        ],
-        "model": "provisional-injury-impact-v1.1-depth-role",
-        "calibrated": false,
-        "dataAvailable": true,
-        "appliedToForecast": true
-      },
-      "injuries": [
-        {
-          "team": "LV",
-          "name": "Aidan O'Connell",
-          "position": "QB",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "NAGY",
-          "modelPoints": 0.6,
-          "consequence": "biztos hiányzó; lehetséges hatás: irányító/passing offense"
-        },
-        {
-          "team": "BUF",
-          "name": "Jude Bowry",
-          "position": "OT",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.55,
-          "consequence": "biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás"
-        },
-        {
-          "team": "BUF",
-          "name": "Ar'maj Reed-Adams",
-          "position": "G",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.35,
-          "consequence": "biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás"
-        },
-        {
-          "team": "BUF",
-          "name": "Mike Danna",
-          "position": "DE",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.35,
-          "consequence": "biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés"
-        },
-        {
-          "team": "BUF",
-          "name": "DJ Moore",
-          "position": "WR",
-          "status": "OUT",
-          "injury": "Sprain",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.35,
-          "consequence": "biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység"
-        },
-        {
-          "team": "LV",
-          "name": "Cian Slone",
-          "position": "DE",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.35,
-          "consequence": "biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés"
-        },
-        {
-          "team": "LV",
-          "name": "Bryce Cabeldue",
-          "position": "G",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.35,
-          "consequence": "biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás"
-        },
-        {
-          "team": "LV",
-          "name": "Tristin McCollum",
-          "position": "S",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.28,
-          "consequence": "biztos hiányzó; lehetséges hatás: passzvédekezés/coverage"
-        },
-        {
-          "team": "LV",
-          "name": "Dalton Johnson",
-          "position": "S",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.28,
-          "consequence": "biztos hiányzó; lehetséges hatás: passzvédekezés/coverage"
-        },
-        {
-          "team": "BUF",
-          "name": "Ed Oliver",
-          "position": "DT",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.25,
-          "consequence": "biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés"
-        },
-        {
-          "team": "LV",
-          "name": "Tonka Hemingway",
-          "position": "DT",
-          "status": "OUT",
-          "injury": "Concussion",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.25,
-          "consequence": "biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés"
-        }
-      ],
-      "injurySource": "ESPN core injury feed"
+      }
     },
     {
       "id": "2026_06_DAL_GB",
@@ -3077,7 +2629,7 @@
         "kind": "MONEYLINE",
         "label": "GB",
         "confidence": 57,
-        "updated": "2026-10-18T19:28:13.946059+00:00",
+        "updated": "2026-10-18T20:46:04.404266+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3135,7 +2687,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-18T19:28:13.946059+00:00",
+        "updated": "2026-10-18T20:46:04.404266+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3187,13 +2739,13 @@
         "kind": "UNDER",
         "label": "Under 53.5",
         "confidence": 56,
-        "updated": "2026-10-18T19:28:13.946059+00:00",
+        "updated": "2026-10-18T20:46:04.404266+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált total 51.4 (alap 51.2, sérülési korrekció +0.26), referencia 53.5; edge -2.1."
+            "detail": "Sérülésekkel korrigált total 51.4 (alap 51.1, sérülési korrekció +0.26), referencia 53.5; edge -2.1."
           },
           {
             "title": "2026-os szezon",
@@ -3252,25 +2804,25 @@
         "rawHomeMargin": 1.33,
         "marketHomeMargin": 1.5,
         "spreadEdge": -0.35,
-        "total": 51.42,
-        "rawTotal": 48.31,
+        "total": 51.4,
+        "rawTotal": 48.26,
         "marketTotal": 53.5,
-        "totalEdge": -2.08,
-        "leagueTotalPrior": 46.67,
+        "totalEdge": -2.1,
+        "leagueTotalPrior": 46.53,
         "sampleReliability": 0.833,
         "spreadThreshold": 2.0,
         "totalThreshold": 2.0,
         "modelVersion": "v4-historical-market",
         "totalSigma": 13.45,
         "totalMarketWeight": 0.55,
-        "expectedHomePoints": 24.04,
-        "expectedAwayPoints": 24.28,
+        "expectedHomePoints": 24.01,
+        "expectedAwayPoints": 24.25,
         "historicalGamesHome": 8,
         "historicalGamesAway": 8,
-        "overProbability": 0.4385,
-        "underProbability": 0.5615,
-        "overFairOdds": 2.28,
-        "underFairOdds": 1.781,
+        "overProbability": 0.438,
+        "underProbability": 0.562,
+        "overFairOdds": 2.283,
+        "underFairOdds": 1.779,
         "moneylineProbabilities": {
           "modelHome": 0.5405,
           "modelAway": 0.4595,
@@ -3279,7 +2831,7 @@
           "homeProbabilityEdge": 0.0361
         },
         "baseHomeMargin": 1.37,
-        "baseTotal": 51.16,
+        "baseTotal": 51.14,
         "injurySpreadAdjustment": -0.22,
         "injuryTotalAdjustment": 0.26,
         "injuryApplied": true
@@ -3474,7 +3026,7 @@
         "kind": "MONEYLINE",
         "label": "SF",
         "confidence": 67,
-        "updated": "2026-10-18T19:28:13.946059+00:00",
+        "updated": "2026-10-18T20:46:04.404266+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3532,7 +3084,7 @@
         "kind": "SPREAD",
         "label": "SF -7.5",
         "confidence": 60,
-        "updated": "2026-10-18T19:28:13.946059+00:00",
+        "updated": "2026-10-18T20:46:04.404266+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3584,13 +3136,13 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-18T19:28:13.946059+00:00",
+        "updated": "2026-10-18T20:46:04.404266+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált total 51.2 (alap 51.2, sérülési korrekció +0.07), referencia 52.5; eltérés -1.2, ami nem éri el a 2.0 pontos küszöböt."
+            "detail": "Sérülésekkel korrigált total 51.2 (alap 51.2, sérülési korrekció +0.07), referencia 52.5; eltérés -1.3, ami nem éri el a 2.0 pontos küszöböt."
           },
           {
             "title": "2026-os szezon",
@@ -3649,25 +3201,25 @@
         "rawHomeMargin": 10.12,
         "marketHomeMargin": 7.5,
         "spreadEdge": 2.25,
-        "total": 51.25,
-        "rawTotal": 49.57,
+        "total": 51.23,
+        "rawTotal": 49.52,
         "marketTotal": 52.5,
-        "totalEdge": -1.25,
-        "leagueTotalPrior": 46.67,
+        "totalEdge": -1.27,
+        "leagueTotalPrior": 46.53,
         "sampleReliability": 0.833,
         "spreadThreshold": 2.0,
         "totalThreshold": 2.0,
         "modelVersion": "v4-historical-market",
         "totalSigma": 13.45,
         "totalMarketWeight": 0.55,
-        "expectedHomePoints": 27.79,
-        "expectedAwayPoints": 21.78,
+        "expectedHomePoints": 27.76,
+        "expectedAwayPoints": 21.75,
         "historicalGamesHome": 8,
         "historicalGamesAway": 8,
-        "overProbability": 0.463,
-        "underProbability": 0.537,
-        "overFairOdds": 2.16,
-        "underFairOdds": 1.862,
+        "overProbability": 0.4624,
+        "underProbability": 0.5376,
+        "overFairOdds": 2.163,
+        "underFairOdds": 1.86,
         "moneylineProbabilities": {
           "modelHome": 0.7599,
           "modelAway": 0.2401,
@@ -3676,7 +3228,7 @@
           "homeProbabilityEdge": -0.0268
         },
         "baseHomeMargin": 9.53,
-        "baseTotal": 51.18,
+        "baseTotal": 51.16,
         "injurySpreadAdjustment": 0.22,
         "injuryTotalAdjustment": 0.07,
         "injuryApplied": true
