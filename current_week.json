@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 6,
-  "updatedAt": "2026-10-19T04:35:26.898325+00:00",
+  "updatedAt": "2026-10-19T10:53:39.959390+00:00",
   "dataStatus": "HISTORICAL_MARKET_V4",
   "games": [
     {
@@ -2696,7 +2696,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: clear night 12.43°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: clear night 13.16°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -2749,7 +2749,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: clear night 12.43°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: clear night 13.16°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -2808,7 +2808,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: clear night 12.43°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: clear night 13.16°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -2879,7 +2879,7 @@
         "kind": "MONEYLINE",
         "label": "SF",
         "confidence": 67,
-        "updated": "2026-10-19T04:35:26.898325+00:00",
+        "updated": "2026-10-19T10:53:39.959390+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2937,7 +2937,7 @@
         "kind": "SPREAD",
         "label": "SF -7.5",
         "confidence": 60,
-        "updated": "2026-10-19T04:35:26.898325+00:00",
+        "updated": "2026-10-19T10:53:39.959390+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2989,13 +2989,13 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-19T04:35:26.898325+00:00",
+        "updated": "2026-10-19T10:53:39.959390+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált total 51.2 (alap 51.1, sérülési korrekció +0.07), referencia 52.5; eltérés -1.3, ami nem éri el a 2.0 pontos küszöböt."
+            "detail": "Sérülésekkel korrigált total 50.6 (alap 50.6, sérülési korrekció +0.07), referencia 51.5; eltérés -0.9, ami nem éri el a 2.0 pontos küszöböt."
           },
           {
             "title": "2026-os szezon",
@@ -3044,20 +3044,20 @@
         ]
       },
       "totalTests": {
-        "overSafe": 49.5,
-        "overRisk": 52.5,
-        "underSafe": 55.5,
-        "underRisk": 52.5
+        "overSafe": 48.5,
+        "overRisk": 51.5,
+        "underSafe": 54.5,
+        "underRisk": 51.5
       },
       "forecast": {
         "homeMargin": 9.75,
         "rawHomeMargin": 10.12,
         "marketHomeMargin": 7.5,
         "spreadEdge": 2.25,
-        "total": 51.18,
+        "total": 50.63,
         "rawTotal": 49.41,
-        "marketTotal": 52.5,
-        "totalEdge": -1.32,
+        "marketTotal": 51.5,
+        "totalEdge": -0.87,
         "leagueTotalPrior": 46.24,
         "sampleReliability": 0.833,
         "spreadThreshold": 2.0,
@@ -3069,10 +3069,10 @@
         "expectedAwayPoints": 21.7,
         "historicalGamesHome": 8,
         "historicalGamesAway": 8,
-        "overProbability": 0.4607,
-        "underProbability": 0.5393,
-        "overFairOdds": 2.17,
-        "underFairOdds": 1.854,
+        "overProbability": 0.4741,
+        "underProbability": 0.5259,
+        "overFairOdds": 2.109,
+        "underFairOdds": 1.901,
         "moneylineProbabilities": {
           "modelHome": 0.7599,
           "modelAway": 0.2401,
@@ -3081,7 +3081,7 @@
           "homeProbabilityEdge": -0.0268
         },
         "baseHomeMargin": 9.53,
-        "baseTotal": 51.11,
+        "baseTotal": 50.56,
         "injurySpreadAdjustment": 0.22,
         "injuryTotalAdjustment": 0.07,
         "injuryApplied": true
@@ -3089,7 +3089,7 @@
       "market": {
         "spread_line": 7.5,
         "spread_convention": "nflverse_signed_home_margin",
-        "total_line": 52.5,
+        "total_line": 51.5,
         "away_moneyline": 350.0,
         "home_moneyline": -455.0
       },
