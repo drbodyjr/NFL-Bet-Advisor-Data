@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 6,
-  "updatedAt": "2026-10-19T10:53:39.959390+00:00",
+  "updatedAt": "2026-10-19T17:33:43.692440+00:00",
   "dataStatus": "HISTORICAL_MARKET_V4",
   "games": [
     {
@@ -2879,13 +2879,13 @@
         "kind": "MONEYLINE",
         "label": "SF",
         "confidence": 67,
-        "updated": "2026-10-19T10:53:39.959390+00:00",
+        "updated": "2026-10-19T17:33:43.692440+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség +9.8 (alap +9.5, sérülési korrekció +0.22)."
+            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség +9.7 (alap +9.5, sérülési korrekció +0.13)."
           },
           {
             "title": "2026-os szezon",
@@ -2926,8 +2926,8 @@
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
-            "impact": 0.22,
-            "detail": "WAS: Javontae Jean-Baptiste (LB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; WAS: Charles Omenihu (DE) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; WAS: Stefon Diggs (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; WAS: Nick Cross (S) — QUESTIONABLE, Illness [kérdéses; lehetséges hatás: passzvédekezés/coverage]; WAS: Marcus Mariota (QB) — OUT, Sprain [biztos hiányzó; lehetséges hatás: irányító/passing offense]; WAS: Jacory Croskey-Merritt (RB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection]; WAS: Lucas Patrick (G) — QUESTIONABLE, Illness [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; WAS: Javon Kinlaw (DT) — QUESTIONABLE, Ankle [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; WAS: Tyler Owens (S) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; WAS: Percy Butler (S) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; SF: Mykel Williams (DE) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SF: Upton Stout (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; SF: Marques Sigle (S) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; SF: Nick Bosa (DE) — OUT, Strain [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; SF: Mike Evans (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; SF: Siran Neal (S) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; SF: Gracen Halton (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SF: Deebo Samuel Sr. (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység] | Beépített modellhatás: 0.22 pont, hazai oldal felé.",
+            "impact": 0.13,
+            "detail": "WAS: Javontae Jean-Baptiste (LB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; WAS: Charles Omenihu (DE) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; WAS: Stefon Diggs (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; WAS: Nick Cross (S) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; WAS: Marcus Mariota (QB) — OUT, Sprain [biztos hiányzó; lehetséges hatás: irányító/passing offense]; WAS: Jacory Croskey-Merritt (RB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection]; WAS: Lucas Patrick (G) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; WAS: Javon Kinlaw (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; WAS: Tyler Owens (S) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; SF: Mike Evans (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; SF: Mykel Williams (DE) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SF: Upton Stout (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; SF: Marques Sigle (S) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; SF: Nick Bosa (DE) — OUT, Strain [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; SF: Siran Neal (S) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; SF: Gracen Halton (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SF: Deebo Samuel Sr. (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; SF: Garret Wallow (LB) — OUT, Strain [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 0.13 pont, hazai oldal felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           }
@@ -2937,13 +2937,13 @@
         "kind": "SPREAD",
         "label": "SF -7.5",
         "confidence": 60,
-        "updated": "2026-10-19T10:53:39.959390+00:00",
+        "updated": "2026-10-19T17:33:43.692440+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált hazai margin +9.8 (alap +9.5, sérülési korrekció +0.22), piaci margin +7.5; edge +2.2."
+            "detail": "Sérülésekkel korrigált hazai margin +9.7 (alap +9.5, sérülési korrekció +0.13), piaci margin +7.5; edge +2.2."
           },
           {
             "title": "2026-os szezon",
@@ -2978,8 +2978,8 @@
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
-            "impact": 0.22,
-            "detail": "WAS: Javontae Jean-Baptiste (LB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; WAS: Charles Omenihu (DE) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; WAS: Stefon Diggs (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; WAS: Nick Cross (S) — QUESTIONABLE, Illness [kérdéses; lehetséges hatás: passzvédekezés/coverage]; WAS: Marcus Mariota (QB) — OUT, Sprain [biztos hiányzó; lehetséges hatás: irányító/passing offense]; WAS: Jacory Croskey-Merritt (RB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection]; WAS: Lucas Patrick (G) — QUESTIONABLE, Illness [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; WAS: Javon Kinlaw (DT) — QUESTIONABLE, Ankle [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; WAS: Tyler Owens (S) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; WAS: Percy Butler (S) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; SF: Mykel Williams (DE) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SF: Upton Stout (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; SF: Marques Sigle (S) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; SF: Nick Bosa (DE) — OUT, Strain [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; SF: Mike Evans (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; SF: Siran Neal (S) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; SF: Gracen Halton (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SF: Deebo Samuel Sr. (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység] | Beépített modellhatás: 0.22 pont, hazai oldal felé.",
+            "impact": 0.13,
+            "detail": "WAS: Javontae Jean-Baptiste (LB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; WAS: Charles Omenihu (DE) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; WAS: Stefon Diggs (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; WAS: Nick Cross (S) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; WAS: Marcus Mariota (QB) — OUT, Sprain [biztos hiányzó; lehetséges hatás: irányító/passing offense]; WAS: Jacory Croskey-Merritt (RB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection]; WAS: Lucas Patrick (G) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; WAS: Javon Kinlaw (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; WAS: Tyler Owens (S) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; SF: Mike Evans (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; SF: Mykel Williams (DE) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SF: Upton Stout (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; SF: Marques Sigle (S) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; SF: Nick Bosa (DE) — OUT, Strain [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; SF: Siran Neal (S) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; SF: Gracen Halton (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SF: Deebo Samuel Sr. (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; SF: Garret Wallow (LB) — OUT, Strain [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 0.13 pont, hazai oldal felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           }
@@ -2989,13 +2989,13 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-19T10:53:39.959390+00:00",
+        "updated": "2026-10-19T17:33:43.692440+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált total 50.6 (alap 50.6, sérülési korrekció +0.07), referencia 51.5; eltérés -0.9, ami nem éri el a 2.0 pontos küszöböt."
+            "detail": "Sérülésekkel korrigált total 50.6 (alap 50.6, sérülési korrekció +0.04), referencia 51.5; eltérés -0.9, ami nem éri el a 2.0 pontos küszöböt."
           },
           {
             "title": "2026-os szezon",
@@ -3036,8 +3036,8 @@
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
-            "impact": 0.07,
-            "detail": "WAS: Javontae Jean-Baptiste (LB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; WAS: Charles Omenihu (DE) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; WAS: Stefon Diggs (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; WAS: Nick Cross (S) — QUESTIONABLE, Illness [kérdéses; lehetséges hatás: passzvédekezés/coverage]; WAS: Marcus Mariota (QB) — OUT, Sprain [biztos hiányzó; lehetséges hatás: irányító/passing offense]; WAS: Jacory Croskey-Merritt (RB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection]; WAS: Lucas Patrick (G) — QUESTIONABLE, Illness [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; WAS: Javon Kinlaw (DT) — QUESTIONABLE, Ankle [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; WAS: Tyler Owens (S) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; WAS: Percy Butler (S) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; SF: Mykel Williams (DE) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SF: Upton Stout (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; SF: Marques Sigle (S) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; SF: Nick Bosa (DE) — OUT, Strain [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; SF: Mike Evans (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; SF: Siran Neal (S) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; SF: Gracen Halton (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SF: Deebo Samuel Sr. (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység] | Beépített modellhatás: 0.07 pont, magasabb total felé.",
+            "impact": 0.04,
+            "detail": "WAS: Javontae Jean-Baptiste (LB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; WAS: Charles Omenihu (DE) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; WAS: Stefon Diggs (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; WAS: Nick Cross (S) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; WAS: Marcus Mariota (QB) — OUT, Sprain [biztos hiányzó; lehetséges hatás: irányító/passing offense]; WAS: Jacory Croskey-Merritt (RB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection]; WAS: Lucas Patrick (G) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; WAS: Javon Kinlaw (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; WAS: Tyler Owens (S) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; SF: Mike Evans (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; SF: Mykel Williams (DE) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SF: Upton Stout (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; SF: Marques Sigle (S) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; SF: Nick Bosa (DE) — OUT, Strain [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; SF: Siran Neal (S) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; SF: Gracen Halton (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SF: Deebo Samuel Sr. (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; SF: Garret Wallow (LB) — OUT, Strain [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 0.04 pont, magasabb total felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           }
@@ -3050,14 +3050,14 @@
         "underRisk": 51.5
       },
       "forecast": {
-        "homeMargin": 9.75,
+        "homeMargin": 9.66,
         "rawHomeMargin": 10.12,
         "marketHomeMargin": 7.5,
-        "spreadEdge": 2.25,
-        "total": 50.63,
+        "spreadEdge": 2.16,
+        "total": 50.6,
         "rawTotal": 49.41,
         "marketTotal": 51.5,
-        "totalEdge": -0.87,
+        "totalEdge": -0.9,
         "leagueTotalPrior": 46.24,
         "sampleReliability": 0.833,
         "spreadThreshold": 2.0,
@@ -3069,34 +3069,34 @@
         "expectedAwayPoints": 21.7,
         "historicalGamesHome": 8,
         "historicalGamesAway": 8,
-        "overProbability": 0.4741,
-        "underProbability": 0.5259,
-        "overFairOdds": 2.109,
-        "underFairOdds": 1.901,
+        "overProbability": 0.4732,
+        "underProbability": 0.5268,
+        "overFairOdds": 2.113,
+        "underFairOdds": 1.898,
         "moneylineProbabilities": {
           "modelHome": 0.7599,
           "modelAway": 0.2401,
-          "marketHomeNoVig": 0.7867,
-          "marketAwayNoVig": 0.2133,
-          "homeProbabilityEdge": -0.0268
+          "marketHomeNoVig": 0.7659,
+          "marketAwayNoVig": 0.2341,
+          "homeProbabilityEdge": -0.006
         },
         "baseHomeMargin": 9.53,
         "baseTotal": 50.56,
-        "injurySpreadAdjustment": 0.22,
-        "injuryTotalAdjustment": 0.07,
+        "injurySpreadAdjustment": 0.13,
+        "injuryTotalAdjustment": 0.04,
         "injuryApplied": true
       },
       "market": {
         "spread_line": 7.5,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 51.5,
-        "away_moneyline": 350.0,
-        "home_moneyline": -455.0
+        "away_moneyline": 310.0,
+        "home_moneyline": -395.0
       },
       "injuryImpact": {
-        "spreadAdjustment": 0.22,
-        "totalAdjustment": 0.07,
-        "awayBurden": 2.01,
+        "spreadAdjustment": 0.13,
+        "totalAdjustment": 0.04,
+        "awayBurden": 1.91,
         "homeBurden": 1.78,
         "keyDrivers": [
           "Charles Omenihu OUT: 0.35 pt",
@@ -3205,10 +3205,20 @@
           "name": "Lucas Patrick",
           "position": "G",
           "status": "QUESTIONABLE",
-          "injury": "Illness",
+          "injury": "Not Specified",
           "importance": "KIS",
           "modelPoints": 0.12,
           "consequence": "kérdéses; lehetséges hatás: pass protection és futásblokkolás"
+        },
+        {
+          "team": "SF",
+          "name": "Mike Evans",
+          "position": "WR",
+          "status": "QUESTIONABLE",
+          "injury": "Not Specified",
+          "importance": "KIS",
+          "modelPoints": 0.12,
+          "consequence": "kérdéses; lehetséges hatás: passzjáték és célpontmélység"
         },
         {
           "team": "SF",
@@ -3231,21 +3241,11 @@
           "consequence": "kérdéses; lehetséges hatás: passzvédekezés/coverage"
         },
         {
-          "team": "SF",
-          "name": "Mike Evans",
-          "position": "WR",
-          "status": "QUESTIONABLE",
-          "injury": "Not Specified",
-          "importance": "KIS",
-          "modelPoints": 0.12,
-          "consequence": "kérdéses; lehetséges hatás: passzjáték és célpontmélység"
-        },
-        {
           "team": "WAS",
           "name": "Nick Cross",
           "position": "S",
           "status": "QUESTIONABLE",
-          "injury": "Illness",
+          "injury": "Not Specified",
           "importance": "KIS",
           "modelPoints": 0.1,
           "consequence": "kérdéses; lehetséges hatás: passzvédekezés/coverage"
@@ -3253,16 +3253,6 @@
         {
           "team": "WAS",
           "name": "Tyler Owens",
-          "position": "S",
-          "status": "QUESTIONABLE",
-          "injury": "Not Specified",
-          "importance": "KIS",
-          "modelPoints": 0.1,
-          "consequence": "kérdéses; lehetséges hatás: passzvédekezés/coverage"
-        },
-        {
-          "team": "WAS",
-          "name": "Percy Butler",
           "position": "S",
           "status": "QUESTIONABLE",
           "injury": "Not Specified",
@@ -3285,7 +3275,7 @@
           "name": "Javon Kinlaw",
           "position": "DT",
           "status": "QUESTIONABLE",
-          "injury": "Ankle",
+          "injury": "Not Specified",
           "importance": "KIS",
           "modelPoints": 0.09,
           "consequence": "kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés"
