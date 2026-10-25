@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 7,
-  "updatedAt": "2026-10-25T01:16:22.760294+00:00",
+  "updatedAt": "2026-10-25T09:53:31.980157+00:00",
   "dataStatus": "HISTORICAL_MARKET_V4",
   "games": [
     {
@@ -245,7 +245,7 @@
         "kind": "MONEYLINE",
         "label": "PIT",
         "confidence": 59,
-        "updated": "2026-10-25T01:16:22.760294+00:00",
+        "updated": "2026-10-25T09:53:31.980157+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -304,7 +304,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-25T01:16:22.760294+00:00",
+        "updated": "2026-10-25T09:53:31.980157+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -357,7 +357,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-25T01:16:22.760294+00:00",
+        "updated": "2026-10-25T09:53:31.980157+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -555,7 +555,7 @@
         "kind": "MONEYLINE",
         "label": "SF",
         "confidence": 62,
-        "updated": "2026-10-25T01:16:22.760294+00:00",
+        "updated": "2026-10-25T09:53:31.980157+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -614,7 +614,7 @@
         "kind": "SPREAD",
         "label": "SF -2.5",
         "confidence": 59,
-        "updated": "2026-10-25T01:16:22.760294+00:00",
+        "updated": "2026-10-25T09:53:31.980157+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -667,7 +667,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-25T01:16:22.760294+00:00",
+        "updated": "2026-10-25T09:53:31.980157+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -755,9 +755,9 @@
         "moneylineProbabilities": {
           "modelHome": 0.3696,
           "modelAway": 0.6304,
-          "marketHomeNoVig": 0.4279,
-          "marketAwayNoVig": 0.5721,
-          "homeProbabilityEdge": -0.0584
+          "marketHomeNoVig": 0.4365,
+          "marketAwayNoVig": 0.5635,
+          "homeProbabilityEdge": -0.0669
         },
         "baseHomeMargin": -4.49,
         "baseTotal": 49.46,
@@ -769,8 +769,8 @@
         "spread_line": -2.5,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 50.5,
-        "away_moneyline": -148.0,
-        "home_moneyline": 124.0
+        "away_moneyline": -142.0,
+        "home_moneyline": 120.0
       },
       "injuryImpact": {
         "spreadAdjustment": 0.48,
@@ -987,7 +987,7 @@
         "kind": "MONEYLINE",
         "label": "CIN",
         "confidence": 57,
-        "updated": "2026-10-25T01:16:22.760294+00:00",
+        "updated": "2026-10-25T09:53:31.980157+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -1046,7 +1046,7 @@
         "kind": "SPREAD",
         "label": "BAL +3.0",
         "confidence": 61,
-        "updated": "2026-10-25T01:16:22.760294+00:00",
+        "updated": "2026-10-25T09:53:31.980157+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -1099,7 +1099,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-25T01:16:22.760294+00:00",
+        "updated": "2026-10-25T09:53:31.980157+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -1187,9 +1187,9 @@
         "moneylineProbabilities": {
           "modelHome": 0.5188,
           "modelAway": 0.4812,
-          "marketHomeNoVig": 0.417,
-          "marketAwayNoVig": 0.583,
-          "homeProbabilityEdge": 0.1017
+          "marketHomeNoVig": 0.4279,
+          "marketAwayNoVig": 0.5721,
+          "homeProbabilityEdge": 0.0908
         },
         "baseHomeMargin": 0.63,
         "baseTotal": 46.8,
@@ -1201,8 +1201,8 @@
         "spread_line": -3.0,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 46.5,
-        "away_moneyline": -155.0,
-        "home_moneyline": 130.0
+        "away_moneyline": -148.0,
+        "home_moneyline": 124.0
       },
       "injuryImpact": {
         "spreadAdjustment": -0.97,
@@ -1266,7 +1266,7 @@
         "kind": "MONEYLINE",
         "label": "CAR",
         "confidence": 62,
-        "updated": "2026-10-25T01:16:22.760294+00:00",
+        "updated": "2026-10-25T09:53:31.980157+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -1325,7 +1325,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-25T01:16:22.760294+00:00",
+        "updated": "2026-10-25T09:53:31.980157+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -1378,7 +1378,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-25T01:16:22.760294+00:00",
+        "updated": "2026-10-25T09:53:31.980157+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -1576,13 +1576,13 @@
         "kind": "MONEYLINE",
         "label": "HOU",
         "confidence": 62,
-        "updated": "2026-10-25T01:16:22.760294+00:00",
+        "updated": "2026-10-25T09:53:31.980157+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség +4.1 (alap +3.9, sérülési korrekció +0.20)."
+            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség +4.2 (alap +4.0, sérülési korrekció +0.20)."
           },
           {
             "title": "2026-os szezon",
@@ -1612,7 +1612,7 @@
             "title": "Piaci referencia",
             "weight": 10,
             "impact": 0,
-            "detail": "A referencia piaci hazai margin +10.0 (hazai handicap -10.0)."
+            "detail": "A referencia piaci hazai margin +10.5 (hazai handicap -10.5)."
           },
           {
             "title": "Sérülések és kezdők",
@@ -1633,15 +1633,15 @@
       },
       "spread": {
         "kind": "SPREAD",
-        "label": "NYG +10.0",
+        "label": "NYG +10.5",
         "confidence": 67,
-        "updated": "2026-10-25T01:16:22.760294+00:00",
+        "updated": "2026-10-25T09:53:31.980157+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált hazai margin +4.1 (alap +3.9, sérülési korrekció +0.20), piaci margin +10.0; edge -5.9."
+            "detail": "Sérülésekkel korrigált hazai margin +4.2 (alap +4.0, sérülési korrekció +0.20), piaci margin +10.5; edge -6.3."
           },
           {
             "title": "2026-os szezon",
@@ -1688,7 +1688,7 @@
         "kind": "OVER",
         "label": "Over 42.5",
         "confidence": 57,
-        "updated": "2026-10-25T01:16:22.760294+00:00",
+        "updated": "2026-10-25T09:53:31.980157+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -1750,10 +1750,10 @@
         "underRisk": 42.5
       },
       "forecast": {
-        "homeMargin": 4.07,
+        "homeMargin": 4.17,
         "rawHomeMargin": 2.33,
-        "marketHomeMargin": 10.0,
-        "spreadEdge": -5.93,
+        "marketHomeMargin": 10.5,
+        "spreadEdge": -6.33,
         "total": 44.58,
         "rawTotal": 46.88,
         "marketTotal": 42.5,
@@ -1774,24 +1774,24 @@
         "overFairOdds": 1.78,
         "underFairOdds": 2.282,
         "moneylineProbabilities": {
-          "modelHome": 0.6127,
-          "modelAway": 0.3873,
-          "marketHomeNoVig": 0.8043,
-          "marketAwayNoVig": 0.1957,
-          "homeProbabilityEdge": -0.1916
+          "modelHome": 0.6155,
+          "modelAway": 0.3845,
+          "marketHomeNoVig": 0.8082,
+          "marketAwayNoVig": 0.1918,
+          "homeProbabilityEdge": -0.1926
         },
-        "baseHomeMargin": 3.87,
+        "baseHomeMargin": 3.97,
         "baseTotal": 44.47,
         "injurySpreadAdjustment": 0.2,
         "injuryTotalAdjustment": 0.11,
         "injuryApplied": true
       },
       "market": {
-        "spread_line": 10.0,
+        "spread_line": 10.5,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 42.5,
-        "away_moneyline": 390.0,
-        "home_moneyline": -520.0
+        "away_moneyline": 400.0,
+        "home_moneyline": -535.0
       },
       "injuryImpact": {
         "spreadAdjustment": 0.2,
@@ -1936,7 +1936,7 @@
         "kind": "MONEYLINE",
         "label": "MIN",
         "confidence": 66,
-        "updated": "2026-10-25T01:16:22.760294+00:00",
+        "updated": "2026-10-25T09:53:31.980157+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -1995,7 +1995,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-25T01:16:22.760294+00:00",
+        "updated": "2026-10-25T09:53:31.980157+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2048,7 +2048,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-25T01:16:22.760294+00:00",
+        "updated": "2026-10-25T09:53:31.980157+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2136,9 +2136,9 @@
         "moneylineProbabilities": {
           "modelHome": 0.6933,
           "modelAway": 0.3067,
-          "marketHomeNoVig": 0.7258,
-          "marketAwayNoVig": 0.2742,
-          "homeProbabilityEdge": -0.0325
+          "marketHomeNoVig": 0.7335,
+          "marketAwayNoVig": 0.2665,
+          "homeProbabilityEdge": -0.0402
         },
         "baseHomeMargin": 6.82,
         "baseTotal": 42.51,
@@ -2150,8 +2150,8 @@
         "spread_line": 6.5,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 41.5,
-        "away_moneyline": 250.0,
-        "home_moneyline": -310.0
+        "away_moneyline": 260.0,
+        "home_moneyline": -325.0
       },
       "injuryImpact": {
         "spreadAdjustment": 1.41,
@@ -2246,7 +2246,7 @@
         "kind": "MONEYLINE",
         "label": "NYJ",
         "confidence": 63,
-        "updated": "2026-10-25T01:16:22.760294+00:00",
+        "updated": "2026-10-25T09:53:31.980157+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2305,7 +2305,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-25T01:16:22.760294+00:00",
+        "updated": "2026-10-25T09:53:31.980157+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2358,7 +2358,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-25T01:16:22.760294+00:00",
+        "updated": "2026-10-25T09:53:31.980157+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2446,9 +2446,9 @@
         "moneylineProbabilities": {
           "modelHome": 0.6702,
           "modelAway": 0.3298,
-          "marketHomeNoVig": 0.6575,
-          "marketAwayNoVig": 0.3425,
-          "homeProbabilityEdge": 0.0127
+          "marketHomeNoVig": 0.6636,
+          "marketAwayNoVig": 0.3364,
+          "homeProbabilityEdge": 0.0065
         },
         "baseHomeMargin": 5.94,
         "baseTotal": 40.86,
@@ -2460,8 +2460,8 @@
         "spread_line": 4.5,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 39.5,
-        "away_moneyline": 180.0,
-        "home_moneyline": -218.0
+        "away_moneyline": 185.0,
+        "home_moneyline": -225.0
       },
       "injuryImpact": {
         "spreadAdjustment": -0.43,
@@ -2576,14 +2576,14 @@
       "moneyline": {
         "kind": "MONEYLINE",
         "label": "CLE",
-        "confidence": 59,
-        "updated": "2026-10-25T01:16:22.760294+00:00",
+        "confidence": 58,
+        "updated": "2026-10-25T09:53:31.980157+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség -1.4 (alap -1.5, sérülési korrekció +0.08)."
+            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség -1.2 (alap -1.3, sérülési korrekció +0.08)."
           },
           {
             "title": "2026-os szezon",
@@ -2613,7 +2613,7 @@
             "title": "Piaci referencia",
             "weight": 10,
             "impact": 0,
-            "detail": "A referencia piaci hazai margin -2.5 (hazai handicap +2.5)."
+            "detail": "A referencia piaci hazai margin -1.5 (hazai handicap +1.5)."
           },
           {
             "title": "Sérülések és kezdők",
@@ -2636,13 +2636,13 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-25T01:16:22.760294+00:00",
+        "updated": "2026-10-25T09:53:31.980157+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált margin -1.4, piaci margin -2.5; edge +1.1, ami nem éri el a 1.5 pontos küszöböt."
+            "detail": "Sérülésekkel korrigált margin -1.2, piaci margin -1.5; edge +0.3, ami nem éri el a 1.5 pontos küszöböt."
           },
           {
             "title": "2026-os szezon",
@@ -2689,7 +2689,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-25T01:16:22.760294+00:00",
+        "updated": "2026-10-25T09:53:31.980157+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2751,10 +2751,10 @@
         "underRisk": 36.5
       },
       "forecast": {
-        "homeMargin": -1.41,
+        "homeMargin": -1.21,
         "rawHomeMargin": -1.24,
-        "marketHomeMargin": -2.5,
-        "spreadEdge": 1.09,
+        "marketHomeMargin": -1.5,
+        "spreadEdge": 0.29,
         "total": 38.24,
         "rawTotal": 40.09,
         "marketTotal": 36.5,
@@ -2775,20 +2775,20 @@
         "overFairOdds": 1.812,
         "underFairOdds": 2.231,
         "moneylineProbabilities": {
-          "modelHome": 0.456,
-          "modelAway": 0.544,
+          "modelHome": 0.4619,
+          "modelAway": 0.5381,
           "marketHomeNoVig": 0.4573,
           "marketAwayNoVig": 0.5427,
-          "homeProbabilityEdge": -0.0012
+          "homeProbabilityEdge": 0.0046
         },
-        "baseHomeMargin": -1.49,
+        "baseHomeMargin": -1.29,
         "baseTotal": 38.12,
         "injurySpreadAdjustment": 0.08,
         "injuryTotalAdjustment": 0.12,
         "injuryApplied": true
       },
       "market": {
-        "spread_line": -2.5,
+        "spread_line": -1.5,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 36.5,
         "away_moneyline": -130.0,
@@ -2894,7 +2894,7 @@
         "kind": "MONEYLINE",
         "label": "DEN",
         "confidence": 62,
-        "updated": "2026-10-25T01:16:22.760294+00:00",
+        "updated": "2026-10-25T09:53:31.980157+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2953,7 +2953,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-25T01:16:22.760294+00:00",
+        "updated": "2026-10-25T09:53:31.980157+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3006,7 +3006,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-25T01:16:22.760294+00:00",
+        "updated": "2026-10-25T09:53:31.980157+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3253,7 +3253,7 @@
         "kind": "MONEYLINE",
         "label": "DET",
         "confidence": 61,
-        "updated": "2026-10-25T01:16:22.760294+00:00",
+        "updated": "2026-10-25T09:53:31.980157+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3312,7 +3312,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-25T01:16:22.760294+00:00",
+        "updated": "2026-10-25T09:53:31.980157+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3363,15 +3363,15 @@
       },
       "total": {
         "kind": "UNDER",
-        "label": "Under 54.5",
+        "label": "Under 55.5",
         "confidence": 57,
-        "updated": "2026-10-25T01:16:22.760294+00:00",
+        "updated": "2026-10-25T09:53:31.980157+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált total 52.3 (alap 52.2, sérülési korrekció +0.12), referencia 54.5; edge -2.2."
+            "detail": "Sérülésekkel korrigált total 52.9 (alap 52.7, sérülési korrekció +0.12), referencia 55.5; edge -2.6."
           },
           {
             "title": "2026-os szezon",
@@ -3421,20 +3421,20 @@
         ]
       },
       "totalTests": {
-        "overSafe": 51.5,
-        "overRisk": 54.5,
-        "underSafe": 57.5,
-        "underRisk": 54.5
+        "overSafe": 52.5,
+        "overRisk": 55.5,
+        "underSafe": 58.5,
+        "underRisk": 55.5
       },
       "forecast": {
         "homeMargin": 3.74,
         "rawHomeMargin": 2.51,
         "marketHomeMargin": 3.5,
         "spreadEdge": 0.24,
-        "total": 52.31,
+        "total": 52.86,
         "rawTotal": 49.37,
-        "marketTotal": 54.5,
-        "totalEdge": -2.19,
+        "marketTotal": 55.5,
+        "totalEdge": -2.64,
         "leagueTotalPrior": 46.26,
         "sampleReliability": 0.917,
         "spreadThreshold": 2.0,
@@ -3446,10 +3446,10 @@
         "expectedAwayPoints": 24.27,
         "historicalGamesHome": 8,
         "historicalGamesAway": 8,
-        "overProbability": 0.435,
-        "underProbability": 0.565,
-        "overFairOdds": 2.299,
-        "underFairOdds": 1.77,
+        "overProbability": 0.4218,
+        "underProbability": 0.5782,
+        "overFairOdds": 2.371,
+        "underFairOdds": 1.729,
         "moneylineProbabilities": {
           "modelHome": 0.5799,
           "modelAway": 0.4201,
@@ -3458,7 +3458,7 @@
           "homeProbabilityEdge": -0.0426
         },
         "baseHomeMargin": 2.72,
-        "baseTotal": 52.19,
+        "baseTotal": 52.74,
         "injurySpreadAdjustment": 1.02,
         "injuryTotalAdjustment": 0.12,
         "injuryApplied": true
@@ -3466,7 +3466,7 @@
       "market": {
         "spread_line": 3.5,
         "spread_convention": "nflverse_signed_home_margin",
-        "total_line": 54.5,
+        "total_line": 55.5,
         "away_moneyline": 154.0,
         "home_moneyline": -185.0
       },
@@ -3582,7 +3582,7 @@
         "kind": "MONEYLINE",
         "label": "LV",
         "confidence": 58,
-        "updated": "2026-10-25T01:16:22.760294+00:00",
+        "updated": "2026-10-25T09:53:31.980157+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3641,7 +3641,7 @@
         "kind": "SPREAD",
         "label": "LV +3.0",
         "confidence": 63,
-        "updated": "2026-10-25T01:16:22.760294+00:00",
+        "updated": "2026-10-25T09:53:31.980157+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3694,7 +3694,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-25T01:16:22.760294+00:00",
+        "updated": "2026-10-25T09:53:31.980157+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3879,7 +3879,7 @@
         "kind": "MONEYLINE",
         "label": "KC",
         "confidence": 58,
-        "updated": "2026-10-25T01:16:22.760294+00:00",
+        "updated": "2026-10-25T09:53:31.980157+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3938,7 +3938,7 @@
         "kind": "SPREAD",
         "label": "KC +3.0",
         "confidence": 63,
-        "updated": "2026-10-25T01:16:22.760294+00:00",
+        "updated": "2026-10-25T09:53:31.980157+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3991,7 +3991,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-25T01:16:22.760294+00:00",
+        "updated": "2026-10-25T09:53:31.980157+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -4079,9 +4079,9 @@
         "moneylineProbabilities": {
           "modelHome": 0.4728,
           "modelAway": 0.5272,
-          "marketHomeNoVig": 0.5721,
-          "marketAwayNoVig": 0.4279,
-          "homeProbabilityEdge": -0.0992
+          "marketHomeNoVig": 0.5635,
+          "marketAwayNoVig": 0.4365,
+          "homeProbabilityEdge": -0.0906
         },
         "baseHomeMargin": -0.92,
         "baseTotal": 43.17,
@@ -4093,8 +4093,8 @@
         "spread_line": 3.0,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 42.5,
-        "away_moneyline": 124.0,
-        "home_moneyline": -148.0
+        "away_moneyline": 120.0,
+        "home_moneyline": -142.0
       },
       "injuryImpact": {
         "spreadAdjustment": -0.23,
@@ -4239,7 +4239,7 @@
         "kind": "MONEYLINE",
         "label": "DAL",
         "confidence": 58,
-        "updated": "2026-10-25T01:16:22.760294+00:00",
+        "updated": "2026-10-25T09:53:31.980157+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -4297,7 +4297,7 @@
         "kind": "SPREAD",
         "label": "PHI +4.5",
         "confidence": 62,
-        "updated": "2026-10-25T01:16:22.760294+00:00",
+        "updated": "2026-10-25T09:53:31.980157+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -4349,7 +4349,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-25T01:16:22.760294+00:00",
+        "updated": "2026-10-25T09:53:31.980157+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
