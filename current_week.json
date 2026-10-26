@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 7,
-  "updatedAt": "2026-10-26T01:17:46.902085+00:00",
+  "updatedAt": "2026-10-26T04:41:16.198592+00:00",
   "dataStatus": "HISTORICAL_MARKET_V4",
   "games": [
     {
@@ -2801,9 +2801,9 @@
       "away": "KC",
       "home": "SEA",
       "venue": "Lumen Field",
-      "state": "UPCOMING",
-      "awayScore": null,
-      "homeScore": null,
+      "state": "FINAL",
+      "awayScore": 3,
+      "homeScore": 20,
       "moneyline": {
         "kind": "MONEYLINE",
         "label": "KC",
@@ -3041,7 +3041,7 @@
         "kind": "MONEYLINE",
         "label": "DAL",
         "confidence": 58,
-        "updated": "2026-10-26T01:17:46.902085+00:00",
+        "updated": "2026-10-26T04:41:16.198592+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3099,7 +3099,7 @@
         "kind": "SPREAD",
         "label": "PHI +4.5",
         "confidence": 62,
-        "updated": "2026-10-26T01:17:46.902085+00:00",
+        "updated": "2026-10-26T04:41:16.198592+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3151,13 +3151,13 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-26T01:17:46.902085+00:00",
+        "updated": "2026-10-26T04:41:16.198592+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált total 44.3 (alap 44.6, sérülési korrekció -0.31), referencia 43.5; eltérés +0.8, ami nem éri el a 2.0 pontos küszöböt."
+            "detail": "Sérülésekkel korrigált total 44.2 (alap 44.6, sérülési korrekció -0.31), referencia 43.5; eltérés +0.8, ami nem éri el a 2.0 pontos küszöböt."
           },
           {
             "title": "2026-os szezon",
@@ -3216,34 +3216,34 @@
         "rawHomeMargin": 0.03,
         "marketHomeMargin": -4.5,
         "spreadEdge": 3.32,
-        "total": 44.28,
-        "rawTotal": 45.92,
+        "total": 44.25,
+        "rawTotal": 45.85,
         "marketTotal": 43.5,
-        "totalEdge": 0.78,
-        "leagueTotalPrior": 46.13,
+        "totalEdge": 0.75,
+        "leagueTotalPrior": 45.92,
         "sampleReliability": 1.0,
         "spreadThreshold": 1.5,
         "totalThreshold": 2.0,
         "modelVersion": "v4-historical-market",
-        "totalSigma": 13.11,
+        "totalSigma": 13.2,
         "totalMarketWeight": 0.55,
-        "expectedHomePoints": 22.75,
-        "expectedAwayPoints": 23.17,
+        "expectedHomePoints": 22.71,
+        "expectedAwayPoints": 23.13,
         "historicalGamesHome": 8,
         "historicalGamesAway": 8,
-        "overProbability": 0.5237,
-        "underProbability": 0.4763,
-        "overFairOdds": 1.909,
-        "underFairOdds": 2.1,
+        "overProbability": 0.5227,
+        "underProbability": 0.4773,
+        "overFairOdds": 1.913,
+        "underFairOdds": 2.095,
         "moneylineProbabilities": {
           "modelHome": 0.4741,
           "modelAway": 0.5259,
-          "marketHomeNoVig": 0.3364,
-          "marketAwayNoVig": 0.6636,
-          "homeProbabilityEdge": 0.1377
+          "marketHomeNoVig": 0.3425,
+          "marketAwayNoVig": 0.6575,
+          "homeProbabilityEdge": 0.1315
         },
         "baseHomeMargin": -0.88,
-        "baseTotal": 44.59,
+        "baseTotal": 44.56,
         "injurySpreadAdjustment": -0.3,
         "injuryTotalAdjustment": -0.31,
         "injuryApplied": true
@@ -3252,8 +3252,8 @@
         "spread_line": -4.5,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 43.5,
-        "away_moneyline": -225.0,
-        "home_moneyline": 185.0
+        "away_moneyline": -218.0,
+        "home_moneyline": 180.0
       },
       "injuryImpact": {
         "spreadAdjustment": -0.3,
