@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 7,
-  "updatedAt": "2026-10-25T22:35:02.509722+00:00",
+  "updatedAt": "2026-10-26T01:12:58.770903+00:00",
   "dataStatus": "HISTORICAL_MARKET_V4",
   "games": [
     {
@@ -2092,7 +2092,9 @@
         "total_line": 36.5,
         "away_moneyline": -130.0,
         "home_moneyline": 110.0
-      }
+      },
+      "awayLogo": "https://highlightly.net/american-football/images/teams/92745.png",
+      "homeLogo": "https://highlightly.net/american-football/images/teams/92769.png"
     },
     {
       "id": "2026_07_DEN_ARI",
@@ -2100,9 +2102,9 @@
       "away": "DEN",
       "home": "ARI",
       "venue": "State Farm Stadium",
-      "state": "UPCOMING",
-      "awayScore": null,
-      "homeScore": null,
+      "state": "FINAL",
+      "awayScore": 30,
+      "homeScore": 16,
       "moneyline": {
         "kind": "MONEYLINE",
         "label": "DEN",
@@ -2323,7 +2325,9 @@
         "total_line": 44.5,
         "away_moneyline": -230.0,
         "home_moneyline": 190.0
-      }
+      },
+      "awayLogo": "https://highlightly.net/american-football/images/teams/92764.png",
+      "homeLogo": "https://highlightly.net/american-football/images/teams/92765.png"
     },
     {
       "id": "2026_07_GB_DET",
@@ -2331,9 +2335,9 @@
       "away": "GB",
       "home": "DET",
       "venue": "Ford Field",
-      "state": "UPCOMING",
-      "awayScore": null,
-      "homeScore": null,
+      "state": "FINAL",
+      "awayScore": 17,
+      "homeScore": 20,
       "moneyline": {
         "kind": "MONEYLINE",
         "label": "DET",
@@ -2554,7 +2558,9 @@
         "total_line": 55.5,
         "away_moneyline": 160.0,
         "home_moneyline": -192.0
-      }
+      },
+      "awayLogo": "https://highlightly.net/american-football/images/teams/92742.png",
+      "homeLogo": "https://highlightly.net/american-football/images/teams/92754.png"
     },
     {
       "id": "2026_07_LA_LV",
@@ -2562,9 +2568,9 @@
       "away": "LA",
       "home": "LV",
       "venue": "Allegiant Stadium",
-      "state": "UPCOMING",
-      "awayScore": null,
-      "homeScore": null,
+      "state": "FINAL",
+      "awayScore": 35,
+      "homeScore": 21,
       "moneyline": {
         "kind": "MONEYLINE",
         "label": "LV",
@@ -2785,7 +2791,9 @@
         "total_line": 49.5,
         "away_moneyline": -180.0,
         "home_moneyline": 150.0
-      }
+      },
+      "awayLogo": "https://highlightly.net/american-football/images/teams/92749.png",
+      "homeLogo": "https://highlightly.net/american-football/images/teams/92738.png"
     },
     {
       "id": "2026_07_KC_SEA",
@@ -2833,12 +2841,6 @@
             "detail": "Korai szezon: KC 5, SEA 6 lezárt meccs. A kis mintás szezon-, hazai/idegenbeli és friss-forma jeleket a modell ligaátlag felé zsugorítja."
           },
           {
-            "title": "Időjárás és stadion",
-            "weight": 5,
-            "impact": 0,
-            "detail": "tető: outdoors."
-          },
-          {
             "title": "Piaci referencia",
             "weight": 10,
             "impact": 0,
@@ -2851,6 +2853,13 @@
             "detail": "KC: Jaylon Moore (OT) — OUT, Concussion [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; KC: L'Jarius Sneed (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; KC: Rashee Rice (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; SEA: Nick Emmanwori (S) — QUESTIONABLE, Hip [kérdéses; lehetséges hatás: passzvédekezés/coverage]; SEA: Uchenna Nwosu (LB) — QUESTIONABLE, Hip [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Chazz Surratt (LB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Drake Thomas (LB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Drew Lock (QB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: irányító/passing offense]; SEA: Zach Charbonnet (RB) — OUT, Surgery [biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection]; SEA: DeMarcus Lawrence (LB) — QUESTIONABLE, Knee [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Connor O'Toole (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 0.23 pont, vendég oldal felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Forecast: rain 12.03°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "source": "Highlightly NFL API"
           }
         ]
       },
@@ -2891,18 +2900,19 @@
             "detail": "Korai szezon: KC 5, SEA 6 lezárt meccs. A kis mintás szezon-, hazai/idegenbeli és friss-forma jeleket a modell ligaátlag felé zsugorítja."
           },
           {
-            "title": "Időjárás és stadion",
-            "weight": 5,
-            "impact": 0,
-            "detail": "tető: outdoors."
-          },
-          {
             "title": "Sérülések és kezdők",
             "weight": 10,
             "impact": -0.23,
             "detail": "KC: Jaylon Moore (OT) — OUT, Concussion [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; KC: L'Jarius Sneed (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; KC: Rashee Rice (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; SEA: Nick Emmanwori (S) — QUESTIONABLE, Hip [kérdéses; lehetséges hatás: passzvédekezés/coverage]; SEA: Uchenna Nwosu (LB) — QUESTIONABLE, Hip [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Chazz Surratt (LB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Drake Thomas (LB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Drew Lock (QB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: irányító/passing offense]; SEA: Zach Charbonnet (RB) — OUT, Surgery [biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection]; SEA: DeMarcus Lawrence (LB) — QUESTIONABLE, Knee [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Connor O'Toole (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 0.23 pont, vendég oldal felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Forecast: rain 12.03°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "source": "Highlightly NFL API"
           }
         ]
       },
@@ -2949,18 +2959,19 @@
             "detail": "Korai szezon: KC 5, SEA 6 lezárt meccs. A kis mintás szezon-, hazai/idegenbeli és friss-forma jeleket a modell ligaátlag felé zsugorítja."
           },
           {
-            "title": "Időjárás és stadion",
-            "weight": 5,
-            "impact": 0,
-            "detail": "tető: outdoors."
-          },
-          {
             "title": "Sérülések és kezdők",
             "weight": 10,
             "impact": -0.2,
             "detail": "KC: Jaylon Moore (OT) — OUT, Concussion [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; KC: L'Jarius Sneed (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; KC: Rashee Rice (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; SEA: Nick Emmanwori (S) — QUESTIONABLE, Hip [kérdéses; lehetséges hatás: passzvédekezés/coverage]; SEA: Uchenna Nwosu (LB) — QUESTIONABLE, Hip [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Chazz Surratt (LB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Drake Thomas (LB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Drew Lock (QB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: irányító/passing offense]; SEA: Zach Charbonnet (RB) — OUT, Surgery [biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection]; SEA: DeMarcus Lawrence (LB) — QUESTIONABLE, Knee [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Connor O'Toole (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 0.20 pont, alacsonyabb total felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
+          },
+          {
+            "title": "Időjárás és stadion",
+            "weight": 0,
+            "impact": 0,
+            "detail": "Forecast: rain 12.03°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "source": "Highlightly NFL API"
           }
         ]
       },
@@ -3010,137 +3021,12 @@
       "market": {
         "spread_line": 3.0,
         "spread_convention": "nflverse_signed_home_margin",
-        "total_line": 42.5,
-        "away_moneyline": 130.0,
-        "home_moneyline": -155.0
+        "total_line": 43.5,
+        "away_moneyline": 136.0,
+        "home_moneyline": -162.0
       },
-      "injuryImpact": {
-        "spreadAdjustment": -0.23,
-        "totalAdjustment": -0.2,
-        "awayBurden": 1.02,
-        "homeBurden": 1.25,
-        "keyDrivers": [
-          "Jaylon Moore OUT: 0.55 pt",
-          "Rashee Rice OUT: 0.35 pt"
-        ],
-        "model": "provisional-injury-impact-v1.1-depth-role",
-        "calibrated": false,
-        "dataAvailable": true,
-        "appliedToForecast": true
-      },
-      "injuries": [
-        {
-          "team": "KC",
-          "name": "Jaylon Moore",
-          "position": "OT",
-          "status": "OUT",
-          "injury": "Concussion",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.55,
-          "consequence": "biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás"
-        },
-        {
-          "team": "KC",
-          "name": "Rashee Rice",
-          "position": "WR",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.35,
-          "consequence": "biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység"
-        },
-        {
-          "team": "SEA",
-          "name": "Chazz Surratt",
-          "position": "LB",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.25,
-          "consequence": "biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés"
-        },
-        {
-          "team": "SEA",
-          "name": "Drake Thomas",
-          "position": "LB",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.25,
-          "consequence": "biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés"
-        },
-        {
-          "team": "SEA",
-          "name": "Drew Lock",
-          "position": "QB",
-          "status": "QUESTIONABLE",
-          "injury": "Not Specified",
-          "importance": "KIS",
-          "modelPoints": 0.21,
-          "consequence": "kérdéses; lehetséges hatás: irányító/passing offense"
-        },
-        {
-          "team": "SEA",
-          "name": "Zach Charbonnet",
-          "position": "RB",
-          "status": "OUT",
-          "injury": "Surgery",
-          "importance": "KIS",
-          "modelPoints": 0.18,
-          "consequence": "biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection"
-        },
-        {
-          "team": "KC",
-          "name": "L'Jarius Sneed",
-          "position": "CB",
-          "status": "QUESTIONABLE",
-          "injury": "Not Specified",
-          "importance": "KIS",
-          "modelPoints": 0.12,
-          "consequence": "kérdéses; lehetséges hatás: passzvédekezés/coverage"
-        },
-        {
-          "team": "SEA",
-          "name": "Nick Emmanwori",
-          "position": "S",
-          "status": "QUESTIONABLE",
-          "injury": "Hip",
-          "importance": "KIS",
-          "modelPoints": 0.1,
-          "consequence": "kérdéses; lehetséges hatás: passzvédekezés/coverage"
-        },
-        {
-          "team": "SEA",
-          "name": "Uchenna Nwosu",
-          "position": "LB",
-          "status": "QUESTIONABLE",
-          "injury": "Hip",
-          "importance": "KIS",
-          "modelPoints": 0.09,
-          "consequence": "kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés"
-        },
-        {
-          "team": "SEA",
-          "name": "DeMarcus Lawrence",
-          "position": "LB",
-          "status": "QUESTIONABLE",
-          "injury": "Knee",
-          "importance": "KIS",
-          "modelPoints": 0.09,
-          "consequence": "kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés"
-        },
-        {
-          "team": "SEA",
-          "name": "Connor O'Toole",
-          "position": "LB",
-          "status": "QUESTIONABLE",
-          "injury": "Not Specified",
-          "importance": "KIS",
-          "modelPoints": 0.09,
-          "consequence": "kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés"
-        }
-      ],
-      "injurySource": "ESPN core injury feed"
+      "awayLogo": "https://highlightly.net/american-football/images/teams/92732.png",
+      "homeLogo": "https://highlightly.net/american-football/images/teams/92744.png"
     },
     {
       "id": "2026_07_DAL_PHI",
@@ -3155,7 +3041,7 @@
         "kind": "MONEYLINE",
         "label": "DAL",
         "confidence": 58,
-        "updated": "2026-10-25T22:35:02.509722+00:00",
+        "updated": "2026-10-26T01:12:58.770903+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3213,7 +3099,7 @@
         "kind": "SPREAD",
         "label": "PHI +4.5",
         "confidence": 62,
-        "updated": "2026-10-25T22:35:02.509722+00:00",
+        "updated": "2026-10-26T01:12:58.770903+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3265,7 +3151,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-25T22:35:02.509722+00:00",
+        "updated": "2026-10-26T01:12:58.770903+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3339,22 +3225,22 @@
         "spreadThreshold": 1.5,
         "totalThreshold": 2.0,
         "modelVersion": "v4-historical-market",
-        "totalSigma": 13.33,
+        "totalSigma": 13.11,
         "totalMarketWeight": 0.55,
         "expectedHomePoints": 22.75,
         "expectedAwayPoints": 23.17,
         "historicalGamesHome": 8,
         "historicalGamesAway": 8,
-        "overProbability": 0.5233,
-        "underProbability": 0.4767,
-        "overFairOdds": 1.911,
-        "underFairOdds": 2.098,
+        "overProbability": 0.5237,
+        "underProbability": 0.4763,
+        "overFairOdds": 1.909,
+        "underFairOdds": 2.1,
         "moneylineProbabilities": {
           "modelHome": 0.4741,
           "modelAway": 0.5259,
-          "marketHomeNoVig": 0.3425,
-          "marketAwayNoVig": 0.6575,
-          "homeProbabilityEdge": 0.1315
+          "marketHomeNoVig": 0.3364,
+          "marketAwayNoVig": 0.6636,
+          "homeProbabilityEdge": 0.1377
         },
         "baseHomeMargin": -0.88,
         "baseTotal": 44.59,
@@ -3366,8 +3252,8 @@
         "spread_line": -4.5,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 43.5,
-        "away_moneyline": -218.0,
-        "home_moneyline": 180.0
+        "away_moneyline": -225.0,
+        "home_moneyline": 185.0
       },
       "injuryImpact": {
         "spreadAdjustment": -0.3,
