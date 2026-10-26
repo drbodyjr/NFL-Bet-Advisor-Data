@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 7,
-  "updatedAt": "2026-10-26T11:13:49.136214+00:00",
+  "updatedAt": "2026-10-26T17:27:26.976000+00:00",
   "dataStatus": "HISTORICAL_MARKET_V4",
   "games": [
     {
@@ -3041,7 +3041,7 @@
         "kind": "MONEYLINE",
         "label": "DAL",
         "confidence": 58,
-        "updated": "2026-10-26T11:13:49.136214+00:00",
+        "updated": "2026-10-26T17:27:26.976000+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3089,7 +3089,7 @@
             "title": "Sérülések és kezdők",
             "weight": 10,
             "impact": -0.3,
-            "detail": "DAL: Drew Shelton (OT) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; DAL: Dee Winters (LB) — OUT, Strain [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; DAL: KaVontae Turpin (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; PHI: Michael Carter II (CB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; PHI: Nolan Smith Jr. (LB) — OUT, Concussion [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; PHI: Dontayvion Wicks (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; PHI: Saquon Barkley (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; PHI: DeVonta Smith (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; PHI: Jonathan Greenard (LB) — QUESTIONABLE, Ankle [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 0.30 pont, vendég oldal felé.",
+            "detail": "DAL: Drew Shelton (OT) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; DAL: Dee Winters (LB) — OUT, Strain [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; DAL: KaVontae Turpin (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; PHI: Saquon Barkley (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; PHI: Michael Carter II (CB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; PHI: Nolan Smith Jr. (LB) — OUT, Concussion [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; PHI: Dontayvion Wicks (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; PHI: DeVonta Smith (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; PHI: Jonathan Greenard (LB) — QUESTIONABLE, Ankle [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 0.30 pont, vendég oldal felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           }
@@ -3099,7 +3099,7 @@
         "kind": "SPREAD",
         "label": "PHI +4.5",
         "confidence": 62,
-        "updated": "2026-10-26T11:13:49.136214+00:00",
+        "updated": "2026-10-26T17:27:26.976000+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3141,7 +3141,7 @@
             "title": "Sérülések és kezdők",
             "weight": 10,
             "impact": -0.3,
-            "detail": "DAL: Drew Shelton (OT) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; DAL: Dee Winters (LB) — OUT, Strain [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; DAL: KaVontae Turpin (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; PHI: Michael Carter II (CB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; PHI: Nolan Smith Jr. (LB) — OUT, Concussion [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; PHI: Dontayvion Wicks (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; PHI: Saquon Barkley (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; PHI: DeVonta Smith (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; PHI: Jonathan Greenard (LB) — QUESTIONABLE, Ankle [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 0.30 pont, vendég oldal felé.",
+            "detail": "DAL: Drew Shelton (OT) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; DAL: Dee Winters (LB) — OUT, Strain [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; DAL: KaVontae Turpin (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; PHI: Saquon Barkley (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; PHI: Michael Carter II (CB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; PHI: Nolan Smith Jr. (LB) — OUT, Concussion [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; PHI: Dontayvion Wicks (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; PHI: DeVonta Smith (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; PHI: Jonathan Greenard (LB) — QUESTIONABLE, Ankle [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 0.30 pont, vendég oldal felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           }
@@ -3151,13 +3151,13 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-26T11:13:49.136214+00:00",
+        "updated": "2026-10-26T17:27:26.976000+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált total 44.2 (alap 44.6, sérülési korrekció -0.31), referencia 43.5; eltérés +0.8, ami nem éri el a 2.0 pontos küszöböt."
+            "detail": "Sérülésekkel korrigált total 44.8 (alap 45.1, sérülési korrekció -0.31), referencia 44.5; eltérés +0.3, ami nem éri el a 2.0 pontos küszöböt."
           },
           {
             "title": "2026-os szezon",
@@ -3199,27 +3199,27 @@
             "title": "Sérülések és kezdők",
             "weight": 10,
             "impact": -0.31,
-            "detail": "DAL: Drew Shelton (OT) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; DAL: Dee Winters (LB) — OUT, Strain [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; DAL: KaVontae Turpin (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; PHI: Michael Carter II (CB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; PHI: Nolan Smith Jr. (LB) — OUT, Concussion [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; PHI: Dontayvion Wicks (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; PHI: Saquon Barkley (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; PHI: DeVonta Smith (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; PHI: Jonathan Greenard (LB) — QUESTIONABLE, Ankle [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 0.31 pont, alacsonyabb total felé.",
+            "detail": "DAL: Drew Shelton (OT) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; DAL: Dee Winters (LB) — OUT, Strain [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; DAL: KaVontae Turpin (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; PHI: Saquon Barkley (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; PHI: Michael Carter II (CB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; PHI: Nolan Smith Jr. (LB) — OUT, Concussion [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; PHI: Dontayvion Wicks (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; PHI: DeVonta Smith (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; PHI: Jonathan Greenard (LB) — QUESTIONABLE, Ankle [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 0.31 pont, alacsonyabb total felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           }
         ]
       },
       "totalTests": {
-        "overSafe": 40.5,
-        "overRisk": 43.5,
-        "underSafe": 46.5,
-        "underRisk": 43.5
+        "overSafe": 41.5,
+        "overRisk": 44.5,
+        "underSafe": 47.5,
+        "underRisk": 44.5
       },
       "forecast": {
         "homeMargin": -1.18,
         "rawHomeMargin": 0.03,
         "marketHomeMargin": -4.5,
         "spreadEdge": 3.32,
-        "total": 44.25,
+        "total": 44.8,
         "rawTotal": 45.85,
-        "marketTotal": 43.5,
-        "totalEdge": 0.75,
+        "marketTotal": 44.5,
+        "totalEdge": 0.3,
         "leagueTotalPrior": 45.92,
         "sampleReliability": 1.0,
         "spreadThreshold": 1.5,
@@ -3231,10 +3231,10 @@
         "expectedAwayPoints": 23.13,
         "historicalGamesHome": 8,
         "historicalGamesAway": 8,
-        "overProbability": 0.5227,
-        "underProbability": 0.4773,
-        "overFairOdds": 1.913,
-        "underFairOdds": 2.095,
+        "overProbability": 0.5091,
+        "underProbability": 0.4909,
+        "overFairOdds": 1.964,
+        "underFairOdds": 2.037,
         "moneylineProbabilities": {
           "modelHome": 0.4741,
           "modelAway": 0.5259,
@@ -3243,7 +3243,7 @@
           "homeProbabilityEdge": 0.1188
         },
         "baseHomeMargin": -0.88,
-        "baseTotal": 44.56,
+        "baseTotal": 45.11,
         "injurySpreadAdjustment": -0.3,
         "injuryTotalAdjustment": -0.31,
         "injuryApplied": true
@@ -3251,7 +3251,7 @@
       "market": {
         "spread_line": -4.5,
         "spread_convention": "nflverse_signed_home_margin",
-        "total_line": 43.5,
+        "total_line": 44.5,
         "away_moneyline": -205.0,
         "home_moneyline": 170.0
       },
