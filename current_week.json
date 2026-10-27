@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 8,
-  "updatedAt": "2026-10-27T16:43:38.821352+00:00",
+  "updatedAt": "2026-10-27T21:23:04.899930+00:00",
   "dataStatus": "HISTORICAL_MARKET_V4",
   "games": [
     {
@@ -16,14 +16,14 @@
       "moneyline": {
         "kind": "MONEYLINE",
         "label": "GB",
-        "confidence": 60,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "confidence": 59,
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség +2.3 (alap +2.8, sérülési korrekció -0.50)."
+            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség +2.0 (alap +2.8, sérülési korrekció -0.83)."
           },
           {
             "title": "2026-os szezon",
@@ -64,24 +64,24 @@
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
-            "impact": -0.5,
-            "detail": "CAR: Jaelan Phillips (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; CAR: Akayleb Evans (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; CAR: Torricelli Simpkins III (G) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; CAR: Damien Lewis (G) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; CAR: Bobby Brown III (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; CAR: Jalen Coker (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; GB: Devonte Wyatt (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; GB: Aaron Banks (G) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; GB: Travis Glover (OT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; GB: Anthony Campbell (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; GB: Sean Rhyan (G) — OUT, Sprain [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; GB: Matthew Golden (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; GB: Zaire Franklin (LB) — DOUBTFUL, Fracture [erősen kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 0.50 pont, vendég oldal felé.",
+            "impact": -0.83,
+            "detail": "CAR: Jaelan Phillips (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; CAR: Akayleb Evans (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; CAR: Torricelli Simpkins III (G) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; CAR: Damien Lewis (G) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; GB: Brenton Cox Jr. (DE) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; GB: Matthew Golden (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; GB: Devonte Wyatt (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; GB: Aaron Banks (G) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; GB: Travis Glover (OT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; GB: Anthony Campbell (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; GB: Sean Rhyan (G) — OUT, Sprain [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; GB: Zaire Franklin (LB) — DOUBTFUL, Fracture [erősen kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 0.83 pont, vendég oldal felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           }
         ]
       },
       "spread": {
-        "kind": "NO_BET",
-        "label": "NO BET",
-        "confidence": 0,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "kind": "SPREAD",
+        "label": "CAR +3.5",
+        "confidence": 60,
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált margin +2.3, piaci margin +3.5; edge -1.2, ami nem éri el a 1.5 pontos küszöböt."
+            "detail": "Sérülésekkel korrigált hazai margin +2.0 (alap +2.8, sérülési korrekció -0.83), piaci margin +3.5; edge -1.5."
           },
           {
             "title": "2026-os szezon",
@@ -116,8 +116,8 @@
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
-            "impact": -0.5,
-            "detail": "CAR: Jaelan Phillips (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; CAR: Akayleb Evans (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; CAR: Torricelli Simpkins III (G) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; CAR: Damien Lewis (G) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; CAR: Bobby Brown III (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; CAR: Jalen Coker (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; GB: Devonte Wyatt (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; GB: Aaron Banks (G) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; GB: Travis Glover (OT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; GB: Anthony Campbell (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; GB: Sean Rhyan (G) — OUT, Sprain [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; GB: Matthew Golden (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; GB: Zaire Franklin (LB) — DOUBTFUL, Fracture [erősen kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 0.50 pont, vendég oldal felé.",
+            "impact": -0.83,
+            "detail": "CAR: Jaelan Phillips (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; CAR: Akayleb Evans (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; CAR: Torricelli Simpkins III (G) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; CAR: Damien Lewis (G) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; GB: Brenton Cox Jr. (DE) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; GB: Matthew Golden (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; GB: Devonte Wyatt (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; GB: Aaron Banks (G) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; GB: Travis Glover (OT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; GB: Anthony Campbell (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; GB: Sean Rhyan (G) — OUT, Sprain [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; GB: Zaire Franklin (LB) — DOUBTFUL, Fracture [erősen kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 0.83 pont, vendég oldal felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           }
@@ -127,13 +127,13 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált total 47.1 (alap 47.4, sérülési korrekció -0.20), referencia 48.5; eltérés -1.4, ami nem éri el a 2.0 pontos küszöböt."
+            "detail": "Sérülésekkel korrigált total 47.2 (alap 47.4, sérülési korrekció -0.15), referencia 48.5; eltérés -1.3, ami nem éri el a 2.0 pontos küszöböt."
           },
           {
             "title": "2026-os szezon",
@@ -174,8 +174,8 @@
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
-            "impact": -0.2,
-            "detail": "CAR: Jaelan Phillips (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; CAR: Akayleb Evans (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; CAR: Torricelli Simpkins III (G) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; CAR: Damien Lewis (G) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; CAR: Bobby Brown III (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; CAR: Jalen Coker (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; GB: Devonte Wyatt (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; GB: Aaron Banks (G) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; GB: Travis Glover (OT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; GB: Anthony Campbell (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; GB: Sean Rhyan (G) — OUT, Sprain [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; GB: Matthew Golden (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; GB: Zaire Franklin (LB) — DOUBTFUL, Fracture [erősen kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 0.20 pont, alacsonyabb total felé.",
+            "impact": -0.15,
+            "detail": "CAR: Jaelan Phillips (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; CAR: Akayleb Evans (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; CAR: Torricelli Simpkins III (G) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; CAR: Damien Lewis (G) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; GB: Brenton Cox Jr. (DE) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; GB: Matthew Golden (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; GB: Devonte Wyatt (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; GB: Aaron Banks (G) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; GB: Travis Glover (OT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; GB: Anthony Campbell (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; GB: Sean Rhyan (G) — OUT, Sprain [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; GB: Zaire Franklin (LB) — DOUBTFUL, Fracture [erősen kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 0.15 pont, alacsonyabb total felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           }
@@ -188,14 +188,14 @@
         "underRisk": 48.5
       },
       "forecast": {
-        "homeMargin": 2.31,
+        "homeMargin": 1.98,
         "rawHomeMargin": 2.64,
         "marketHomeMargin": 3.5,
-        "spreadEdge": -1.19,
-        "total": 47.15,
+        "spreadEdge": -1.52,
+        "total": 47.2,
         "rawTotal": 45.95,
         "marketTotal": 48.5,
-        "totalEdge": -1.35,
+        "totalEdge": -1.3,
         "leagueTotalPrior": 46.04,
         "sampleReliability": 1.0,
         "spreadThreshold": 1.5,
@@ -207,10 +207,10 @@
         "expectedAwayPoints": 22.69,
         "historicalGamesHome": 8,
         "historicalGamesAway": 8,
-        "overProbability": 0.4594,
-        "underProbability": 0.5406,
-        "overFairOdds": 2.177,
-        "underFairOdds": 1.85,
+        "overProbability": 0.4609,
+        "underProbability": 0.5391,
+        "overFairOdds": 2.17,
+        "underFairOdds": 1.855,
         "moneylineProbabilities": {
           "modelHome": 0.5826,
           "modelAway": 0.4174,
@@ -220,8 +220,8 @@
         },
         "baseHomeMargin": 2.81,
         "baseTotal": 47.35,
-        "injurySpreadAdjustment": -0.5,
-        "injuryTotalAdjustment": -0.2,
+        "injurySpreadAdjustment": -0.83,
+        "injuryTotalAdjustment": -0.15,
         "injuryApplied": true
       },
       "market": {
@@ -232,10 +232,10 @@
         "home_moneyline": -185.0
       },
       "injuryImpact": {
-        "spreadAdjustment": -0.5,
-        "totalAdjustment": -0.2,
-        "awayBurden": 0.66,
-        "homeBurden": 1.16,
+        "spreadAdjustment": -0.83,
+        "totalAdjustment": -0.15,
+        "awayBurden": 0.45,
+        "homeBurden": 1.28,
         "keyDrivers": [
           "Sean Rhyan OUT: 0.35 pt"
         ],
@@ -306,8 +306,18 @@
           "consequence": "kérdéses; lehetséges hatás: pass protection és futásblokkolás"
         },
         {
-          "team": "CAR",
-          "name": "Jalen Coker",
+          "team": "GB",
+          "name": "Brenton Cox Jr.",
+          "position": "DE",
+          "status": "QUESTIONABLE",
+          "injury": "Not Specified",
+          "importance": "KIS",
+          "modelPoints": 0.12,
+          "consequence": "kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés"
+        },
+        {
+          "team": "GB",
+          "name": "Matthew Golden",
           "position": "WR",
           "status": "QUESTIONABLE",
           "injury": "Not Specified",
@@ -326,29 +336,9 @@
           "consequence": "kérdéses; lehetséges hatás: pass protection és futásblokkolás"
         },
         {
-          "team": "GB",
-          "name": "Matthew Golden",
-          "position": "WR",
-          "status": "QUESTIONABLE",
-          "injury": "Not Specified",
-          "importance": "KIS",
-          "modelPoints": 0.12,
-          "consequence": "kérdéses; lehetséges hatás: passzjáték és célpontmélység"
-        },
-        {
           "team": "CAR",
           "name": "Jaelan Phillips",
           "position": "LB",
-          "status": "QUESTIONABLE",
-          "injury": "Not Specified",
-          "importance": "KIS",
-          "modelPoints": 0.09,
-          "consequence": "kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés"
-        },
-        {
-          "team": "CAR",
-          "name": "Bobby Brown III",
-          "position": "DT",
           "status": "QUESTIONABLE",
           "injury": "Not Specified",
           "importance": "KIS",
@@ -391,7 +381,7 @@
         "kind": "MONEYLINE",
         "label": "BUF",
         "confidence": 62,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -433,7 +423,7 @@
             "title": "Sérülések és kezdők",
             "weight": 10,
             "impact": 0.47,
-            "detail": "BAL: Olaivavega Ioane (G) — DOUBTFUL, Sprain [erősen kérdéses; lehetséges hatás: pass protection és futásblokkolás]; BAL: Broderick Washington Jr. (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; BAL: Jaylinn Hawkins (S) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; BAL: Lamar Jackson (QB) — QUESTIONABLE, Sprain [kérdéses; lehetséges hatás: irányító/passing offense]; BUF: DJ Moore (WR) — QUESTIONABLE, Sprain [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; BUF: Ed Oliver (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 0.47 pont, hazai oldal felé.",
+            "detail": "BAL: Lamar Jackson (QB) — QUESTIONABLE, Sprain [kérdéses; lehetséges hatás: irányító/passing offense]; BAL: Olaivavega Ioane (G) — DOUBTFUL, Sprain [erősen kérdéses; lehetséges hatás: pass protection és futásblokkolás]; BAL: Broderick Washington Jr. (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; BAL: Jaylinn Hawkins (S) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; BUF: DJ Moore (WR) — QUESTIONABLE, Sprain [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; BUF: Ed Oliver (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 0.47 pont, hazai oldal felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           },
@@ -450,7 +440,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -486,7 +476,7 @@
             "title": "Sérülések és kezdők",
             "weight": 10,
             "impact": 0.47,
-            "detail": "BAL: Olaivavega Ioane (G) — DOUBTFUL, Sprain [erősen kérdéses; lehetséges hatás: pass protection és futásblokkolás]; BAL: Broderick Washington Jr. (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; BAL: Jaylinn Hawkins (S) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; BAL: Lamar Jackson (QB) — QUESTIONABLE, Sprain [kérdéses; lehetséges hatás: irányító/passing offense]; BUF: DJ Moore (WR) — QUESTIONABLE, Sprain [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; BUF: Ed Oliver (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 0.47 pont, hazai oldal felé.",
+            "detail": "BAL: Lamar Jackson (QB) — QUESTIONABLE, Sprain [kérdéses; lehetséges hatás: irányító/passing offense]; BAL: Olaivavega Ioane (G) — DOUBTFUL, Sprain [erősen kérdéses; lehetséges hatás: pass protection és futásblokkolás]; BAL: Broderick Washington Jr. (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; BAL: Jaylinn Hawkins (S) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; BUF: DJ Moore (WR) — QUESTIONABLE, Sprain [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; BUF: Ed Oliver (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 0.47 pont, hazai oldal felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           },
@@ -503,13 +493,13 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált total 52.3 (alap 52.4, sérülési korrekció -0.13), referencia 53.5; eltérés -1.2, ami nem éri el a 2.0 pontos küszöböt."
+            "detail": "Sérülésekkel korrigált total 52.8 (alap 53.0, sérülési korrekció -0.13), referencia 54.5; eltérés -1.7, ami nem éri el a 2.0 pontos küszöböt."
           },
           {
             "title": "2026-os szezon",
@@ -545,7 +535,7 @@
             "title": "Sérülések és kezdők",
             "weight": 10,
             "impact": -0.13,
-            "detail": "BAL: Olaivavega Ioane (G) — DOUBTFUL, Sprain [erősen kérdéses; lehetséges hatás: pass protection és futásblokkolás]; BAL: Broderick Washington Jr. (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; BAL: Jaylinn Hawkins (S) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; BAL: Lamar Jackson (QB) — QUESTIONABLE, Sprain [kérdéses; lehetséges hatás: irányító/passing offense]; BUF: DJ Moore (WR) — QUESTIONABLE, Sprain [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; BUF: Ed Oliver (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 0.13 pont, alacsonyabb total felé.",
+            "detail": "BAL: Lamar Jackson (QB) — QUESTIONABLE, Sprain [kérdéses; lehetséges hatás: irányító/passing offense]; BAL: Olaivavega Ioane (G) — DOUBTFUL, Sprain [erősen kérdéses; lehetséges hatás: pass protection és futásblokkolás]; BAL: Broderick Washington Jr. (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; BAL: Jaylinn Hawkins (S) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; BUF: DJ Moore (WR) — QUESTIONABLE, Sprain [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; BUF: Ed Oliver (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 0.13 pont, alacsonyabb total felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           },
@@ -559,20 +549,20 @@
         ]
       },
       "totalTests": {
-        "overSafe": 50.5,
-        "overRisk": 53.5,
-        "underSafe": 56.5,
-        "underRisk": 53.5
+        "overSafe": 51.5,
+        "overRisk": 54.5,
+        "underSafe": 57.5,
+        "underRisk": 54.5
       },
       "forecast": {
         "homeMargin": 3.92,
         "rawHomeMargin": 3.44,
         "marketHomeMargin": 3.5,
         "spreadEdge": 0.42,
-        "total": 52.28,
+        "total": 52.83,
         "rawTotal": 51.08,
-        "marketTotal": 53.5,
-        "totalEdge": -1.22,
+        "marketTotal": 54.5,
+        "totalEdge": -1.67,
         "leagueTotalPrior": 46.04,
         "sampleReliability": 1.0,
         "spreadThreshold": 1.5,
@@ -584,10 +574,10 @@
         "expectedAwayPoints": 24.68,
         "historicalGamesHome": 8,
         "historicalGamesAway": 8,
-        "overProbability": 0.4633,
-        "underProbability": 0.5367,
-        "overFairOdds": 2.158,
-        "underFairOdds": 1.863,
+        "overProbability": 0.4499,
+        "underProbability": 0.5501,
+        "overFairOdds": 2.223,
+        "underFairOdds": 1.818,
         "moneylineProbabilities": {
           "modelHome": 0.601,
           "modelAway": 0.399,
@@ -596,7 +586,7 @@
           "homeProbabilityEdge": -0.03
         },
         "baseHomeMargin": 3.45,
-        "baseTotal": 52.41,
+        "baseTotal": 52.96,
         "injurySpreadAdjustment": 0.47,
         "injuryTotalAdjustment": -0.13,
         "injuryApplied": true
@@ -604,7 +594,7 @@
       "market": {
         "spread_line": 3.5,
         "spread_convention": "nflverse_signed_home_margin",
-        "total_line": 53.5,
+        "total_line": 54.5,
         "away_moneyline": 160.0,
         "home_moneyline": -192.0
       },
@@ -698,13 +688,13 @@
         "kind": "MONEYLINE",
         "label": "CIN",
         "confidence": 66,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség +8.3 (alap +8.4, sérülési korrekció -0.15)."
+            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség +8.2 (alap +8.5, sérülési korrekció -0.32)."
           },
           {
             "title": "2026-os szezon",
@@ -734,13 +724,13 @@
             "title": "Piaci referencia",
             "weight": 10,
             "impact": 0,
-            "detail": "A referencia piaci hazai margin +10.0 (hazai handicap -10.0)."
+            "detail": "A referencia piaci hazai margin +10.5 (hazai handicap -10.5)."
           },
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
-            "impact": -0.15,
-            "detail": "TEN: Calvin Ridley (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; TEN: Tyjae Spears (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; TEN: Tommy Townsend (P) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: posztmélység]; CIN: Kyle Dugger (S) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; CIN: Erick All Jr. (TE) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység] | Beépített modellhatás: 0.15 pont, vendég oldal felé.",
+            "impact": -0.32,
+            "detail": "TEN: Calvin Ridley (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; TEN: Tyjae Spears (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; TEN: Tommy Townsend (P) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: posztmélység]; CIN: Josh Kattus (TE) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; CIN: Kyle Dugger (S) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage] | Beépített modellhatás: 0.32 pont, vendég oldal felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           },
@@ -755,15 +745,15 @@
       },
       "spread": {
         "kind": "SPREAD",
-        "label": "TEN +10.0",
-        "confidence": 60,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "label": "TEN +10.5",
+        "confidence": 61,
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált hazai margin +8.3 (alap +8.4, sérülési korrekció -0.15), piaci margin +10.0; edge -1.7."
+            "detail": "Sérülésekkel korrigált hazai margin +8.2 (alap +8.5, sérülési korrekció -0.32), piaci margin +10.5; edge -2.3."
           },
           {
             "title": "2026-os szezon",
@@ -792,8 +782,8 @@
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
-            "impact": -0.15,
-            "detail": "TEN: Calvin Ridley (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; TEN: Tyjae Spears (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; TEN: Tommy Townsend (P) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: posztmélység]; CIN: Kyle Dugger (S) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; CIN: Erick All Jr. (TE) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység] | Beépített modellhatás: 0.15 pont, vendég oldal felé.",
+            "impact": -0.32,
+            "detail": "TEN: Calvin Ridley (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; TEN: Tyjae Spears (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; TEN: Tommy Townsend (P) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: posztmélység]; CIN: Josh Kattus (TE) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; CIN: Kyle Dugger (S) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage] | Beépített modellhatás: 0.32 pont, vendég oldal felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           },
@@ -810,13 +800,13 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált total 45.5 (alap 45.5, sérülési korrekció +0.01), referencia 46.5; eltérés -1.0, ami nem éri el a 2.0 pontos küszöböt."
+            "detail": "Sérülésekkel korrigált total 45.5 (alap 45.5, sérülési korrekció -0.04), referencia 46.5; eltérés -1.0, ami nem éri el a 2.0 pontos küszöböt."
           },
           {
             "title": "2026-os szezon",
@@ -851,8 +841,8 @@
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
-            "impact": 0.01,
-            "detail": "TEN: Calvin Ridley (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; TEN: Tyjae Spears (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; TEN: Tommy Townsend (P) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: posztmélység]; CIN: Kyle Dugger (S) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; CIN: Erick All Jr. (TE) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység] | Beépített modellhatás: 0.01 pont, magasabb total felé.",
+            "impact": -0.04,
+            "detail": "TEN: Calvin Ridley (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; TEN: Tyjae Spears (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; TEN: Tommy Townsend (P) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: posztmélység]; CIN: Josh Kattus (TE) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; CIN: Kyle Dugger (S) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage] | Beépített modellhatás: 0.04 pont, alacsonyabb total felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           },
@@ -872,14 +862,14 @@
         "underRisk": 46.5
       },
       "forecast": {
-        "homeMargin": 8.26,
+        "homeMargin": 8.19,
         "rawHomeMargin": 8.02,
-        "marketHomeMargin": 10.0,
-        "spreadEdge": -1.74,
-        "total": 45.55,
+        "marketHomeMargin": 10.5,
+        "spreadEdge": -2.31,
+        "total": 45.5,
         "rawTotal": 44.38,
         "marketTotal": 46.5,
-        "totalEdge": -0.95,
+        "totalEdge": -1.0,
         "leagueTotalPrior": 46.04,
         "sampleReliability": 1.0,
         "spreadThreshold": 1.5,
@@ -891,35 +881,35 @@
         "expectedAwayPoints": 19.65,
         "historicalGamesHome": 8,
         "historicalGamesAway": 8,
-        "overProbability": 0.4714,
-        "underProbability": 0.5286,
-        "overFairOdds": 2.121,
-        "underFairOdds": 1.892,
+        "overProbability": 0.4699,
+        "underProbability": 0.5301,
+        "overFairOdds": 2.128,
+        "underFairOdds": 1.887,
         "moneylineProbabilities": {
-          "modelHome": 0.7335,
-          "modelAway": 0.2665,
-          "marketHomeNoVig": 0.8316,
-          "marketAwayNoVig": 0.1684,
-          "homeProbabilityEdge": -0.0982
+          "modelHome": 0.7359,
+          "modelAway": 0.2641,
+          "marketHomeNoVig": 0.8271,
+          "marketAwayNoVig": 0.1729,
+          "homeProbabilityEdge": -0.0912
         },
-        "baseHomeMargin": 8.41,
+        "baseHomeMargin": 8.51,
         "baseTotal": 45.54,
-        "injurySpreadAdjustment": -0.15,
-        "injuryTotalAdjustment": 0.01,
+        "injurySpreadAdjustment": -0.32,
+        "injuryTotalAdjustment": -0.04,
         "injuryApplied": true
       },
       "market": {
-        "spread_line": 10.0,
+        "spread_line": 10.5,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 46.5,
-        "away_moneyline": 470.0,
-        "home_moneyline": -650.0
+        "away_moneyline": 455.0,
+        "home_moneyline": -625.0
       },
       "injuryImpact": {
-        "spreadAdjustment": -0.15,
-        "totalAdjustment": 0.01,
+        "spreadAdjustment": -0.32,
+        "totalAdjustment": -0.04,
         "awayBurden": 0.21,
-        "homeBurden": 0.37,
+        "homeBurden": 0.53,
         "keyDrivers": [],
         "model": "provisional-injury-impact-v1.1-depth-role",
         "calibrated": false,
@@ -938,6 +928,16 @@
           "consequence": "biztos hiányzó; lehetséges hatás: passzvédekezés/coverage"
         },
         {
+          "team": "CIN",
+          "name": "Josh Kattus",
+          "position": "TE",
+          "status": "OUT",
+          "injury": "Not Specified",
+          "importance": "KÖZEPES",
+          "modelPoints": 0.25,
+          "consequence": "biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység"
+        },
+        {
           "team": "TEN",
           "name": "Calvin Ridley",
           "position": "WR",
@@ -945,16 +945,6 @@
           "injury": "Not Specified",
           "importance": "KIS",
           "modelPoints": 0.12,
-          "consequence": "kérdéses; lehetséges hatás: passzjáték és célpontmélység"
-        },
-        {
-          "team": "CIN",
-          "name": "Erick All Jr.",
-          "position": "TE",
-          "status": "QUESTIONABLE",
-          "injury": "Not Specified",
-          "importance": "KIS",
-          "modelPoints": 0.09,
           "consequence": "kérdéses; lehetséges hatás: passzjáték és célpontmélység"
         },
         {
@@ -994,14 +984,14 @@
       "moneyline": {
         "kind": "MONEYLINE",
         "label": "DAL",
-        "confidence": 66,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "confidence": 65,
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség +7.6 (alap +6.7, sérülési korrekció +0.90)."
+            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség +7.3 (alap +6.7, sérülési korrekció +0.55)."
           },
           {
             "title": "2026-os szezon",
@@ -1036,8 +1026,8 @@
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
-            "impact": 0.9,
-            "detail": "ARI: Andrew Wingard (S) — QUESTIONABLE, Bruise [kérdéses; lehetséges hatás: passzvédekezés/coverage]; ARI: Max Melton (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; ARI: Walter Nolen III (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; ARI: Jon Gaines II (G) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; ARI: Carson Beck (QB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: irányító/passing offense]; ARI: Tip Reiman (TE) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; ARI: Jeremiyah Love (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; ARI: Jalen Brooks (WR) — OUT, Surgery [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; DAL: Dee Winters (LB) — QUESTIONABLE, Strain [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; DAL: Drew Shelton (OT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; DAL: KaVontae Turpin (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység] | Beépített modellhatás: 0.90 pont, hazai oldal felé.",
+            "impact": 0.55,
+            "detail": "ARI: Andrew Wingard (S) — QUESTIONABLE, Bruise [kérdéses; lehetséges hatás: passzvédekezés/coverage]; ARI: Max Melton (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; ARI: Walter Nolen III (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; ARI: Jon Gaines II (G) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; ARI: Carson Beck (QB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: irányító/passing offense]; ARI: Tip Reiman (TE) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; ARI: Jeremiyah Love (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; DAL: Dee Winters (LB) — QUESTIONABLE, Strain [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; DAL: Drew Shelton (OT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; DAL: KaVontae Turpin (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység] | Beépített modellhatás: 0.55 pont, hazai oldal felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           },
@@ -1054,13 +1044,13 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált margin +7.6, piaci margin +6.5; edge +1.1, ami nem éri el a 1.5 pontos küszöböt."
+            "detail": "Sérülésekkel korrigált margin +7.3, piaci margin +6.5; edge +0.8, ami nem éri el a 1.5 pontos küszöböt."
           },
           {
             "title": "2026-os szezon",
@@ -1089,8 +1079,8 @@
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
-            "impact": 0.9,
-            "detail": "ARI: Andrew Wingard (S) — QUESTIONABLE, Bruise [kérdéses; lehetséges hatás: passzvédekezés/coverage]; ARI: Max Melton (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; ARI: Walter Nolen III (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; ARI: Jon Gaines II (G) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; ARI: Carson Beck (QB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: irányító/passing offense]; ARI: Tip Reiman (TE) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; ARI: Jeremiyah Love (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; ARI: Jalen Brooks (WR) — OUT, Surgery [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; DAL: Dee Winters (LB) — QUESTIONABLE, Strain [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; DAL: Drew Shelton (OT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; DAL: KaVontae Turpin (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység] | Beépített modellhatás: 0.90 pont, hazai oldal felé.",
+            "impact": 0.55,
+            "detail": "ARI: Andrew Wingard (S) — QUESTIONABLE, Bruise [kérdéses; lehetséges hatás: passzvédekezés/coverage]; ARI: Max Melton (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; ARI: Walter Nolen III (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; ARI: Jon Gaines II (G) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; ARI: Carson Beck (QB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: irányító/passing offense]; ARI: Tip Reiman (TE) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; ARI: Jeremiyah Love (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; DAL: Dee Winters (LB) — QUESTIONABLE, Strain [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; DAL: Drew Shelton (OT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; DAL: KaVontae Turpin (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység] | Beépített modellhatás: 0.55 pont, hazai oldal felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           },
@@ -1107,13 +1097,13 @@
         "kind": "UNDER",
         "label": "Under 54.5",
         "confidence": 57,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált total 52.3 (alap 52.6, sérülési korrekció -0.32), referencia 54.5; edge -2.2."
+            "detail": "Sérülésekkel korrigált total 52.4 (alap 52.6, sérülési korrekció -0.20), referencia 54.5; edge -2.1."
           },
           {
             "title": "2026-os szezon",
@@ -1148,8 +1138,8 @@
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
-            "impact": -0.32,
-            "detail": "ARI: Andrew Wingard (S) — QUESTIONABLE, Bruise [kérdéses; lehetséges hatás: passzvédekezés/coverage]; ARI: Max Melton (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; ARI: Walter Nolen III (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; ARI: Jon Gaines II (G) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; ARI: Carson Beck (QB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: irányító/passing offense]; ARI: Tip Reiman (TE) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; ARI: Jeremiyah Love (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; ARI: Jalen Brooks (WR) — OUT, Surgery [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; DAL: Dee Winters (LB) — QUESTIONABLE, Strain [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; DAL: Drew Shelton (OT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; DAL: KaVontae Turpin (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység] | Beépített modellhatás: 0.32 pont, alacsonyabb total felé.",
+            "impact": -0.2,
+            "detail": "ARI: Andrew Wingard (S) — QUESTIONABLE, Bruise [kérdéses; lehetséges hatás: passzvédekezés/coverage]; ARI: Max Melton (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; ARI: Walter Nolen III (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; ARI: Jon Gaines II (G) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; ARI: Carson Beck (QB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: irányító/passing offense]; ARI: Tip Reiman (TE) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; ARI: Jeremiyah Love (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; DAL: Dee Winters (LB) — QUESTIONABLE, Strain [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; DAL: Drew Shelton (OT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; DAL: KaVontae Turpin (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység] | Beépített modellhatás: 0.20 pont, alacsonyabb total felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           },
@@ -1169,14 +1159,14 @@
         "underRisk": 54.5
       },
       "forecast": {
-        "homeMargin": 7.64,
+        "homeMargin": 7.29,
         "rawHomeMargin": 6.8,
         "marketHomeMargin": 6.5,
-        "spreadEdge": 1.14,
-        "total": 52.32,
+        "spreadEdge": 0.79,
+        "total": 52.44,
         "rawTotal": 50.36,
         "marketTotal": 54.5,
-        "totalEdge": -2.18,
+        "totalEdge": -2.06,
         "leagueTotalPrior": 46.04,
         "sampleReliability": 1.0,
         "spreadThreshold": 1.5,
@@ -1188,54 +1178,42 @@
         "expectedAwayPoints": 23.14,
         "historicalGamesHome": 8,
         "historicalGamesAway": 8,
-        "overProbability": 0.4347,
-        "underProbability": 0.5653,
-        "overFairOdds": 2.301,
-        "underFairOdds": 1.769,
+        "overProbability": 0.4382,
+        "underProbability": 0.5618,
+        "overFairOdds": 2.282,
+        "underFairOdds": 1.78,
         "moneylineProbabilities": {
           "modelHome": 0.6913,
           "modelAway": 0.3087,
-          "marketHomeNoVig": 0.7335,
-          "marketAwayNoVig": 0.2665,
-          "homeProbabilityEdge": -0.0423
+          "marketHomeNoVig": 0.7258,
+          "marketAwayNoVig": 0.2742,
+          "homeProbabilityEdge": -0.0345
         },
         "baseHomeMargin": 6.74,
         "baseTotal": 52.64,
-        "injurySpreadAdjustment": 0.9,
-        "injuryTotalAdjustment": -0.32,
+        "injurySpreadAdjustment": 0.55,
+        "injuryTotalAdjustment": -0.2,
         "injuryApplied": true
       },
       "market": {
         "spread_line": 6.5,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 54.5,
-        "away_moneyline": 260.0,
-        "home_moneyline": -325.0
+        "away_moneyline": 250.0,
+        "home_moneyline": -310.0
       },
       "injuryImpact": {
-        "spreadAdjustment": 0.9,
-        "totalAdjustment": -0.32,
-        "awayBurden": 1.3,
+        "spreadAdjustment": 0.55,
+        "totalAdjustment": -0.2,
+        "awayBurden": 0.95,
         "homeBurden": 0.4,
-        "keyDrivers": [
-          "Jalen Brooks OUT: 0.35 pt"
-        ],
+        "keyDrivers": [],
         "model": "provisional-injury-impact-v1.1-depth-role",
         "calibrated": false,
         "dataAvailable": true,
         "appliedToForecast": true
       },
       "injuries": [
-        {
-          "team": "ARI",
-          "name": "Jalen Brooks",
-          "position": "WR",
-          "status": "OUT",
-          "injury": "Surgery",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.35,
-          "consequence": "biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység"
-        },
         {
           "team": "ARI",
           "name": "Tip Reiman",
@@ -1354,7 +1332,7 @@
         "kind": "MONEYLINE",
         "label": "MIN",
         "confidence": 57,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -1413,7 +1391,7 @@
         "kind": "SPREAD",
         "label": "MIN +3.0",
         "confidence": 63,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -1466,7 +1444,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -1554,9 +1532,9 @@
         "moneylineProbabilities": {
           "modelHome": 0.5016,
           "modelAway": 0.4984,
-          "marketHomeNoVig": 0.5996,
-          "marketAwayNoVig": 0.4004,
-          "homeProbabilityEdge": -0.098
+          "marketHomeNoVig": 0.6038,
+          "marketAwayNoVig": 0.3962,
+          "homeProbabilityEdge": -0.1021
         },
         "baseHomeMargin": 0.06,
         "baseTotal": 45.72,
@@ -1568,8 +1546,8 @@
         "spread_line": 3.0,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 46.5,
-        "away_moneyline": 140.0,
-        "home_moneyline": -166.0
+        "away_moneyline": 142.0,
+        "home_moneyline": -170.0
       },
       "injuryImpact": {
         "spreadAdjustment": -0.46,
@@ -1640,14 +1618,14 @@
       "moneyline": {
         "kind": "MONEYLINE",
         "label": "JAX",
-        "confidence": 66,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "confidence": 67,
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség +8.0 (alap +7.7, sérülési korrekció +0.37)."
+            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség +8.4 (alap +8.1, sérülési korrekció +0.37)."
           },
           {
             "title": "2026-os szezon",
@@ -1677,7 +1655,7 @@
             "title": "Piaci referencia",
             "weight": 10,
             "impact": 0,
-            "detail": "A referencia piaci hazai margin +7.5 (hazai handicap -7.5)."
+            "detail": "A referencia piaci hazai margin +9.5 (hazai handicap -9.5)."
           },
           {
             "title": "Sérülések és kezdők",
@@ -1700,13 +1678,13 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált margin +8.0, piaci margin +7.5; edge +0.5, ami nem éri el a 1.5 pontos küszöböt."
+            "detail": "Sérülésekkel korrigált margin +8.4, piaci margin +9.5; edge -1.1, ami nem éri el a 1.5 pontos küszöböt."
           },
           {
             "title": "2026-os szezon",
@@ -1753,7 +1731,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -1815,10 +1793,10 @@
         "underRisk": 46.5
       },
       "forecast": {
-        "homeMargin": 8.05,
+        "homeMargin": 8.45,
         "rawHomeMargin": 7.72,
-        "marketHomeMargin": 7.5,
-        "spreadEdge": 0.55,
+        "marketHomeMargin": 9.5,
+        "spreadEdge": -1.05,
         "total": 46.5,
         "rawTotal": 46.23,
         "marketTotal": 46.5,
@@ -1839,24 +1817,24 @@
         "overFairOdds": 2.0,
         "underFairOdds": 2.0,
         "moneylineProbabilities": {
-          "modelHome": 0.7152,
-          "modelAway": 0.2848,
-          "marketHomeNoVig": 0.7659,
-          "marketAwayNoVig": 0.2341,
-          "homeProbabilityEdge": -0.0507
+          "modelHome": 0.7251,
+          "modelAway": 0.2749,
+          "marketHomeNoVig": 0.7914,
+          "marketAwayNoVig": 0.2086,
+          "homeProbabilityEdge": -0.0662
         },
-        "baseHomeMargin": 7.68,
+        "baseHomeMargin": 8.08,
         "baseTotal": 46.38,
         "injurySpreadAdjustment": 0.37,
         "injuryTotalAdjustment": 0.12,
         "injuryApplied": true
       },
       "market": {
-        "spread_line": 7.5,
+        "spread_line": 9.5,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 46.5,
-        "away_moneyline": 310.0,
-        "home_moneyline": -395.0
+        "away_moneyline": 360.0,
+        "home_moneyline": -470.0
       },
       "injuryImpact": {
         "spreadAdjustment": 0.37,
@@ -1978,13 +1956,13 @@
         "kind": "MONEYLINE",
         "label": "NYJ",
         "confidence": 59,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség +1.4 (alap +2.0, sérülési korrekció -0.53)."
+            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség +2.0 (alap +2.6, sérülési korrekció -0.53)."
           },
           {
             "title": "2026-os szezon",
@@ -2014,7 +1992,7 @@
             "title": "Piaci referencia",
             "weight": 10,
             "impact": 0,
-            "detail": "A referencia piaci hazai margin -1.5 (hazai handicap +1.5)."
+            "detail": "A referencia piaci hazai margin +1.5 (hazai handicap -1.5)."
           },
           {
             "title": "Sérülések és kezdők",
@@ -2034,16 +2012,16 @@
         ]
       },
       "spread": {
-        "kind": "SPREAD",
-        "label": "NYJ +1.5",
-        "confidence": 62,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "kind": "NO_BET",
+        "label": "NO BET",
+        "confidence": 0,
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált hazai margin +1.4 (alap +2.0, sérülési korrekció -0.53), piaci margin -1.5; edge +2.9."
+            "detail": "Sérülésekkel korrigált margin +2.0, piaci margin +1.5; edge +0.5, ami nem éri el a 1.5 pontos küszöböt."
           },
           {
             "title": "2026-os szezon",
@@ -2090,7 +2068,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2152,10 +2130,10 @@
         "underRisk": 45.5
       },
       "forecast": {
-        "homeMargin": 1.43,
+        "homeMargin": 2.03,
         "rawHomeMargin": 2.83,
-        "marketHomeMargin": -1.5,
-        "spreadEdge": 2.93,
+        "marketHomeMargin": 1.5,
+        "spreadEdge": 0.53,
         "total": 46.02,
         "rawTotal": 46.76,
         "marketTotal": 45.5,
@@ -2176,24 +2154,24 @@
         "overFairOdds": 1.939,
         "underFairOdds": 2.065,
         "moneylineProbabilities": {
-          "modelHome": 0.5578,
-          "modelAway": 0.4422,
-          "marketHomeNoVig": 0.5,
-          "marketAwayNoVig": 0.5,
-          "homeProbabilityEdge": 0.0578
+          "modelHome": 0.5753,
+          "modelAway": 0.4247,
+          "marketHomeNoVig": 0.5261,
+          "marketAwayNoVig": 0.4739,
+          "homeProbabilityEdge": 0.0492
         },
-        "baseHomeMargin": 1.96,
+        "baseHomeMargin": 2.56,
         "baseTotal": 46.07,
         "injurySpreadAdjustment": -0.53,
         "injuryTotalAdjustment": -0.05,
         "injuryApplied": true
       },
       "market": {
-        "spread_line": -1.5,
+        "spread_line": 1.5,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 45.5,
-        "away_moneyline": -110.0,
-        "home_moneyline": -110.0
+        "away_moneyline": 102.0,
+        "home_moneyline": -122.0
       },
       "injuryImpact": {
         "spreadAdjustment": -0.53,
@@ -2295,7 +2273,7 @@
         "kind": "MONEYLINE",
         "label": "PIT",
         "confidence": 62,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2354,7 +2332,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2407,7 +2385,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2495,9 +2473,9 @@
         "moneylineProbabilities": {
           "modelHome": 0.6251,
           "modelAway": 0.3749,
-          "marketHomeNoVig": 0.6164,
-          "marketAwayNoVig": 0.3836,
-          "homeProbabilityEdge": 0.0086
+          "marketHomeNoVig": 0.6092,
+          "marketAwayNoVig": 0.3908,
+          "homeProbabilityEdge": 0.0158
         },
         "baseHomeMargin": 4.3,
         "baseTotal": 40.57,
@@ -2509,8 +2487,8 @@
         "spread_line": 3.5,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 39.5,
-        "away_moneyline": 150.0,
-        "home_moneyline": -180.0
+        "away_moneyline": 145.0,
+        "home_moneyline": -175.0
       },
       "injuryImpact": {
         "spreadAdjustment": 0.16,
@@ -2592,7 +2570,7 @@
         "kind": "MONEYLINE",
         "label": "TB",
         "confidence": 60,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2651,7 +2629,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2704,7 +2682,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2919,7 +2897,7 @@
         "kind": "MONEYLINE",
         "label": "LA",
         "confidence": 66,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2978,7 +2956,7 @@
         "kind": "SPREAD",
         "label": "LA -6.5",
         "confidence": 60,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3031,7 +3009,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3276,7 +3254,7 @@
         "kind": "MONEYLINE",
         "label": "KC",
         "confidence": 57,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3335,7 +3313,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3388,7 +3366,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3476,9 +3454,9 @@
         "moneylineProbabilities": {
           "modelHome": 0.4931,
           "modelAway": 0.5069,
-          "marketHomeNoVig": 0.4675,
-          "marketAwayNoVig": 0.5325,
-          "homeProbabilityEdge": 0.0256
+          "marketHomeNoVig": 0.4739,
+          "marketAwayNoVig": 0.5261,
+          "homeProbabilityEdge": 0.0192
         },
         "baseHomeMargin": -0.23,
         "baseTotal": 41.47,
@@ -3490,8 +3468,8 @@
         "spread_line": -1.5,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 41.5,
-        "away_moneyline": -125.0,
-        "home_moneyline": 105.0
+        "away_moneyline": -122.0,
+        "home_moneyline": 102.0
       },
       "injuryImpact": {
         "spreadAdjustment": -0.15,
@@ -3583,13 +3561,13 @@
         "kind": "MONEYLINE",
         "label": "NE",
         "confidence": 62,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség -4.6 (alap -4.7, sérülési korrekció +0.09)."
+            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség -4.5 (alap -4.6, sérülési korrekció +0.09)."
           },
           {
             "title": "2026-os szezon",
@@ -3619,7 +3597,7 @@
             "title": "Piaci referencia",
             "weight": 10,
             "impact": 0,
-            "detail": "A referencia piaci hazai margin -7.5 (hazai handicap +7.5)."
+            "detail": "A referencia piaci hazai margin -7.0 (hazai handicap +7.0)."
           },
           {
             "title": "Sérülések és kezdők",
@@ -3640,15 +3618,15 @@
       },
       "spread": {
         "kind": "SPREAD",
-        "label": "MIA +7.5",
-        "confidence": 62,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "label": "MIA +7.0",
+        "confidence": 61,
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált hazai margin -4.6 (alap -4.7, sérülési korrekció +0.09), piaci margin -7.5; edge +2.9."
+            "detail": "Sérülésekkel korrigált hazai margin -4.5 (alap -4.6, sérülési korrekció +0.09), piaci margin -7.0; edge +2.5."
           },
           {
             "title": "2026-os szezon",
@@ -3695,7 +3673,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3757,10 +3735,10 @@
         "underRisk": 44.5
       },
       "forecast": {
-        "homeMargin": -4.6,
+        "homeMargin": -4.5,
         "rawHomeMargin": -3.99,
-        "marketHomeMargin": -7.5,
-        "spreadEdge": 2.9,
+        "marketHomeMargin": -7.0,
+        "spreadEdge": 2.5,
         "total": 44.79,
         "rawTotal": 44.79,
         "marketTotal": 44.5,
@@ -3781,24 +3759,24 @@
         "overFairOdds": 1.966,
         "underFairOdds": 2.036,
         "moneylineProbabilities": {
-          "modelHome": 0.364,
-          "modelAway": 0.636,
-          "marketHomeNoVig": 0.2341,
-          "marketAwayNoVig": 0.7659,
-          "homeProbabilityEdge": 0.1299
+          "modelHome": 0.3668,
+          "modelAway": 0.6332,
+          "marketHomeNoVig": 0.2559,
+          "marketAwayNoVig": 0.7441,
+          "homeProbabilityEdge": 0.1109
         },
-        "baseHomeMargin": -4.69,
+        "baseHomeMargin": -4.59,
         "baseTotal": 44.63,
         "injurySpreadAdjustment": 0.09,
         "injuryTotalAdjustment": 0.16,
         "injuryApplied": true
       },
       "market": {
-        "spread_line": -7.5,
+        "spread_line": -7.0,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 44.5,
-        "away_moneyline": -395.0,
-        "home_moneyline": 310.0
+        "away_moneyline": -345.0,
+        "home_moneyline": 275.0
       },
       "injuryImpact": {
         "spreadAdjustment": 0.09,
@@ -3909,14 +3887,14 @@
       "moneyline": {
         "kind": "MONEYLINE",
         "label": "WAS",
-        "confidence": 60,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "confidence": 61,
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség +2.9 (alap +2.5, sérülési korrekció +0.48)."
+            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség +3.1 (alap +2.7, sérülési korrekció +0.48)."
           },
           {
             "title": "2026-os szezon",
@@ -3946,13 +3924,13 @@
             "title": "Piaci referencia",
             "weight": 10,
             "impact": 0,
-            "detail": "A referencia piaci hazai margin +4.5 (hazai handicap -4.5)."
+            "detail": "A referencia piaci hazai margin +5.5 (hazai handicap -5.5)."
           },
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
             "impact": 0.48,
-            "detail": "PHI: Saquon Barkley (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; PHI: Dameon Pierce (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; PHI: Dontayvion Wicks (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; PHI: DeVonta Smith (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; PHI: Nolan Smith Jr. (LB) — QUESTIONABLE, Concussion [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; PHI: Michael Carter II (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; PHI: Britain Covey (WR) — QUESTIONABLE, Knee [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; PHI: Lane Johnson (OT) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; WAS: Marcus Mariota (QB) — QUESTIONABLE, Sprain [kérdéses; lehetséges hatás: irányító/passing offense]; WAS: Terry McLaurin (WR) — OUT, Surgery [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; WAS: Charles Omenihu (DE) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; WAS: Javon Kinlaw (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 0.48 pont, hazai oldal felé.",
+            "detail": "PHI: Saquon Barkley (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; PHI: Dameon Pierce (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; PHI: Dontayvion Wicks (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; PHI: DeVonta Smith (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; PHI: Nolan Smith Jr. (LB) — QUESTIONABLE, Concussion [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; PHI: Michael Carter II (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; PHI: Britain Covey (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; PHI: Lane Johnson (OT) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; WAS: Marcus Mariota (QB) — QUESTIONABLE, Sprain [kérdéses; lehetséges hatás: irányító/passing offense]; WAS: Terry McLaurin (WR) — OUT, Surgery [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; WAS: Charles Omenihu (DE) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; WAS: Javon Kinlaw (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 0.48 pont, hazai oldal felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           },
@@ -3967,15 +3945,15 @@
       },
       "spread": {
         "kind": "SPREAD",
-        "label": "PHI +4.5",
-        "confidence": 60,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "label": "PHI +5.5",
+        "confidence": 61,
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált hazai margin +2.9 (alap +2.5, sérülési korrekció +0.48), piaci margin +4.5; edge -1.6."
+            "detail": "Sérülésekkel korrigált hazai margin +3.1 (alap +2.7, sérülési korrekció +0.48), piaci margin +5.5; edge -2.4."
           },
           {
             "title": "2026-os szezon",
@@ -4005,7 +3983,7 @@
             "title": "Sérülések és kezdők",
             "weight": 10,
             "impact": 0.48,
-            "detail": "PHI: Saquon Barkley (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; PHI: Dameon Pierce (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; PHI: Dontayvion Wicks (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; PHI: DeVonta Smith (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; PHI: Nolan Smith Jr. (LB) — QUESTIONABLE, Concussion [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; PHI: Michael Carter II (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; PHI: Britain Covey (WR) — QUESTIONABLE, Knee [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; PHI: Lane Johnson (OT) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; WAS: Marcus Mariota (QB) — QUESTIONABLE, Sprain [kérdéses; lehetséges hatás: irányító/passing offense]; WAS: Terry McLaurin (WR) — OUT, Surgery [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; WAS: Charles Omenihu (DE) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; WAS: Javon Kinlaw (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 0.48 pont, hazai oldal felé.",
+            "detail": "PHI: Saquon Barkley (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; PHI: Dameon Pierce (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; PHI: Dontayvion Wicks (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; PHI: DeVonta Smith (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; PHI: Nolan Smith Jr. (LB) — QUESTIONABLE, Concussion [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; PHI: Michael Carter II (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; PHI: Britain Covey (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; PHI: Lane Johnson (OT) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; WAS: Marcus Mariota (QB) — QUESTIONABLE, Sprain [kérdéses; lehetséges hatás: irányító/passing offense]; WAS: Terry McLaurin (WR) — OUT, Surgery [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; WAS: Charles Omenihu (DE) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; WAS: Javon Kinlaw (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 0.48 pont, hazai oldal felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           },
@@ -4022,7 +4000,7 @@
         "kind": "OVER",
         "label": "Over 40.5",
         "confidence": 57,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -4064,7 +4042,7 @@
             "title": "Sérülések és kezdők",
             "weight": 10,
             "impact": -0.41,
-            "detail": "PHI: Saquon Barkley (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; PHI: Dameon Pierce (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; PHI: Dontayvion Wicks (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; PHI: DeVonta Smith (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; PHI: Nolan Smith Jr. (LB) — QUESTIONABLE, Concussion [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; PHI: Michael Carter II (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; PHI: Britain Covey (WR) — QUESTIONABLE, Knee [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; PHI: Lane Johnson (OT) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; WAS: Marcus Mariota (QB) — QUESTIONABLE, Sprain [kérdéses; lehetséges hatás: irányító/passing offense]; WAS: Terry McLaurin (WR) — OUT, Surgery [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; WAS: Charles Omenihu (DE) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; WAS: Javon Kinlaw (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 0.41 pont, alacsonyabb total felé.",
+            "detail": "PHI: Saquon Barkley (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; PHI: Dameon Pierce (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; PHI: Dontayvion Wicks (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; PHI: DeVonta Smith (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; PHI: Nolan Smith Jr. (LB) — QUESTIONABLE, Concussion [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; PHI: Michael Carter II (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; PHI: Britain Covey (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; PHI: Lane Johnson (OT) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; WAS: Marcus Mariota (QB) — QUESTIONABLE, Sprain [kérdéses; lehetséges hatás: irányító/passing offense]; WAS: Terry McLaurin (WR) — OUT, Surgery [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; WAS: Charles Omenihu (DE) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; WAS: Javon Kinlaw (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 0.41 pont, alacsonyabb total felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           },
@@ -4084,10 +4062,10 @@
         "underRisk": 40.5
       },
       "forecast": {
-        "homeMargin": 2.94,
+        "homeMargin": 3.14,
         "rawHomeMargin": 1.95,
-        "marketHomeMargin": 4.5,
-        "spreadEdge": -1.56,
+        "marketHomeMargin": 5.5,
+        "spreadEdge": -2.36,
         "total": 42.5,
         "rawTotal": 45.86,
         "marketTotal": 40.5,
@@ -4108,24 +4086,24 @@
         "overFairOdds": 1.786,
         "underFairOdds": 2.273,
         "moneylineProbabilities": {
-          "modelHome": 0.5723,
-          "modelAway": 0.4277,
-          "marketHomeNoVig": 0.6447,
-          "marketAwayNoVig": 0.3553,
-          "homeProbabilityEdge": -0.0724
+          "modelHome": 0.5781,
+          "modelAway": 0.4219,
+          "marketHomeNoVig": 0.6575,
+          "marketAwayNoVig": 0.3425,
+          "homeProbabilityEdge": -0.0793
         },
-        "baseHomeMargin": 2.46,
+        "baseHomeMargin": 2.66,
         "baseTotal": 42.91,
         "injurySpreadAdjustment": 0.48,
         "injuryTotalAdjustment": -0.41,
         "injuryApplied": true
       },
       "market": {
-        "spread_line": 4.5,
+        "spread_line": 5.5,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 40.5,
-        "away_moneyline": 170.0,
-        "home_moneyline": -205.0
+        "away_moneyline": 180.0,
+        "home_moneyline": -218.0
       },
       "injuryImpact": {
         "spreadAdjustment": 0.48,
@@ -4207,7 +4185,7 @@
           "name": "Britain Covey",
           "position": "WR",
           "status": "QUESTIONABLE",
-          "injury": "Knee",
+          "injury": "Not Specified",
           "importance": "KIS",
           "modelPoints": 0.12,
           "consequence": "kérdéses; lehetséges hatás: passzjáték és célpontmélység"
@@ -4280,13 +4258,13 @@
         "kind": "MONEYLINE",
         "label": "SEA",
         "confidence": 59,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség +2.1 (alap +2.8, sérülési korrekció -0.64)."
+            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség +1.9 (alap +2.8, sérülési korrekció -0.92)."
           },
           {
             "title": "2026-os szezon",
@@ -4327,8 +4305,8 @@
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
-            "impact": -0.64,
-            "detail": "CHI: Anthony Johnson Jr. (S) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; CHI: Jack Sanborn (LB) — QUESTIONABLE, Concussion [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; CHI: Kyle Monangai (RB) — QUESTIONABLE, Sprain [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; CHI: T.J. Edwards (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Chazz Surratt (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Drake Thomas (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Drew Lock (QB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: irányító/passing offense]; SEA: Connor O'Toole (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Zach Charbonnet (RB) — QUESTIONABLE, Surgery [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; SEA: Charles Cross (OT) — DOUBTFUL, Sprain [erősen kérdéses; lehetséges hatás: pass protection és futásblokkolás]; SEA: Rashid Shaheed (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; SEA: Velus Jones Jr. (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection] | Beépített modellhatás: 0.64 pont, vendég oldal felé.",
+            "impact": -0.92,
+            "detail": "CHI: Jack Sanborn (LB) — QUESTIONABLE, Concussion [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; CHI: Kyle Monangai (RB) — QUESTIONABLE, Sprain [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; CHI: T.J. Edwards (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Chazz Surratt (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Drake Thomas (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Drew Lock (QB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: irányító/passing offense]; SEA: Connor O'Toole (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Zach Charbonnet (RB) — QUESTIONABLE, Surgery [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; SEA: Charles Cross (OT) — DOUBTFUL, Sprain [erősen kérdéses; lehetséges hatás: pass protection és futásblokkolás]; SEA: Rashid Shaheed (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; SEA: Velus Jones Jr. (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection] | Beépített modellhatás: 0.92 pont, vendég oldal felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           }
@@ -4338,13 +4316,13 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált margin +2.1, piaci margin +3.0; edge -0.9, ami nem éri el a 1.5 pontos küszöböt."
+            "detail": "Sérülésekkel korrigált margin +1.9, piaci margin +3.0; edge -1.1, ami nem éri el a 1.5 pontos küszöböt."
           },
           {
             "title": "2026-os szezon",
@@ -4379,8 +4357,8 @@
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
-            "impact": -0.64,
-            "detail": "CHI: Anthony Johnson Jr. (S) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; CHI: Jack Sanborn (LB) — QUESTIONABLE, Concussion [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; CHI: Kyle Monangai (RB) — QUESTIONABLE, Sprain [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; CHI: T.J. Edwards (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Chazz Surratt (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Drake Thomas (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Drew Lock (QB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: irányító/passing offense]; SEA: Connor O'Toole (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Zach Charbonnet (RB) — QUESTIONABLE, Surgery [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; SEA: Charles Cross (OT) — DOUBTFUL, Sprain [erősen kérdéses; lehetséges hatás: pass protection és futásblokkolás]; SEA: Rashid Shaheed (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; SEA: Velus Jones Jr. (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection] | Beépített modellhatás: 0.64 pont, vendég oldal felé.",
+            "impact": -0.92,
+            "detail": "CHI: Jack Sanborn (LB) — QUESTIONABLE, Concussion [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; CHI: Kyle Monangai (RB) — QUESTIONABLE, Sprain [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; CHI: T.J. Edwards (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Chazz Surratt (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Drake Thomas (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Drew Lock (QB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: irányító/passing offense]; SEA: Connor O'Toole (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Zach Charbonnet (RB) — QUESTIONABLE, Surgery [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; SEA: Charles Cross (OT) — DOUBTFUL, Sprain [erősen kérdéses; lehetséges hatás: pass protection és futásblokkolás]; SEA: Rashid Shaheed (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; SEA: Velus Jones Jr. (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection] | Beépített modellhatás: 0.92 pont, vendég oldal felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           }
@@ -4390,13 +4368,13 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-10-27T16:43:38.821352+00:00",
+        "updated": "2026-10-27T21:23:04.899930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált total 45.4 (alap 45.5, sérülési korrekció -0.12), referencia 46.5; eltérés -1.1, ami nem éri el a 2.0 pontos küszöböt."
+            "detail": "Sérülésekkel korrigált total 45.3 (alap 45.5, sérülési korrekció -0.22), referencia 46.5; eltérés -1.2, ami nem éri el a 2.0 pontos küszöböt."
           },
           {
             "title": "2026-os szezon",
@@ -4437,8 +4415,8 @@
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
-            "impact": -0.12,
-            "detail": "CHI: Anthony Johnson Jr. (S) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; CHI: Jack Sanborn (LB) — QUESTIONABLE, Concussion [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; CHI: Kyle Monangai (RB) — QUESTIONABLE, Sprain [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; CHI: T.J. Edwards (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Chazz Surratt (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Drake Thomas (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Drew Lock (QB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: irányító/passing offense]; SEA: Connor O'Toole (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Zach Charbonnet (RB) — QUESTIONABLE, Surgery [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; SEA: Charles Cross (OT) — DOUBTFUL, Sprain [erősen kérdéses; lehetséges hatás: pass protection és futásblokkolás]; SEA: Rashid Shaheed (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; SEA: Velus Jones Jr. (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection] | Beépített modellhatás: 0.12 pont, alacsonyabb total felé.",
+            "impact": -0.22,
+            "detail": "CHI: Jack Sanborn (LB) — QUESTIONABLE, Concussion [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; CHI: Kyle Monangai (RB) — QUESTIONABLE, Sprain [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; CHI: T.J. Edwards (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Chazz Surratt (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Drake Thomas (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Drew Lock (QB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: irányító/passing offense]; SEA: Connor O'Toole (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Zach Charbonnet (RB) — QUESTIONABLE, Surgery [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; SEA: Charles Cross (OT) — DOUBTFUL, Sprain [erősen kérdéses; lehetséges hatás: pass protection és futásblokkolás]; SEA: Rashid Shaheed (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; SEA: Velus Jones Jr. (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection] | Beépített modellhatás: 0.22 pont, alacsonyabb total felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           }
@@ -4451,14 +4429,14 @@
         "underRisk": 46.5
       },
       "forecast": {
-        "homeMargin": 2.13,
+        "homeMargin": 1.85,
         "rawHomeMargin": 2.72,
         "marketHomeMargin": 3.0,
-        "spreadEdge": -0.87,
-        "total": 45.39,
+        "spreadEdge": -1.15,
+        "total": 45.29,
         "rawTotal": 44.29,
         "marketTotal": 46.5,
-        "totalEdge": -1.11,
+        "totalEdge": -1.21,
         "leagueTotalPrior": 46.04,
         "sampleReliability": 1.0,
         "spreadThreshold": 1.5,
@@ -4470,10 +4448,10 @@
         "expectedAwayPoints": 21.7,
         "historicalGamesHome": 8,
         "historicalGamesAway": 8,
-        "overProbability": 0.4666,
-        "underProbability": 0.5334,
-        "overFairOdds": 2.143,
-        "underFairOdds": 1.875,
+        "overProbability": 0.4636,
+        "underProbability": 0.5364,
+        "overFairOdds": 2.157,
+        "underFairOdds": 1.864,
         "moneylineProbabilities": {
           "modelHome": 0.5814,
           "modelAway": 0.4186,
@@ -4483,8 +4461,8 @@
         },
         "baseHomeMargin": 2.77,
         "baseTotal": 45.51,
-        "injurySpreadAdjustment": -0.64,
-        "injuryTotalAdjustment": -0.12,
+        "injurySpreadAdjustment": -0.92,
+        "injuryTotalAdjustment": -0.22,
         "injuryApplied": true
       },
       "market": {
@@ -4495,9 +4473,9 @@
         "home_moneyline": -166.0
       },
       "injuryImpact": {
-        "spreadAdjustment": -0.64,
-        "totalAdjustment": -0.12,
-        "awayBurden": 0.52,
+        "spreadAdjustment": -0.92,
+        "totalAdjustment": -0.22,
+        "awayBurden": 0.24,
         "homeBurden": 1.16,
         "keyDrivers": [
           "Charles Cross DOUBTFUL: 0.44 pt"
@@ -4517,16 +4495,6 @@
           "importance": "KÖZEPES",
           "modelPoints": 0.44,
           "consequence": "erősen kérdéses; lehetséges hatás: pass protection és futásblokkolás"
-        },
-        {
-          "team": "CHI",
-          "name": "Anthony Johnson Jr.",
-          "position": "S",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.28,
-          "consequence": "biztos hiányzó; lehetséges hatás: passzvédekezés/coverage"
         },
         {
           "team": "SEA",
