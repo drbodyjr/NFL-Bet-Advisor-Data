@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 7,
-  "updatedAt": "2026-10-26T17:27:26.976000+00:00",
+  "updatedAt": "2026-10-27T02:08:49.289497+00:00",
   "dataStatus": "HISTORICAL_MARKET_V4",
   "games": [
     {
@@ -3251,120 +3251,10 @@
       "market": {
         "spread_line": -4.5,
         "spread_convention": "nflverse_signed_home_margin",
-        "total_line": 44.5,
-        "away_moneyline": -205.0,
-        "home_moneyline": 170.0
-      },
-      "injuryImpact": {
-        "spreadAdjustment": -0.3,
-        "totalAdjustment": -0.31,
-        "awayBurden": 1.15,
-        "homeBurden": 1.45,
-        "keyDrivers": [
-          "Drew Shelton OUT: 0.55 pt",
-          "KaVontae Turpin OUT: 0.35 pt",
-          "Michael Carter II OUT: 0.35 pt",
-          "Dontayvion Wicks OUT: 0.35 pt",
-          "DeVonta Smith OUT: 0.35 pt"
-        ],
-        "model": "provisional-injury-impact-v1.1-depth-role",
-        "calibrated": false,
-        "dataAvailable": true,
-        "appliedToForecast": true
-      },
-      "injuries": [
-        {
-          "team": "DAL",
-          "name": "Drew Shelton",
-          "position": "OT",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.55,
-          "consequence": "biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás"
-        },
-        {
-          "team": "DAL",
-          "name": "KaVontae Turpin",
-          "position": "WR",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.35,
-          "consequence": "biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység"
-        },
-        {
-          "team": "PHI",
-          "name": "Michael Carter II",
-          "position": "CB",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.35,
-          "consequence": "biztos hiányzó; lehetséges hatás: passzvédekezés/coverage"
-        },
-        {
-          "team": "PHI",
-          "name": "Dontayvion Wicks",
-          "position": "WR",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.35,
-          "consequence": "biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység"
-        },
-        {
-          "team": "PHI",
-          "name": "DeVonta Smith",
-          "position": "WR",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.35,
-          "consequence": "biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység"
-        },
-        {
-          "team": "DAL",
-          "name": "Dee Winters",
-          "position": "LB",
-          "status": "OUT",
-          "injury": "Strain",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.25,
-          "consequence": "biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés"
-        },
-        {
-          "team": "PHI",
-          "name": "Nolan Smith Jr.",
-          "position": "LB",
-          "status": "OUT",
-          "injury": "Concussion",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.25,
-          "consequence": "biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés"
-        },
-        {
-          "team": "PHI",
-          "name": "Jonathan Greenard",
-          "position": "LB",
-          "status": "QUESTIONABLE",
-          "injury": "Ankle",
-          "importance": "KIS",
-          "modelPoints": 0.09,
-          "consequence": "kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés"
-        },
-        {
-          "team": "PHI",
-          "name": "Saquon Barkley",
-          "position": "RB",
-          "status": "QUESTIONABLE",
-          "injury": "Not Specified",
-          "importance": "KIS",
-          "modelPoints": 0.06,
-          "consequence": "kérdéses; lehetséges hatás: futójáték és checkdown/pass protection"
-        }
-      ],
-      "injurySource": "ESPN core injury feed"
+        "total_line": 43.5,
+        "away_moneyline": -225.0,
+        "home_moneyline": 185.0
+      }
     }
   ],
   "model": {
