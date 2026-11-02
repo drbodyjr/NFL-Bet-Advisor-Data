@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 8,
-  "updatedAt": "2026-11-02T05:56:26.346724+00:00",
+  "updatedAt": "2026-11-02T13:37:29.776735+00:00",
   "dataStatus": "HISTORICAL_MARKET_V4",
   "games": [
     {
@@ -2858,7 +2858,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: cloudy 10.92°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: clear night 9.19°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -2911,7 +2911,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: cloudy 10.92°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: clear night 9.19°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -2970,7 +2970,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: cloudy 10.92°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: clear night 9.19°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -3041,7 +3041,7 @@
         "kind": "MONEYLINE",
         "label": "SEA",
         "confidence": 59,
-        "updated": "2026-11-02T05:56:26.346724+00:00",
+        "updated": "2026-11-02T13:37:29.776735+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3099,7 +3099,7 @@
         "kind": "SPREAD",
         "label": "CHI +3.0",
         "confidence": 60,
-        "updated": "2026-11-02T05:56:26.346724+00:00",
+        "updated": "2026-11-02T13:37:29.776735+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3151,7 +3151,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-02T05:56:26.346724+00:00",
+        "updated": "2026-11-02T13:37:29.776735+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3238,9 +3238,9 @@
         "moneylineProbabilities": {
           "modelHome": 0.5814,
           "modelAway": 0.4186,
-          "marketHomeNoVig": 0.6092,
-          "marketAwayNoVig": 0.3908,
-          "homeProbabilityEdge": -0.0278
+          "marketHomeNoVig": 0.6038,
+          "marketAwayNoVig": 0.3962,
+          "homeProbabilityEdge": -0.0224
         },
         "baseHomeMargin": 2.77,
         "baseTotal": 45.51,
@@ -3252,8 +3252,8 @@
         "spread_line": 3.0,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 46.5,
-        "away_moneyline": 145.0,
-        "home_moneyline": -175.0
+        "away_moneyline": 142.0,
+        "home_moneyline": -170.0
       },
       "injuryImpact": {
         "spreadAdjustment": -1.4,
