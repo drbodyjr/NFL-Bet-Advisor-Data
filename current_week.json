@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 8,
-  "updatedAt": "2026-11-02T13:37:29.776735+00:00",
+  "updatedAt": "2026-11-02T23:54:59.835210+00:00",
   "dataStatus": "HISTORICAL_MARKET_V4",
   "games": [
     {
@@ -3040,14 +3040,14 @@
       "moneyline": {
         "kind": "MONEYLINE",
         "label": "SEA",
-        "confidence": 59,
-        "updated": "2026-11-02T13:37:29.776735+00:00",
+        "confidence": 60,
+        "updated": "2026-11-02T23:54:59.835210+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség +1.4 (alap +2.8, sérülési korrekció -1.40)."
+            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség +2.2 (alap +2.8, sérülési korrekció -0.55)."
           },
           {
             "title": "2026-os szezon",
@@ -3088,24 +3088,24 @@
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
-            "impact": -1.4,
-            "detail": "CHI: Malik Muhammad II (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; CHI: D'Marco Jackson (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; CHI: Kyle Monangai (RB) — OUT, Sprain [biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection]; SEA: Charles Cross (OT) — OUT, Sprain [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; SEA: Velus Jones Jr. (RB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection]; SEA: Drew Lock (QB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: irányító/passing offense]; SEA: Uchenna Nwosu (LB) — DOUBTFUL, Not Specified [erősen kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Rashid Shaheed (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; SEA: Brandon Pili (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Anthony Bradford (G) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; SEA: Patrick O'Connell (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 1.40 pont, vendég oldal felé.",
+            "impact": -0.55,
+            "detail": "CHI: Jordan van den Berg (DT) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; CHI: Case Keenum (QB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: irányító/passing offense]; CHI: Jayden Loving (DT) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; CHI: Jordan McFadden (G) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; CHI: Kyle Monangai (RB) — OUT, Sprain [biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection]; CHI: Malik Muhammad II (CB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; SEA: Brandon Pili (DT) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Rashid Shaheed (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; SEA: Beau Stephens (G) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; SEA: Velus Jones Jr. (RB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection]; SEA: Drew Lock (QB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: irányító/passing offense]; SEA: Uchenna Nwosu (LB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Charles Cross (OT) — OUT, Sprain [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás] | Beépített modellhatás: 0.55 pont, vendég oldal felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           }
         ]
       },
       "spread": {
-        "kind": "SPREAD",
-        "label": "CHI +3.0",
-        "confidence": 60,
-        "updated": "2026-11-02T13:37:29.776735+00:00",
+        "kind": "NO_BET",
+        "label": "NO BET",
+        "confidence": 0,
+        "updated": "2026-11-02T23:54:59.835210+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált hazai margin +1.4 (alap +2.8, sérülési korrekció -1.40), piaci margin +3.0; edge -1.6."
+            "detail": "Sérülésekkel korrigált margin +2.2, piaci margin +3.0; edge -0.8, ami nem éri el a 1.5 pontos küszöböt."
           },
           {
             "title": "2026-os szezon",
@@ -3140,8 +3140,8 @@
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
-            "impact": -1.4,
-            "detail": "CHI: Malik Muhammad II (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; CHI: D'Marco Jackson (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; CHI: Kyle Monangai (RB) — OUT, Sprain [biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection]; SEA: Charles Cross (OT) — OUT, Sprain [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; SEA: Velus Jones Jr. (RB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection]; SEA: Drew Lock (QB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: irányító/passing offense]; SEA: Uchenna Nwosu (LB) — DOUBTFUL, Not Specified [erősen kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Rashid Shaheed (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; SEA: Brandon Pili (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Anthony Bradford (G) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; SEA: Patrick O'Connell (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 1.40 pont, vendég oldal felé.",
+            "impact": -0.55,
+            "detail": "CHI: Jordan van den Berg (DT) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; CHI: Case Keenum (QB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: irányító/passing offense]; CHI: Jayden Loving (DT) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; CHI: Jordan McFadden (G) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; CHI: Kyle Monangai (RB) — OUT, Sprain [biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection]; CHI: Malik Muhammad II (CB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; SEA: Brandon Pili (DT) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Rashid Shaheed (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; SEA: Beau Stephens (G) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; SEA: Velus Jones Jr. (RB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection]; SEA: Drew Lock (QB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: irányító/passing offense]; SEA: Uchenna Nwosu (LB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Charles Cross (OT) — OUT, Sprain [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás] | Beépített modellhatás: 0.55 pont, vendég oldal felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           }
@@ -3151,13 +3151,13 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-02T13:37:29.776735+00:00",
+        "updated": "2026-11-02T23:54:59.835210+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált total 45.1 (alap 45.5, sérülési korrekció -0.36), referencia 46.5; eltérés -1.4, ami nem éri el a 2.0 pontos küszöböt."
+            "detail": "Sérülésekkel korrigált total 44.8 (alap 45.5, sérülési korrekció -0.71), referencia 46.5; eltérés -1.7, ami nem éri el a 2.0 pontos küszöböt."
           },
           {
             "title": "2026-os szezon",
@@ -3198,8 +3198,8 @@
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
-            "impact": -0.36,
-            "detail": "CHI: Malik Muhammad II (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; CHI: D'Marco Jackson (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; CHI: Kyle Monangai (RB) — OUT, Sprain [biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection]; SEA: Charles Cross (OT) — OUT, Sprain [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; SEA: Velus Jones Jr. (RB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection]; SEA: Drew Lock (QB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: irányító/passing offense]; SEA: Uchenna Nwosu (LB) — DOUBTFUL, Not Specified [erősen kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Rashid Shaheed (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; SEA: Brandon Pili (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Anthony Bradford (G) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; SEA: Patrick O'Connell (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 0.36 pont, alacsonyabb total felé.",
+            "impact": -0.71,
+            "detail": "CHI: Jordan van den Berg (DT) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; CHI: Case Keenum (QB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: irányító/passing offense]; CHI: Jayden Loving (DT) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; CHI: Jordan McFadden (G) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; CHI: Kyle Monangai (RB) — OUT, Sprain [biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection]; CHI: Malik Muhammad II (CB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; SEA: Brandon Pili (DT) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Rashid Shaheed (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; SEA: Beau Stephens (G) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; SEA: Velus Jones Jr. (RB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection]; SEA: Drew Lock (QB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: irányító/passing offense]; SEA: Uchenna Nwosu (LB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; SEA: Charles Cross (OT) — OUT, Sprain [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás] | Beépített modellhatás: 0.71 pont, alacsonyabb total felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           }
@@ -3212,14 +3212,14 @@
         "underRisk": 46.5
       },
       "forecast": {
-        "homeMargin": 1.37,
+        "homeMargin": 2.22,
         "rawHomeMargin": 2.72,
         "marketHomeMargin": 3.0,
-        "spreadEdge": -1.63,
-        "total": 45.15,
+        "spreadEdge": -0.78,
+        "total": 44.8,
         "rawTotal": 44.3,
         "marketTotal": 46.5,
-        "totalEdge": -1.35,
+        "totalEdge": -1.7,
         "leagueTotalPrior": 46.07,
         "sampleReliability": 1.0,
         "spreadThreshold": 1.5,
@@ -3231,10 +3231,10 @@
         "expectedAwayPoints": 21.71,
         "historicalGamesHome": 8,
         "historicalGamesAway": 8,
-        "overProbability": 0.4598,
-        "underProbability": 0.5402,
-        "overFairOdds": 2.175,
-        "underFairOdds": 1.851,
+        "overProbability": 0.4495,
+        "underProbability": 0.5505,
+        "overFairOdds": 2.225,
+        "underFairOdds": 1.816,
         "moneylineProbabilities": {
           "modelHome": 0.5814,
           "modelAway": 0.4186,
@@ -3244,8 +3244,8 @@
         },
         "baseHomeMargin": 2.77,
         "baseTotal": 45.51,
-        "injurySpreadAdjustment": -1.4,
-        "injuryTotalAdjustment": -0.36,
+        "injurySpreadAdjustment": -0.55,
+        "injuryTotalAdjustment": -0.71,
         "injuryApplied": true
       },
       "market": {
@@ -3256,13 +3256,18 @@
         "home_moneyline": -170.0
       },
       "injuryImpact": {
-        "spreadAdjustment": -1.4,
-        "totalAdjustment": -0.36,
-        "awayBurden": 0.39,
-        "homeBurden": 1.79,
+        "spreadAdjustment": -0.55,
+        "totalAdjustment": -0.71,
+        "awayBurden": 1.98,
+        "homeBurden": 2.53,
         "keyDrivers": [
-          "Charles Cross OUT: 0.55 pt",
-          "Rashid Shaheed OUT: 0.35 pt"
+          "Case Keenum OUT: 0.60 pt",
+          "Jordan McFadden OUT: 0.35 pt",
+          "Malik Muhammad II OUT: 0.35 pt",
+          "Rashid Shaheed OUT: 0.35 pt",
+          "Beau Stephens OUT: 0.35 pt",
+          "Drew Lock OUT: 0.60 pt",
+          "Charles Cross OUT: 0.55 pt"
         ],
         "model": "provisional-injury-impact-v1.1-depth-role",
         "calibrated": false,
@@ -3270,6 +3275,26 @@
         "appliedToForecast": true
       },
       "injuries": [
+        {
+          "team": "CHI",
+          "name": "Case Keenum",
+          "position": "QB",
+          "status": "OUT",
+          "injury": "Not Specified",
+          "importance": "NAGY",
+          "modelPoints": 0.6,
+          "consequence": "biztos hiányzó; lehetséges hatás: irányító/passing offense"
+        },
+        {
+          "team": "SEA",
+          "name": "Drew Lock",
+          "position": "QB",
+          "status": "OUT",
+          "injury": "Not Specified",
+          "importance": "NAGY",
+          "modelPoints": 0.6,
+          "consequence": "biztos hiányzó; lehetséges hatás: irányító/passing offense"
+        },
         {
           "team": "SEA",
           "name": "Charles Cross",
@@ -3279,6 +3304,26 @@
           "importance": "KÖZEPES",
           "modelPoints": 0.55,
           "consequence": "biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás"
+        },
+        {
+          "team": "CHI",
+          "name": "Jordan McFadden",
+          "position": "G",
+          "status": "OUT",
+          "injury": "Not Specified",
+          "importance": "KÖZEPES",
+          "modelPoints": 0.35,
+          "consequence": "biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás"
+        },
+        {
+          "team": "CHI",
+          "name": "Malik Muhammad II",
+          "position": "CB",
+          "status": "OUT",
+          "injury": "Not Specified",
+          "importance": "KÖZEPES",
+          "modelPoints": 0.35,
+          "consequence": "biztos hiányzó; lehetséges hatás: passzvédekezés/coverage"
         },
         {
           "team": "SEA",
@@ -3292,23 +3337,53 @@
         },
         {
           "team": "SEA",
-          "name": "Drew Lock",
-          "position": "QB",
-          "status": "QUESTIONABLE",
+          "name": "Beau Stephens",
+          "position": "G",
+          "status": "OUT",
           "injury": "Not Specified",
-          "importance": "KIS",
-          "modelPoints": 0.21,
-          "consequence": "kérdéses; lehetséges hatás: irányító/passing offense"
+          "importance": "KÖZEPES",
+          "modelPoints": 0.35,
+          "consequence": "biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás"
+        },
+        {
+          "team": "CHI",
+          "name": "Jordan van den Berg",
+          "position": "DT",
+          "status": "OUT",
+          "injury": "Not Specified",
+          "importance": "KÖZEPES",
+          "modelPoints": 0.25,
+          "consequence": "biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés"
+        },
+        {
+          "team": "CHI",
+          "name": "Jayden Loving",
+          "position": "DT",
+          "status": "OUT",
+          "injury": "Not Specified",
+          "importance": "KÖZEPES",
+          "modelPoints": 0.25,
+          "consequence": "biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés"
+        },
+        {
+          "team": "SEA",
+          "name": "Brandon Pili",
+          "position": "DT",
+          "status": "OUT",
+          "injury": "Not Specified",
+          "importance": "KÖZEPES",
+          "modelPoints": 0.25,
+          "consequence": "biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés"
         },
         {
           "team": "SEA",
           "name": "Uchenna Nwosu",
           "position": "LB",
-          "status": "DOUBTFUL",
+          "status": "OUT",
           "injury": "Not Specified",
-          "importance": "KIS",
-          "modelPoints": 0.2,
-          "consequence": "erősen kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés"
+          "importance": "KÖZEPES",
+          "modelPoints": 0.25,
+          "consequence": "biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés"
         },
         {
           "team": "CHI",
@@ -3329,56 +3404,6 @@
           "importance": "KIS",
           "modelPoints": 0.18,
           "consequence": "biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection"
-        },
-        {
-          "team": "CHI",
-          "name": "Malik Muhammad II",
-          "position": "CB",
-          "status": "QUESTIONABLE",
-          "injury": "Not Specified",
-          "importance": "KIS",
-          "modelPoints": 0.12,
-          "consequence": "kérdéses; lehetséges hatás: passzvédekezés/coverage"
-        },
-        {
-          "team": "SEA",
-          "name": "Anthony Bradford",
-          "position": "G",
-          "status": "QUESTIONABLE",
-          "injury": "Not Specified",
-          "importance": "KIS",
-          "modelPoints": 0.12,
-          "consequence": "kérdéses; lehetséges hatás: pass protection és futásblokkolás"
-        },
-        {
-          "team": "CHI",
-          "name": "D'Marco Jackson",
-          "position": "LB",
-          "status": "QUESTIONABLE",
-          "injury": "Not Specified",
-          "importance": "KIS",
-          "modelPoints": 0.09,
-          "consequence": "kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés"
-        },
-        {
-          "team": "SEA",
-          "name": "Brandon Pili",
-          "position": "DT",
-          "status": "QUESTIONABLE",
-          "injury": "Not Specified",
-          "importance": "KIS",
-          "modelPoints": 0.09,
-          "consequence": "kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés"
-        },
-        {
-          "team": "SEA",
-          "name": "Patrick O'Connell",
-          "position": "LB",
-          "status": "QUESTIONABLE",
-          "injury": "Not Specified",
-          "importance": "KIS",
-          "modelPoints": 0.09,
-          "consequence": "kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés"
         }
       ],
       "injurySource": "ESPN core injury feed"
