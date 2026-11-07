@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 9,
-  "updatedAt": "2026-11-07T11:47:13.991265+00:00",
+  "updatedAt": "2026-11-07T20:57:31.912386+00:00",
   "dataStatus": "HISTORICAL_MARKET_V4",
   "games": [
     {
@@ -245,7 +245,7 @@
         "kind": "MONEYLINE",
         "label": "CIN",
         "confidence": 62,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -295,7 +295,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: cloudy 15.6°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: cloudy 15.7°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -304,7 +304,7 @@
         "kind": "SPREAD",
         "label": "CIN -3.0",
         "confidence": 60,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -348,7 +348,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: cloudy 15.6°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: cloudy 15.7°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -357,7 +357,7 @@
         "kind": "UNDER",
         "label": "Under 52.5",
         "confidence": 57,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -407,7 +407,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: cloudy 15.6°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: cloudy 15.7°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -445,9 +445,9 @@
         "moneylineProbabilities": {
           "modelHome": 0.3716,
           "modelAway": 0.6284,
-          "marketHomeNoVig": 0.3836,
-          "marketAwayNoVig": 0.6164,
-          "homeProbabilityEdge": -0.012
+          "marketHomeNoVig": 0.3908,
+          "marketAwayNoVig": 0.6092,
+          "homeProbabilityEdge": -0.0192
         },
         "baseHomeMargin": -4.42,
         "baseTotal": 50.4,
@@ -459,8 +459,8 @@
         "spread_line": -3.0,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 52.5,
-        "away_moneyline": -180.0,
-        "home_moneyline": 150.0
+        "away_moneyline": -175.0,
+        "home_moneyline": 145.0
       },
       "injuryImpact": {
         "spreadAdjustment": -0.3,
@@ -553,14 +553,14 @@
       "moneyline": {
         "kind": "MONEYLINE",
         "label": "DEN",
-        "confidence": 60,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "confidence": 59,
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség -2.3 (alap -2.0, sérülési korrekció -0.28)."
+            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség -2.2 (alap -1.9, sérülési korrekció -0.28)."
           },
           {
             "title": "2026-os szezon",
@@ -590,7 +590,7 @@
             "title": "Piaci referencia",
             "weight": 10,
             "impact": 0,
-            "detail": "A referencia piaci hazai margin -3.0 (hazai handicap +3.0)."
+            "detail": "A referencia piaci hazai margin -2.5 (hazai handicap +2.5)."
           },
           {
             "title": "Sérülések és kezdők",
@@ -604,7 +604,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: clear day 17.49°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: clear day 17.67°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -613,13 +613,13 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált margin -2.3, piaci margin -3.0; edge +0.7, ami nem éri el a 1.5 pontos küszöböt."
+            "detail": "Sérülésekkel korrigált margin -2.2, piaci margin -2.5; edge +0.3, ami nem éri el a 1.5 pontos küszöböt."
           },
           {
             "title": "2026-os szezon",
@@ -657,7 +657,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: clear day 17.49°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: clear day 17.67°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -666,7 +666,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -716,7 +716,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: clear day 17.49°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: clear day 17.67°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -728,10 +728,10 @@
         "underRisk": 44.5
       },
       "forecast": {
-        "homeMargin": -2.26,
+        "homeMargin": -2.16,
         "rawHomeMargin": -1.73,
-        "marketHomeMargin": -3.0,
-        "spreadEdge": 0.74,
+        "marketHomeMargin": -2.5,
+        "spreadEdge": 0.34,
         "total": 45.5,
         "rawTotal": 45.88,
         "marketTotal": 44.5,
@@ -752,24 +752,24 @@
         "overFairOdds": 1.887,
         "underFairOdds": 2.127,
         "moneylineProbabilities": {
-          "modelHome": 0.4417,
-          "modelAway": 0.5583,
-          "marketHomeNoVig": 0.4279,
-          "marketAwayNoVig": 0.5721,
-          "homeProbabilityEdge": 0.0137
+          "modelHome": 0.4446,
+          "modelAway": 0.5554,
+          "marketHomeNoVig": 0.4365,
+          "marketAwayNoVig": 0.5635,
+          "homeProbabilityEdge": 0.0081
         },
-        "baseHomeMargin": -1.98,
+        "baseHomeMargin": -1.88,
         "baseTotal": 45.12,
         "injurySpreadAdjustment": -0.28,
         "injuryTotalAdjustment": 0.38,
         "injuryApplied": true
       },
       "market": {
-        "spread_line": -3.0,
+        "spread_line": -2.5,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 44.5,
-        "away_moneyline": -148.0,
-        "home_moneyline": 124.0
+        "away_moneyline": -142.0,
+        "home_moneyline": 120.0
       },
       "injuryImpact": {
         "spreadAdjustment": -0.28,
@@ -915,14 +915,14 @@
       "moneyline": {
         "kind": "MONEYLINE",
         "label": "DAL",
-        "confidence": 61,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "confidence": 62,
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség -3.7 (alap -3.9, sérülési korrekció +0.22)."
+            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség -4.0 (alap -3.9, sérülési korrekció -0.13)."
           },
           {
             "title": "2026-os szezon",
@@ -957,8 +957,8 @@
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
-            "impact": 0.22,
-            "detail": "DAL: Joey Porter Jr. (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; DAL: DeMarvion Overshown (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; DAL: Malachi Lawrence (LB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; DAL: KaVontae Turpin (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; DAL: Jake Ferguson (TE) — QUESTIONABLE, Sprain [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; DAL: George Pickens (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; DAL: Luke Schoonmaker (TE) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; IND: Justin Walley (CB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; IND: A.J. Haulcy (S) — QUESTIONABLE, Ankle [kérdéses; lehetséges hatás: passzvédekezés/coverage]; IND: Jalen Travis (OT) — QUESTIONABLE, Thumb [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; IND: Akeem Davis-Gaither (LB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 0.22 pont, hazai oldal felé.",
+            "impact": -0.13,
+            "detail": "DAL: Marist Liufau (LB) — QUESTIONABLE, Fracture [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; DAL: Joey Porter Jr. (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; DAL: DeMarvion Overshown (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; DAL: KaVontae Turpin (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; DAL: Jake Ferguson (TE) — QUESTIONABLE, Sprain [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; DAL: George Pickens (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; DAL: Luke Schoonmaker (TE) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; IND: Justin Walley (CB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; IND: A.J. Haulcy (S) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; IND: Jalen Travis (OT) — QUESTIONABLE, Thumb [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; IND: Akeem Davis-Gaither (LB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 0.13 pont, vendég oldal felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           },
@@ -966,7 +966,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: clear day 12.04°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: clear day 12.12°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -975,13 +975,13 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált margin -3.7, piaci margin -4.5; edge +0.8, ami nem éri el a 1.5 pontos küszöböt."
+            "detail": "Sérülésekkel korrigált margin -4.0, piaci margin -4.5; edge +0.5, ami nem éri el a 1.5 pontos küszöböt."
           },
           {
             "title": "2026-os szezon",
@@ -1010,8 +1010,8 @@
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
-            "impact": 0.22,
-            "detail": "DAL: Joey Porter Jr. (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; DAL: DeMarvion Overshown (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; DAL: Malachi Lawrence (LB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; DAL: KaVontae Turpin (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; DAL: Jake Ferguson (TE) — QUESTIONABLE, Sprain [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; DAL: George Pickens (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; DAL: Luke Schoonmaker (TE) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; IND: Justin Walley (CB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; IND: A.J. Haulcy (S) — QUESTIONABLE, Ankle [kérdéses; lehetséges hatás: passzvédekezés/coverage]; IND: Jalen Travis (OT) — QUESTIONABLE, Thumb [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; IND: Akeem Davis-Gaither (LB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 0.22 pont, hazai oldal felé.",
+            "impact": -0.13,
+            "detail": "DAL: Marist Liufau (LB) — QUESTIONABLE, Fracture [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; DAL: Joey Porter Jr. (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; DAL: DeMarvion Overshown (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; DAL: KaVontae Turpin (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; DAL: Jake Ferguson (TE) — QUESTIONABLE, Sprain [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; DAL: George Pickens (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; DAL: Luke Schoonmaker (TE) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; IND: Justin Walley (CB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; IND: A.J. Haulcy (S) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; IND: Jalen Travis (OT) — QUESTIONABLE, Thumb [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; IND: Akeem Davis-Gaither (LB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 0.13 pont, vendég oldal felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           },
@@ -1019,7 +1019,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: clear day 12.04°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: clear day 12.12°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -1028,13 +1028,13 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált total 50.9 (alap 50.8, sérülési korrekció +0.02), referencia 51.5; eltérés -0.6, ami nem éri el a 2.0 pontos küszöböt."
+            "detail": "Sérülésekkel korrigált total 50.9 (alap 50.8, sérülési korrekció +0.06), referencia 51.5; eltérés -0.6, ami nem éri el a 2.0 pontos küszöböt."
           },
           {
             "title": "2026-os szezon",
@@ -1069,8 +1069,8 @@
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
-            "impact": 0.02,
-            "detail": "DAL: Joey Porter Jr. (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; DAL: DeMarvion Overshown (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; DAL: Malachi Lawrence (LB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; DAL: KaVontae Turpin (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; DAL: Jake Ferguson (TE) — QUESTIONABLE, Sprain [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; DAL: George Pickens (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; DAL: Luke Schoonmaker (TE) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; IND: Justin Walley (CB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; IND: A.J. Haulcy (S) — QUESTIONABLE, Ankle [kérdéses; lehetséges hatás: passzvédekezés/coverage]; IND: Jalen Travis (OT) — QUESTIONABLE, Thumb [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; IND: Akeem Davis-Gaither (LB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 0.02 pont, magasabb total felé.",
+            "impact": 0.06,
+            "detail": "DAL: Marist Liufau (LB) — QUESTIONABLE, Fracture [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; DAL: Joey Porter Jr. (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; DAL: DeMarvion Overshown (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; DAL: KaVontae Turpin (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; DAL: Jake Ferguson (TE) — QUESTIONABLE, Sprain [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; DAL: George Pickens (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; DAL: Luke Schoonmaker (TE) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; IND: Justin Walley (CB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; IND: A.J. Haulcy (S) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; IND: Jalen Travis (OT) — QUESTIONABLE, Thumb [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; IND: Akeem Davis-Gaither (LB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 0.06 pont, magasabb total felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           },
@@ -1078,7 +1078,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: clear day 12.04°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: clear day 12.12°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -1090,14 +1090,14 @@
         "underRisk": 51.5
       },
       "forecast": {
-        "homeMargin": -3.7,
+        "homeMargin": -4.05,
         "rawHomeMargin": -3.77,
         "marketHomeMargin": -4.5,
-        "spreadEdge": 0.8,
-        "total": 50.85,
+        "spreadEdge": 0.45,
+        "total": 50.89,
         "rawTotal": 50.02,
         "marketTotal": 51.5,
-        "totalEdge": -0.65,
+        "totalEdge": -0.61,
         "leagueTotalPrior": 46.08,
         "sampleReliability": 1.0,
         "spreadThreshold": 1.5,
@@ -1109,10 +1109,10 @@
         "expectedAwayPoints": 26.51,
         "historicalGamesHome": 8,
         "historicalGamesAway": 8,
-        "overProbability": 0.4806,
-        "underProbability": 0.5194,
-        "overFairOdds": 2.081,
-        "underFairOdds": 1.925,
+        "overProbability": 0.4818,
+        "underProbability": 0.5182,
+        "overFairOdds": 2.076,
+        "underFairOdds": 1.93,
         "moneylineProbabilities": {
           "modelHome": 0.3859,
           "modelAway": 0.6141,
@@ -1122,8 +1122,8 @@
         },
         "baseHomeMargin": -3.92,
         "baseTotal": 50.83,
-        "injurySpreadAdjustment": 0.22,
-        "injuryTotalAdjustment": 0.02,
+        "injurySpreadAdjustment": -0.13,
+        "injuryTotalAdjustment": 0.06,
         "injuryApplied": true
       },
       "market": {
@@ -1134,10 +1134,10 @@
         "home_moneyline": 185.0
       },
       "injuryImpact": {
-        "spreadAdjustment": 0.22,
-        "totalAdjustment": 0.02,
-        "awayBurden": 1.11,
-        "homeBurden": 0.89,
+        "spreadAdjustment": -0.13,
+        "totalAdjustment": 0.06,
+        "awayBurden": 0.94,
+        "homeBurden": 1.07,
         "keyDrivers": [
           "KaVontae Turpin OUT: 0.35 pt",
           "Justin Walley OUT: 0.35 pt"
@@ -1169,14 +1169,14 @@
           "consequence": "biztos hiányzó; lehetséges hatás: passzvédekezés/coverage"
         },
         {
-          "team": "DAL",
-          "name": "Malachi Lawrence",
-          "position": "LB",
+          "team": "IND",
+          "name": "A.J. Haulcy",
+          "position": "S",
           "status": "OUT",
           "injury": "Not Specified",
           "importance": "KÖZEPES",
-          "modelPoints": 0.25,
-          "consequence": "biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés"
+          "modelPoints": 0.28,
+          "consequence": "biztos hiányzó; lehetséges hatás: passzvédekezés/coverage"
         },
         {
           "team": "IND",
@@ -1219,14 +1219,14 @@
           "consequence": "kérdéses; lehetséges hatás: passzjáték és célpontmélység"
         },
         {
-          "team": "IND",
-          "name": "A.J. Haulcy",
-          "position": "S",
+          "team": "DAL",
+          "name": "Marist Liufau",
+          "position": "LB",
           "status": "QUESTIONABLE",
-          "injury": "Ankle",
+          "injury": "Fracture",
           "importance": "KIS",
-          "modelPoints": 0.1,
-          "consequence": "kérdéses; lehetséges hatás: passzvédekezés/coverage"
+          "modelPoints": 0.09,
+          "consequence": "kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés"
         },
         {
           "team": "DAL",
@@ -1276,13 +1276,13 @@
         "kind": "MONEYLINE",
         "label": "KC",
         "confidence": 65,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség +6.6 (alap +6.4, sérülési korrekció +0.21)."
+            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség +7.0 (alap +6.4, sérülési korrekció +0.66)."
           },
           {
             "title": "2026-os szezon",
@@ -1317,8 +1317,8 @@
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
-            "impact": 0.21,
-            "detail": "NYJ: Joseph Ossai (DE) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; NYJ: Trevin Wallace (LB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; NYJ: Nahshon Wright (CB) — QUESTIONABLE, Back [kérdéses; lehetséges hatás: passzvédekezés/coverage]; NYJ: Garrett Wilson (WR) — OUT, Concussion [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; NYJ: Harrison Phillips (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; KC: Peter Woods (DT) — OUT, Stinger [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; KC: Nikko Remigio (WR) — QUESTIONABLE, Hip [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; KC: Mansoor Delane (CB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage] | Beépített modellhatás: 0.21 pont, hazai oldal felé.",
+            "impact": 0.66,
+            "detail": "NYJ: Nahshon Wright (CB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; NYJ: Joseph Ossai (DE) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; NYJ: Trevin Wallace (LB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; NYJ: Garrett Wilson (WR) — OUT, Concussion [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; NYJ: Harrison Phillips (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; KC: Peter Woods (DT) — OUT, Stinger [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; KC: Nikko Remigio (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; KC: Mansoor Delane (CB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage] | Beépített modellhatás: 0.66 pont, hazai oldal felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           },
@@ -1326,7 +1326,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: clear day 16.68°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: clear day 15.66°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -1334,14 +1334,14 @@
       "spread": {
         "kind": "SPREAD",
         "label": "NYJ +9.5",
-        "confidence": 62,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "confidence": 61,
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált hazai margin +6.6 (alap +6.4, sérülési korrekció +0.21), piaci margin +9.5; edge -2.9."
+            "detail": "Sérülésekkel korrigált hazai margin +7.0 (alap +6.4, sérülési korrekció +0.66), piaci margin +9.5; edge -2.5."
           },
           {
             "title": "2026-os szezon",
@@ -1370,8 +1370,8 @@
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
-            "impact": 0.21,
-            "detail": "NYJ: Joseph Ossai (DE) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; NYJ: Trevin Wallace (LB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; NYJ: Nahshon Wright (CB) — QUESTIONABLE, Back [kérdéses; lehetséges hatás: passzvédekezés/coverage]; NYJ: Garrett Wilson (WR) — OUT, Concussion [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; NYJ: Harrison Phillips (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; KC: Peter Woods (DT) — OUT, Stinger [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; KC: Nikko Remigio (WR) — QUESTIONABLE, Hip [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; KC: Mansoor Delane (CB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage] | Beépített modellhatás: 0.21 pont, hazai oldal felé.",
+            "impact": 0.66,
+            "detail": "NYJ: Nahshon Wright (CB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; NYJ: Joseph Ossai (DE) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; NYJ: Trevin Wallace (LB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; NYJ: Garrett Wilson (WR) — OUT, Concussion [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; NYJ: Harrison Phillips (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; KC: Peter Woods (DT) — OUT, Stinger [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; KC: Nikko Remigio (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; KC: Mansoor Delane (CB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage] | Beépített modellhatás: 0.66 pont, hazai oldal felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           },
@@ -1379,7 +1379,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: clear day 16.68°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: clear day 15.66°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -1388,13 +1388,13 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált total 46.6 (alap 46.5, sérülési korrekció +0.14), referencia 48.5; eltérés -1.9, ami nem éri el a 2.0 pontos küszöböt."
+            "detail": "Sérülésekkel korrigált total 46.7 (alap 46.5, sérülési korrekció +0.27), referencia 48.5; eltérés -1.8, ami nem éri el a 2.0 pontos küszöböt."
           },
           {
             "title": "2026-os szezon",
@@ -1429,8 +1429,8 @@
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
-            "impact": 0.14,
-            "detail": "NYJ: Joseph Ossai (DE) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; NYJ: Trevin Wallace (LB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; NYJ: Nahshon Wright (CB) — QUESTIONABLE, Back [kérdéses; lehetséges hatás: passzvédekezés/coverage]; NYJ: Garrett Wilson (WR) — OUT, Concussion [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; NYJ: Harrison Phillips (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; KC: Peter Woods (DT) — OUT, Stinger [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; KC: Nikko Remigio (WR) — QUESTIONABLE, Hip [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; KC: Mansoor Delane (CB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage] | Beépített modellhatás: 0.14 pont, magasabb total felé.",
+            "impact": 0.27,
+            "detail": "NYJ: Nahshon Wright (CB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; NYJ: Joseph Ossai (DE) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; NYJ: Trevin Wallace (LB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; NYJ: Garrett Wilson (WR) — OUT, Concussion [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; NYJ: Harrison Phillips (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; KC: Peter Woods (DT) — OUT, Stinger [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; KC: Nikko Remigio (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; KC: Mansoor Delane (CB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage] | Beépített modellhatás: 0.27 pont, magasabb total felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           },
@@ -1438,7 +1438,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: clear day 16.68°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: clear day 15.66°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -1450,14 +1450,14 @@
         "underRisk": 48.5
       },
       "forecast": {
-        "homeMargin": 6.6,
+        "homeMargin": 7.05,
         "rawHomeMargin": 5.62,
         "marketHomeMargin": 9.5,
-        "spreadEdge": -2.9,
-        "total": 46.61,
+        "spreadEdge": -2.45,
+        "total": 46.74,
         "rawTotal": 43.98,
         "marketTotal": 48.5,
-        "totalEdge": -1.89,
+        "totalEdge": -1.76,
         "leagueTotalPrior": 46.08,
         "sampleReliability": 1.0,
         "spreadThreshold": 1.5,
@@ -1469,36 +1469,38 @@
         "expectedAwayPoints": 20.38,
         "historicalGamesHome": 8,
         "historicalGamesAway": 8,
-        "overProbability": 0.4436,
-        "underProbability": 0.5564,
-        "overFairOdds": 2.254,
-        "underFairOdds": 1.797,
+        "overProbability": 0.4475,
+        "underProbability": 0.5525,
+        "overFairOdds": 2.235,
+        "underFairOdds": 1.81,
         "moneylineProbabilities": {
           "modelHome": 0.6821,
           "modelAway": 0.3179,
-          "marketHomeNoVig": 0.7914,
-          "marketAwayNoVig": 0.2086,
-          "homeProbabilityEdge": -0.1093
+          "marketHomeNoVig": 0.8082,
+          "marketAwayNoVig": 0.1918,
+          "homeProbabilityEdge": -0.1261
         },
         "baseHomeMargin": 6.39,
         "baseTotal": 46.47,
-        "injurySpreadAdjustment": 0.21,
-        "injuryTotalAdjustment": 0.14,
+        "injurySpreadAdjustment": 0.66,
+        "injuryTotalAdjustment": 0.27,
         "injuryApplied": true
       },
       "market": {
         "spread_line": 9.5,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 48.5,
-        "away_moneyline": 360.0,
-        "home_moneyline": -470.0
+        "away_moneyline": 400.0,
+        "home_moneyline": -535.0
       },
       "injuryImpact": {
-        "spreadAdjustment": 0.21,
-        "totalAdjustment": 0.14,
-        "awayBurden": 0.93,
+        "spreadAdjustment": 0.66,
+        "totalAdjustment": 0.27,
+        "awayBurden": 1.39,
         "homeBurden": 0.72,
         "keyDrivers": [
+          "Nahshon Wright OUT: 0.35 pt",
+          "Joseph Ossai OUT: 0.35 pt",
           "Garrett Wilson OUT: 0.35 pt",
           "Mansoor Delane OUT: 0.35 pt"
         ],
@@ -1508,6 +1510,26 @@
         "appliedToForecast": true
       },
       "injuries": [
+        {
+          "team": "NYJ",
+          "name": "Nahshon Wright",
+          "position": "CB",
+          "status": "OUT",
+          "injury": "Not Specified",
+          "importance": "KÖZEPES",
+          "modelPoints": 0.35,
+          "consequence": "biztos hiányzó; lehetséges hatás: passzvédekezés/coverage"
+        },
+        {
+          "team": "NYJ",
+          "name": "Joseph Ossai",
+          "position": "DE",
+          "status": "OUT",
+          "injury": "Not Specified",
+          "importance": "KÖZEPES",
+          "modelPoints": 0.35,
+          "consequence": "biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés"
+        },
         {
           "team": "NYJ",
           "name": "Garrett Wilson",
@@ -1549,31 +1571,11 @@
           "consequence": "biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés"
         },
         {
-          "team": "NYJ",
-          "name": "Joseph Ossai",
-          "position": "DE",
-          "status": "QUESTIONABLE",
-          "injury": "Not Specified",
-          "importance": "KIS",
-          "modelPoints": 0.12,
-          "consequence": "kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés"
-        },
-        {
-          "team": "NYJ",
-          "name": "Nahshon Wright",
-          "position": "CB",
-          "status": "QUESTIONABLE",
-          "injury": "Back",
-          "importance": "KIS",
-          "modelPoints": 0.12,
-          "consequence": "kérdéses; lehetséges hatás: passzvédekezés/coverage"
-        },
-        {
           "team": "KC",
           "name": "Nikko Remigio",
           "position": "WR",
           "status": "QUESTIONABLE",
-          "injury": "Hip",
+          "injury": "Not Specified",
           "importance": "KIS",
           "modelPoints": 0.12,
           "consequence": "kérdéses; lehetséges hatás: passzjáték és célpontmélység"
@@ -1606,7 +1608,7 @@
         "kind": "MONEYLINE",
         "label": "DET",
         "confidence": 62,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -1656,7 +1658,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: cloudy 27.74°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: clear day 28.79°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -1665,7 +1667,7 @@
         "kind": "SPREAD",
         "label": "MIA +6.5",
         "confidence": 61,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -1709,7 +1711,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: cloudy 27.74°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: clear day 28.79°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -1718,7 +1720,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -1768,7 +1770,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: cloudy 27.74°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: clear day 28.79°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -1806,9 +1808,9 @@
         "moneylineProbabilities": {
           "modelHome": 0.3459,
           "modelAway": 0.6541,
-          "marketHomeNoVig": 0.2864,
-          "marketAwayNoVig": 0.7136,
-          "homeProbabilityEdge": 0.0594
+          "marketHomeNoVig": 0.2742,
+          "marketAwayNoVig": 0.7258,
+          "homeProbabilityEdge": 0.0716
         },
         "baseHomeMargin": -5.35,
         "baseTotal": 48.67,
@@ -1820,8 +1822,8 @@
         "spread_line": -6.5,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 49.5,
-        "away_moneyline": -290.0,
-        "home_moneyline": 235.0
+        "away_moneyline": -310.0,
+        "home_moneyline": 250.0
       },
       "injuryImpact": {
         "spreadAdjustment": 1.13,
@@ -1977,13 +1979,13 @@
         "kind": "MONEYLINE",
         "label": "NO",
         "confidence": 59,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség +1.9 (alap +1.9, sérülési korrekció -0.04)."
+            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség +1.8 (alap +1.8, sérülési korrekció -0.04)."
           },
           {
             "title": "2026-os szezon",
@@ -2013,13 +2015,13 @@
             "title": "Piaci referencia",
             "weight": 10,
             "impact": 0,
-            "detail": "A referencia piaci hazai margin +3.5 (hazai handicap -3.5)."
+            "detail": "A referencia piaci hazai margin +3.0 (hazai handicap -3.0)."
           },
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
             "impact": -0.04,
-            "detail": "CLE: Maliek Collins (DT) — OUT, Elbow [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; CLE: Deshaun Watson (QB) — QUESTIONABLE, Concussion [kérdéses; lehetséges hatás: irányító/passing offense]; NO: Martin Emerson Jr. (CB) — QUESTIONABLE, Shin [kérdéses; lehetséges hatás: passzvédekezés/coverage]; NO: CJ Donaldson (RB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection]; NO: Asim Richards (OT) — QUESTIONABLE, Surgery [kérdéses; lehetséges hatás: pass protection és futásblokkolás] | Beépített modellhatás: 0.04 pont, vendég oldal felé.",
+            "detail": "CLE: Deshaun Watson (QB) — QUESTIONABLE, Concussion [kérdéses; lehetséges hatás: irányító/passing offense]; CLE: Maliek Collins (DT) — OUT, Elbow [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; NO: Martin Emerson Jr. (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; NO: CJ Donaldson (RB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection]; NO: Asim Richards (OT) — QUESTIONABLE, Surgery [kérdéses; lehetséges hatás: pass protection és futásblokkolás] | Beépített modellhatás: 0.04 pont, vendég oldal felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           },
@@ -2027,22 +2029,22 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: partly cloudy day 18.27°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: cloudy 17.63°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
       },
       "spread": {
-        "kind": "SPREAD",
-        "label": "CLE +3.5",
-        "confidence": 60,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "kind": "NO_BET",
+        "label": "NO BET",
+        "confidence": 0,
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált hazai margin +1.9 (alap +1.9, sérülési korrekció -0.04), piaci margin +3.5; edge -1.6."
+            "detail": "Sérülésekkel korrigált margin +1.8, piaci margin +3.0; edge -1.2, ami nem éri el a 1.5 pontos küszöböt."
           },
           {
             "title": "2026-os szezon",
@@ -2072,7 +2074,7 @@
             "title": "Sérülések és kezdők",
             "weight": 10,
             "impact": -0.04,
-            "detail": "CLE: Maliek Collins (DT) — OUT, Elbow [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; CLE: Deshaun Watson (QB) — QUESTIONABLE, Concussion [kérdéses; lehetséges hatás: irányító/passing offense]; NO: Martin Emerson Jr. (CB) — QUESTIONABLE, Shin [kérdéses; lehetséges hatás: passzvédekezés/coverage]; NO: CJ Donaldson (RB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection]; NO: Asim Richards (OT) — QUESTIONABLE, Surgery [kérdéses; lehetséges hatás: pass protection és futásblokkolás] | Beépített modellhatás: 0.04 pont, vendég oldal felé.",
+            "detail": "CLE: Deshaun Watson (QB) — QUESTIONABLE, Concussion [kérdéses; lehetséges hatás: irányító/passing offense]; CLE: Maliek Collins (DT) — OUT, Elbow [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; NO: Martin Emerson Jr. (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; NO: CJ Donaldson (RB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection]; NO: Asim Richards (OT) — QUESTIONABLE, Surgery [kérdéses; lehetséges hatás: pass protection és futásblokkolás] | Beépített modellhatás: 0.04 pont, vendég oldal felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           },
@@ -2080,7 +2082,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: partly cloudy day 18.27°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: cloudy 17.63°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -2089,7 +2091,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2131,7 +2133,7 @@
             "title": "Sérülések és kezdők",
             "weight": 10,
             "impact": -0.09,
-            "detail": "CLE: Maliek Collins (DT) — OUT, Elbow [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; CLE: Deshaun Watson (QB) — QUESTIONABLE, Concussion [kérdéses; lehetséges hatás: irányító/passing offense]; NO: Martin Emerson Jr. (CB) — QUESTIONABLE, Shin [kérdéses; lehetséges hatás: passzvédekezés/coverage]; NO: CJ Donaldson (RB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection]; NO: Asim Richards (OT) — QUESTIONABLE, Surgery [kérdéses; lehetséges hatás: pass protection és futásblokkolás] | Beépített modellhatás: 0.09 pont, alacsonyabb total felé.",
+            "detail": "CLE: Deshaun Watson (QB) — QUESTIONABLE, Concussion [kérdéses; lehetséges hatás: irányító/passing offense]; CLE: Maliek Collins (DT) — OUT, Elbow [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; NO: Martin Emerson Jr. (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; NO: CJ Donaldson (RB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection]; NO: Asim Richards (OT) — QUESTIONABLE, Surgery [kérdéses; lehetséges hatás: pass protection és futásblokkolás] | Beépített modellhatás: 0.09 pont, alacsonyabb total felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           },
@@ -2139,7 +2141,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: partly cloudy day 18.27°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: cloudy 17.63°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -2151,10 +2153,10 @@
         "underRisk": 42.5
       },
       "forecast": {
-        "homeMargin": 1.87,
+        "homeMargin": 1.77,
         "rawHomeMargin": 1.51,
-        "marketHomeMargin": 3.5,
-        "spreadEdge": -1.63,
+        "marketHomeMargin": 3.0,
+        "spreadEdge": -1.23,
         "total": 43.11,
         "rawTotal": 44.05,
         "marketTotal": 42.5,
@@ -2175,24 +2177,24 @@
         "overFairOdds": 1.93,
         "underFairOdds": 2.076,
         "moneylineProbabilities": {
-          "modelHome": 0.5561,
-          "modelAway": 0.4439,
-          "marketHomeNoVig": 0.6038,
-          "marketAwayNoVig": 0.3962,
-          "homeProbabilityEdge": -0.0476
+          "modelHome": 0.5532,
+          "modelAway": 0.4468,
+          "marketHomeNoVig": 0.5996,
+          "marketAwayNoVig": 0.4004,
+          "homeProbabilityEdge": -0.0465
         },
-        "baseHomeMargin": 1.91,
+        "baseHomeMargin": 1.81,
         "baseTotal": 43.2,
         "injurySpreadAdjustment": -0.04,
         "injuryTotalAdjustment": -0.09,
         "injuryApplied": true
       },
       "market": {
-        "spread_line": 3.5,
+        "spread_line": 3.0,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 42.5,
-        "away_moneyline": 142.0,
-        "home_moneyline": -170.0
+        "away_moneyline": 140.0,
+        "home_moneyline": -166.0
       },
       "injuryImpact": {
         "spreadAdjustment": -0.04,
@@ -2251,7 +2253,7 @@
           "name": "Martin Emerson Jr.",
           "position": "CB",
           "status": "QUESTIONABLE",
-          "injury": "Shin",
+          "injury": "Not Specified",
           "importance": "KIS",
           "modelPoints": 0.12,
           "consequence": "kérdéses; lehetséges hatás: passzvédekezés/coverage"
@@ -2274,7 +2276,7 @@
         "kind": "MONEYLINE",
         "label": "NYG",
         "confidence": 63,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2324,7 +2326,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: clear day 15.44°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: clear day 14.52°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -2333,7 +2335,7 @@
         "kind": "SPREAD",
         "label": "NYG -3.0",
         "confidence": 61,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2377,7 +2379,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: clear day 15.44°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: clear day 14.52°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -2386,7 +2388,7 @@
         "kind": "OVER",
         "label": "Over 38.5",
         "confidence": 57,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2436,7 +2438,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: clear day 15.44°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: clear day 14.52°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -2474,9 +2476,9 @@
         "moneylineProbabilities": {
           "modelHome": 0.4048,
           "modelAway": 0.5952,
-          "marketHomeNoVig": 0.417,
-          "marketAwayNoVig": 0.583,
-          "homeProbabilityEdge": -0.0122
+          "marketHomeNoVig": 0.4066,
+          "marketAwayNoVig": 0.5934,
+          "homeProbabilityEdge": -0.0019
         },
         "baseHomeMargin": -3.25,
         "baseTotal": 41.23,
@@ -2488,8 +2490,8 @@
         "spread_line": -3.0,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 38.5,
-        "away_moneyline": -155.0,
-        "home_moneyline": 130.0
+        "away_moneyline": -162.0,
+        "home_moneyline": 136.0
       },
       "injuryImpact": {
         "spreadAdjustment": -1.94,
@@ -2616,14 +2618,14 @@
       "moneyline": {
         "kind": "MONEYLINE",
         "label": "LA",
-        "confidence": 59,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "confidence": 60,
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség -2.0 (alap -2.3, sérülési korrekció +0.26)."
+            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség -2.5 (alap -2.3, sérülési korrekció -0.17)."
           },
           {
             "title": "2026-os szezon",
@@ -2658,8 +2660,8 @@
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
-            "impact": 0.26,
-            "detail": "LA: Jordan Whittington (WR) — QUESTIONABLE, Back [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; LA: Colby Parkinson (TE) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; LA: Joe Cardona (LS) — DOUBTFUL, Not Specified [erősen kérdéses; lehetséges hatás: posztmélység]; LA: Kam Curl (S) — QUESTIONABLE, Foot [kérdéses; lehetséges hatás: passzvédekezés/coverage]; LA: Trent McDuffie (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; LA: Jaylen Watson (CB) — OUT, Surgery [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; LA: Grant Stuard (LB) — QUESTIONABLE, Hamstring [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; WAS: Treylon Burks (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; WAS: Dyami Brown (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység] | Beépített modellhatás: 0.26 pont, hazai oldal felé.",
+            "impact": -0.17,
+            "detail": "LA: Jordan Whittington (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; LA: Colby Parkinson (TE) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; LA: Joe Cardona (LS) — DOUBTFUL, Not Specified [erősen kérdéses; lehetséges hatás: posztmélység]; LA: Kam Curl (S) — QUESTIONABLE, Foot [kérdéses; lehetséges hatás: passzvédekezés/coverage]; LA: Trent McDuffie (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; LA: Grant Stuard (LB) — QUESTIONABLE, Hamstring [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; WAS: Jer'Zhan Newton (DT) — QUESTIONABLE, Surgery [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; WAS: Dyami Brown (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; WAS: Treylon Burks (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység] | Beépített modellhatás: 0.17 pont, vendég oldal felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           },
@@ -2667,7 +2669,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: clear day 15.96°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: clear day 14.84°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -2675,14 +2677,14 @@
       "spread": {
         "kind": "SPREAD",
         "label": "WAS +4.5",
-        "confidence": 61,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "confidence": 60,
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált hazai margin -2.0 (alap -2.3, sérülési korrekció +0.26), piaci margin -4.5; edge +2.5."
+            "detail": "Sérülésekkel korrigált hazai margin -2.5 (alap -2.3, sérülési korrekció -0.17), piaci margin -4.5; edge +2.0."
           },
           {
             "title": "2026-os szezon",
@@ -2711,8 +2713,8 @@
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
-            "impact": 0.26,
-            "detail": "LA: Jordan Whittington (WR) — QUESTIONABLE, Back [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; LA: Colby Parkinson (TE) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; LA: Joe Cardona (LS) — DOUBTFUL, Not Specified [erősen kérdéses; lehetséges hatás: posztmélység]; LA: Kam Curl (S) — QUESTIONABLE, Foot [kérdéses; lehetséges hatás: passzvédekezés/coverage]; LA: Trent McDuffie (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; LA: Jaylen Watson (CB) — OUT, Surgery [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; LA: Grant Stuard (LB) — QUESTIONABLE, Hamstring [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; WAS: Treylon Burks (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; WAS: Dyami Brown (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység] | Beépített modellhatás: 0.26 pont, hazai oldal felé.",
+            "impact": -0.17,
+            "detail": "LA: Jordan Whittington (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; LA: Colby Parkinson (TE) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; LA: Joe Cardona (LS) — DOUBTFUL, Not Specified [erősen kérdéses; lehetséges hatás: posztmélység]; LA: Kam Curl (S) — QUESTIONABLE, Foot [kérdéses; lehetséges hatás: passzvédekezés/coverage]; LA: Trent McDuffie (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; LA: Grant Stuard (LB) — QUESTIONABLE, Hamstring [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; WAS: Jer'Zhan Newton (DT) — QUESTIONABLE, Surgery [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; WAS: Dyami Brown (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; WAS: Treylon Burks (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység] | Beépített modellhatás: 0.17 pont, vendég oldal felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           },
@@ -2720,7 +2722,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: clear day 15.96°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: clear day 14.84°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -2729,13 +2731,13 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált total 47.3 (alap 47.4, sérülési korrekció -0.10), referencia 47.5; eltérés -0.2, ami nem éri el a 2.0 pontos küszöböt."
+            "detail": "Sérülésekkel korrigált total 47.2 (alap 47.4, sérülési korrekció -0.20), referencia 47.5; eltérés -0.3, ami nem éri el a 2.0 pontos küszöböt."
           },
           {
             "title": "2026-os szezon",
@@ -2770,8 +2772,8 @@
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
-            "impact": -0.1,
-            "detail": "LA: Jordan Whittington (WR) — QUESTIONABLE, Back [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; LA: Colby Parkinson (TE) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; LA: Joe Cardona (LS) — DOUBTFUL, Not Specified [erősen kérdéses; lehetséges hatás: posztmélység]; LA: Kam Curl (S) — QUESTIONABLE, Foot [kérdéses; lehetséges hatás: passzvédekezés/coverage]; LA: Trent McDuffie (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; LA: Jaylen Watson (CB) — OUT, Surgery [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; LA: Grant Stuard (LB) — QUESTIONABLE, Hamstring [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; WAS: Treylon Burks (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; WAS: Dyami Brown (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység] | Beépített modellhatás: 0.10 pont, alacsonyabb total felé.",
+            "impact": -0.2,
+            "detail": "LA: Jordan Whittington (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; LA: Colby Parkinson (TE) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; LA: Joe Cardona (LS) — DOUBTFUL, Not Specified [erősen kérdéses; lehetséges hatás: posztmélység]; LA: Kam Curl (S) — QUESTIONABLE, Foot [kérdéses; lehetséges hatás: passzvédekezés/coverage]; LA: Trent McDuffie (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; LA: Grant Stuard (LB) — QUESTIONABLE, Hamstring [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; WAS: Jer'Zhan Newton (DT) — QUESTIONABLE, Surgery [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; WAS: Dyami Brown (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; WAS: Treylon Burks (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység] | Beépített modellhatás: 0.20 pont, alacsonyabb total felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           },
@@ -2779,7 +2781,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: clear day 15.96°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: clear day 14.84°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -2791,14 +2793,14 @@
         "underRisk": 47.5
       },
       "forecast": {
-        "homeMargin": -2.04,
+        "homeMargin": -2.47,
         "rawHomeMargin": -1.75,
         "marketHomeMargin": -4.5,
-        "spreadEdge": 2.46,
-        "total": 47.34,
+        "spreadEdge": 2.03,
+        "total": 47.24,
         "rawTotal": 47.37,
         "marketTotal": 47.5,
-        "totalEdge": -0.16,
+        "totalEdge": -0.26,
         "leagueTotalPrior": 46.08,
         "sampleReliability": 1.0,
         "spreadThreshold": 1.5,
@@ -2810,39 +2812,38 @@
         "expectedAwayPoints": 25.17,
         "historicalGamesHome": 8,
         "historicalGamesAway": 8,
-        "overProbability": 0.4952,
-        "underProbability": 0.5048,
-        "overFairOdds": 2.019,
-        "underFairOdds": 1.981,
+        "overProbability": 0.4922,
+        "underProbability": 0.5078,
+        "overFairOdds": 2.032,
+        "underFairOdds": 1.969,
         "moneylineProbabilities": {
           "modelHome": 0.4323,
           "modelAway": 0.5677,
-          "marketHomeNoVig": 0.331,
-          "marketAwayNoVig": 0.669,
-          "homeProbabilityEdge": 0.1013
+          "marketHomeNoVig": 0.325,
+          "marketAwayNoVig": 0.675,
+          "homeProbabilityEdge": 0.1074
         },
         "baseHomeMargin": -2.3,
         "baseTotal": 47.44,
-        "injurySpreadAdjustment": 0.26,
-        "injuryTotalAdjustment": -0.1,
+        "injurySpreadAdjustment": -0.17,
+        "injuryTotalAdjustment": -0.2,
         "injuryApplied": true
       },
       "market": {
         "spread_line": -4.5,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 47.5,
-        "away_moneyline": -230.0,
-        "home_moneyline": 190.0
+        "away_moneyline": -238.0,
+        "home_moneyline": 195.0
       },
       "injuryImpact": {
-        "spreadAdjustment": 0.26,
-        "totalAdjustment": -0.1,
-        "awayBurden": 0.96,
-        "homeBurden": 0.7,
+        "spreadAdjustment": -0.17,
+        "totalAdjustment": -0.2,
+        "awayBurden": 0.61,
+        "homeBurden": 0.79,
         "keyDrivers": [
-          "Jaylen Watson OUT: 0.35 pt",
-          "Treylon Burks OUT: 0.35 pt",
-          "Dyami Brown OUT: 0.35 pt"
+          "Dyami Brown OUT: 0.35 pt",
+          "Treylon Burks OUT: 0.35 pt"
         ],
         "model": "provisional-injury-impact-v1.1-depth-role",
         "calibrated": false,
@@ -2851,14 +2852,14 @@
       },
       "injuries": [
         {
-          "team": "LA",
-          "name": "Jaylen Watson",
-          "position": "CB",
+          "team": "WAS",
+          "name": "Dyami Brown",
+          "position": "WR",
           "status": "OUT",
-          "injury": "Surgery",
+          "injury": "Not Specified",
           "importance": "KÖZEPES",
           "modelPoints": 0.35,
-          "consequence": "biztos hiányzó; lehetséges hatás: passzvédekezés/coverage"
+          "consequence": "biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység"
         },
         {
           "team": "WAS",
@@ -2871,21 +2872,11 @@
           "consequence": "biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység"
         },
         {
-          "team": "WAS",
-          "name": "Dyami Brown",
-          "position": "WR",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.35,
-          "consequence": "biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység"
-        },
-        {
           "team": "LA",
           "name": "Jordan Whittington",
           "position": "WR",
           "status": "QUESTIONABLE",
-          "injury": "Back",
+          "injury": "Not Specified",
           "importance": "KIS",
           "modelPoints": 0.12,
           "consequence": "kérdéses; lehetséges hatás: passzjáték és célpontmélység"
@@ -2939,6 +2930,16 @@
           "importance": "KIS",
           "modelPoints": 0.09,
           "consequence": "kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés"
+        },
+        {
+          "team": "WAS",
+          "name": "Jer'Zhan Newton",
+          "position": "DT",
+          "status": "QUESTIONABLE",
+          "injury": "Surgery",
+          "importance": "KIS",
+          "modelPoints": 0.09,
+          "consequence": "kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés"
         }
       ],
       "injurySource": "ESPN core injury feed",
@@ -2958,7 +2959,7 @@
         "kind": "MONEYLINE",
         "label": "HOU",
         "confidence": 64,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3008,7 +3009,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: clear day 28.88°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: clear day 28.81°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -3017,7 +3018,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3061,7 +3062,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: clear day 28.88°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: clear day 28.81°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -3070,7 +3071,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3120,7 +3121,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: clear day 28.88°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: clear day 28.81°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -3158,9 +3159,9 @@
         "moneylineProbabilities": {
           "modelHome": 0.349,
           "modelAway": 0.651,
-          "marketHomeNoVig": 0.325,
-          "marketAwayNoVig": 0.675,
-          "homeProbabilityEdge": 0.0241
+          "marketHomeNoVig": 0.3194,
+          "marketAwayNoVig": 0.6806,
+          "homeProbabilityEdge": 0.0296
         },
         "baseHomeMargin": -5.24,
         "baseTotal": 41.98,
@@ -3172,8 +3173,8 @@
         "spread_line": -6.0,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 40.5,
-        "away_moneyline": -238.0,
-        "home_moneyline": 195.0
+        "away_moneyline": -245.0,
+        "home_moneyline": 200.0
       },
       "injuryImpact": {
         "spreadAdjustment": -0.73,
@@ -3267,7 +3268,7 @@
         "kind": "MONEYLINE",
         "label": "SF",
         "confidence": 64,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3309,7 +3310,7 @@
             "title": "Sérülések és kezdők",
             "weight": 10,
             "impact": -1.25,
-            "detail": "LV: Thomas Booker IV (DT) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; LV: Darien Porter (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; SF: Mike Evans (WR) — OUT, Tendinitis [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; SF: Christian Kirk (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; SF: Deebo Samuel Sr. (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; SF: Brandon Aiyuk (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; SF: Siran Neal (S) — QUESTIONABLE, Knee [kérdéses; lehetséges hatás: passzvédekezés/coverage]; SF: Upton Stout (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage] | Beépített modellhatás: 1.25 pont, vendég oldal felé.",
+            "detail": "LV: Thomas Booker IV (DT) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; LV: Darien Porter (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; SF: Brandon Aiyuk (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; SF: Mike Evans (WR) — OUT, Tendinitis [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; SF: Christian Kirk (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; SF: Deebo Samuel Sr. (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; SF: Siran Neal (S) — QUESTIONABLE, Knee [kérdéses; lehetséges hatás: passzvédekezés/coverage]; SF: Upton Stout (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage] | Beépített modellhatás: 1.25 pont, vendég oldal felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           },
@@ -3317,7 +3318,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: cloudy 21.55°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: cloudy 20.99°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -3326,7 +3327,7 @@
         "kind": "SPREAD",
         "label": "LV +10.0",
         "confidence": 64,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3362,7 +3363,7 @@
             "title": "Sérülések és kezdők",
             "weight": 10,
             "impact": -1.25,
-            "detail": "LV: Thomas Booker IV (DT) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; LV: Darien Porter (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; SF: Mike Evans (WR) — OUT, Tendinitis [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; SF: Christian Kirk (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; SF: Deebo Samuel Sr. (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; SF: Brandon Aiyuk (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; SF: Siran Neal (S) — QUESTIONABLE, Knee [kérdéses; lehetséges hatás: passzvédekezés/coverage]; SF: Upton Stout (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage] | Beépített modellhatás: 1.25 pont, vendég oldal felé.",
+            "detail": "LV: Thomas Booker IV (DT) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; LV: Darien Porter (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; SF: Brandon Aiyuk (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; SF: Mike Evans (WR) — OUT, Tendinitis [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; SF: Christian Kirk (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; SF: Deebo Samuel Sr. (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; SF: Siran Neal (S) — QUESTIONABLE, Knee [kérdéses; lehetséges hatás: passzvédekezés/coverage]; SF: Upton Stout (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage] | Beépített modellhatás: 1.25 pont, vendég oldal felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           },
@@ -3370,7 +3371,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: cloudy 21.55°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: cloudy 20.99°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -3379,7 +3380,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3421,7 +3422,7 @@
             "title": "Sérülések és kezdők",
             "weight": 10,
             "impact": -0.31,
-            "detail": "LV: Thomas Booker IV (DT) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; LV: Darien Porter (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; SF: Mike Evans (WR) — OUT, Tendinitis [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; SF: Christian Kirk (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; SF: Deebo Samuel Sr. (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; SF: Brandon Aiyuk (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; SF: Siran Neal (S) — QUESTIONABLE, Knee [kérdéses; lehetséges hatás: passzvédekezés/coverage]; SF: Upton Stout (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage] | Beépített modellhatás: 0.31 pont, alacsonyabb total felé.",
+            "detail": "LV: Thomas Booker IV (DT) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; LV: Darien Porter (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; SF: Brandon Aiyuk (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; SF: Mike Evans (WR) — OUT, Tendinitis [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; SF: Christian Kirk (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; SF: Deebo Samuel Sr. (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; SF: Siran Neal (S) — QUESTIONABLE, Knee [kérdéses; lehetséges hatás: passzvédekezés/coverage]; SF: Upton Stout (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage] | Beépített modellhatás: 0.31 pont, alacsonyabb total felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           },
@@ -3429,7 +3430,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: cloudy 21.55°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: cloudy 20.99°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -3490,10 +3491,10 @@
         "awayBurden": 0.37,
         "homeBurden": 1.62,
         "keyDrivers": [
+          "Brandon Aiyuk OUT: 0.35 pt",
           "Mike Evans OUT: 0.35 pt",
           "Christian Kirk OUT: 0.35 pt",
-          "Deebo Samuel Sr. OUT: 0.35 pt",
-          "Brandon Aiyuk OUT: 0.35 pt"
+          "Deebo Samuel Sr. OUT: 0.35 pt"
         ],
         "model": "provisional-injury-impact-v1.1-depth-role",
         "calibrated": false,
@@ -3501,6 +3502,16 @@
         "appliedToForecast": true
       },
       "injuries": [
+        {
+          "team": "SF",
+          "name": "Brandon Aiyuk",
+          "position": "WR",
+          "status": "OUT",
+          "injury": "Not Specified",
+          "importance": "KÖZEPES",
+          "modelPoints": 0.35,
+          "consequence": "biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység"
+        },
         {
           "team": "SF",
           "name": "Mike Evans",
@@ -3524,16 +3535,6 @@
         {
           "team": "SF",
           "name": "Deebo Samuel Sr.",
-          "position": "WR",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.35,
-          "consequence": "biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység"
-        },
-        {
-          "team": "SF",
-          "name": "Brandon Aiyuk",
           "position": "WR",
           "status": "OUT",
           "injury": "Not Specified",
@@ -3599,7 +3600,7 @@
         "kind": "MONEYLINE",
         "label": "NE",
         "confidence": 62,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3649,7 +3650,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: clear day 12.28°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: clear day 11.84°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -3658,7 +3659,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3702,7 +3703,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: clear day 12.28°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: clear day 11.84°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -3711,7 +3712,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3761,7 +3762,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: clear day 12.28°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: clear day 11.84°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -3971,7 +3972,7 @@
         "kind": "MONEYLINE",
         "label": "SEA",
         "confidence": 63,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -4021,7 +4022,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: partly cloudy day 13.47°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: cloudy 13.45°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -4030,7 +4031,7 @@
         "kind": "SPREAD",
         "label": "ARI +8.5",
         "confidence": 62,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -4074,7 +4075,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: partly cloudy day 13.47°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: cloudy 13.45°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -4083,7 +4084,7 @@
         "kind": "OVER",
         "label": "Over 39.5",
         "confidence": 58,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -4133,7 +4134,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: partly cloudy day 13.47°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: cloudy 13.45°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -4171,9 +4172,9 @@
         "moneylineProbabilities": {
           "modelHome": 0.69,
           "modelAway": 0.31,
-          "marketHomeNoVig": 0.7914,
-          "marketAwayNoVig": 0.2086,
-          "homeProbabilityEdge": -0.1014
+          "marketHomeNoVig": 0.7867,
+          "marketAwayNoVig": 0.2133,
+          "homeProbabilityEdge": -0.0968
         },
         "baseHomeMargin": 6.69,
         "baseTotal": 42.87,
@@ -4185,8 +4186,8 @@
         "spread_line": 8.5,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 39.5,
-        "away_moneyline": 360.0,
-        "home_moneyline": -470.0
+        "away_moneyline": 350.0,
+        "home_moneyline": -455.0
       },
       "injuryImpact": {
         "spreadAdjustment": -1.4,
@@ -4355,7 +4356,7 @@
         "kind": "MONEYLINE",
         "label": "CHI",
         "confidence": 61,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -4405,7 +4406,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: clear night 10.72°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: clear night 9.92°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -4414,7 +4415,7 @@
         "kind": "SPREAD",
         "label": "TB +6.0",
         "confidence": 61,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -4458,7 +4459,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: clear night 10.72°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: clear night 9.92°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -4467,7 +4468,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -4517,7 +4518,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: clear night 10.72°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: clear night 9.92°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -4555,9 +4556,9 @@
         "moneylineProbabilities": {
           "modelHome": 0.5946,
           "modelAway": 0.4054,
-          "marketHomeNoVig": 0.7095,
-          "marketAwayNoVig": 0.2905,
-          "homeProbabilityEdge": -0.115
+          "marketHomeNoVig": 0.7002,
+          "marketAwayNoVig": 0.2998,
+          "homeProbabilityEdge": -0.1056
         },
         "baseHomeMargin": 3.23,
         "baseTotal": 46.08,
@@ -4569,8 +4570,8 @@
         "spread_line": 6.0,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 47.5,
-        "away_moneyline": 230.0,
-        "home_moneyline": -285.0
+        "away_moneyline": 220.0,
+        "home_moneyline": -270.0
       },
       "injuryImpact": {
         "spreadAdjustment": 0.06,
@@ -4650,15 +4651,15 @@
       "homeScore": null,
       "moneyline": {
         "kind": "MONEYLINE",
-        "label": "MIN",
-        "confidence": 58,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "label": "BUF",
+        "confidence": 57,
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség +0.7 (alap +0.2, sérülési korrekció +0.55)."
+            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség -0.2 (alap +0.2, sérülési korrekció -0.41)."
           },
           {
             "title": "2026-os szezon",
@@ -4699,8 +4700,8 @@
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
-            "impact": 0.55,
-            "detail": "BUF: Keon Coleman (WR) — QUESTIONABLE, Shoulder [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; BUF: Sam Franklin Jr. (S) — QUESTIONABLE, Illness [kérdéses; lehetséges hatás: passzvédekezés/coverage]; BUF: DJ Moore (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; BUF: Dion Dawkins (OT) — QUESTIONABLE, Ribs [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; BUF: Alec Anderson (OT) — QUESTIONABLE, Ankle [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; BUF: Joshua Palmer (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; BUF: Greg Gaines (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; BUF: Spencer Brown (OT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; MIN: Demond Claiborne (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; MIN: Jauan Jennings (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; MIN: Andrew Van Ginkel (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; MIN: Jay Ward (S) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; MIN: Kyler Murray (QB) — QUESTIONABLE, Soreness [kérdéses; lehetséges hatás: irányító/passing offense] | Beépített modellhatás: 0.55 pont, hazai oldal felé.",
+            "impact": -0.41,
+            "detail": "BUF: Joshua Palmer (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; BUF: Dion Dawkins (OT) — QUESTIONABLE, Ribs [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; BUF: Alec Anderson (OT) — QUESTIONABLE, Ankle [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; BUF: Greg Gaines (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; MIN: Jauan Jennings (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; MIN: Kyler Murray (QB) — OUT, Strain [biztos hiányzó; lehetséges hatás: irányító/passing offense]; MIN: Demond Claiborne (RB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection]; MIN: Jay Ward (S) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage] | Beépített modellhatás: 0.41 pont, vendég oldal felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           }
@@ -4709,14 +4710,14 @@
       "spread": {
         "kind": "SPREAD",
         "label": "MIN +3.0",
-        "confidence": 63,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "confidence": 62,
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált hazai margin +0.7 (alap +0.2, sérülési korrekció +0.55), piaci margin -3.0; edge +3.7."
+            "detail": "Sérülésekkel korrigált hazai margin -0.2 (alap +0.2, sérülési korrekció -0.41), piaci margin -3.0; edge +2.8."
           },
           {
             "title": "2026-os szezon",
@@ -4751,8 +4752,8 @@
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
-            "impact": 0.55,
-            "detail": "BUF: Keon Coleman (WR) — QUESTIONABLE, Shoulder [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; BUF: Sam Franklin Jr. (S) — QUESTIONABLE, Illness [kérdéses; lehetséges hatás: passzvédekezés/coverage]; BUF: DJ Moore (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; BUF: Dion Dawkins (OT) — QUESTIONABLE, Ribs [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; BUF: Alec Anderson (OT) — QUESTIONABLE, Ankle [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; BUF: Joshua Palmer (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; BUF: Greg Gaines (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; BUF: Spencer Brown (OT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; MIN: Demond Claiborne (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; MIN: Jauan Jennings (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; MIN: Andrew Van Ginkel (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; MIN: Jay Ward (S) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; MIN: Kyler Murray (QB) — QUESTIONABLE, Soreness [kérdéses; lehetséges hatás: irányító/passing offense] | Beépített modellhatás: 0.55 pont, hazai oldal felé.",
+            "impact": -0.41,
+            "detail": "BUF: Joshua Palmer (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; BUF: Dion Dawkins (OT) — QUESTIONABLE, Ribs [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; BUF: Alec Anderson (OT) — QUESTIONABLE, Ankle [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; BUF: Greg Gaines (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; MIN: Jauan Jennings (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; MIN: Kyler Murray (QB) — OUT, Strain [biztos hiányzó; lehetséges hatás: irányító/passing offense]; MIN: Demond Claiborne (RB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection]; MIN: Jay Ward (S) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage] | Beépített modellhatás: 0.41 pont, vendég oldal felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           }
@@ -4762,13 +4763,13 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-07T11:47:13.991265+00:00",
+        "updated": "2026-11-07T20:57:31.912386+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált total 43.9 (alap 44.2, sérülési korrekció -0.32), referencia 43.5; eltérés +0.4, ami nem éri el a 2.0 pontos küszöböt."
+            "detail": "Sérülésekkel korrigált total 43.6 (alap 44.2, sérülési korrekció -0.57), referencia 43.5; eltérés +0.1, ami nem éri el a 2.0 pontos küszöböt."
           },
           {
             "title": "2026-os szezon",
@@ -4809,8 +4810,8 @@
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
-            "impact": -0.32,
-            "detail": "BUF: Keon Coleman (WR) — QUESTIONABLE, Shoulder [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; BUF: Sam Franklin Jr. (S) — QUESTIONABLE, Illness [kérdéses; lehetséges hatás: passzvédekezés/coverage]; BUF: DJ Moore (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; BUF: Dion Dawkins (OT) — QUESTIONABLE, Ribs [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; BUF: Alec Anderson (OT) — QUESTIONABLE, Ankle [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; BUF: Joshua Palmer (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; BUF: Greg Gaines (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; BUF: Spencer Brown (OT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; MIN: Demond Claiborne (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection]; MIN: Jauan Jennings (WR) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzjáték és célpontmélység]; MIN: Andrew Van Ginkel (LB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; MIN: Jay Ward (S) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; MIN: Kyler Murray (QB) — QUESTIONABLE, Soreness [kérdéses; lehetséges hatás: irányító/passing offense] | Beépített modellhatás: 0.32 pont, alacsonyabb total felé.",
+            "impact": -0.57,
+            "detail": "BUF: Joshua Palmer (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; BUF: Dion Dawkins (OT) — QUESTIONABLE, Ribs [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; BUF: Alec Anderson (OT) — QUESTIONABLE, Ankle [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; BUF: Greg Gaines (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; MIN: Jauan Jennings (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; MIN: Kyler Murray (QB) — OUT, Strain [biztos hiányzó; lehetséges hatás: irányító/passing offense]; MIN: Demond Claiborne (RB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection]; MIN: Jay Ward (S) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage] | Beépített modellhatás: 0.57 pont, alacsonyabb total felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           }
@@ -4823,14 +4824,14 @@
         "underRisk": 43.5
       },
       "forecast": {
-        "homeMargin": 0.73,
+        "homeMargin": -0.23,
         "rawHomeMargin": 0.97,
         "marketHomeMargin": -3.0,
-        "spreadEdge": 3.73,
-        "total": 43.88,
+        "spreadEdge": 2.77,
+        "total": 43.63,
         "rawTotal": 45.06,
         "marketTotal": 43.5,
-        "totalEdge": 0.38,
+        "totalEdge": 0.13,
         "leagueTotalPrior": 46.08,
         "sampleReliability": 1.0,
         "spreadThreshold": 1.5,
@@ -4842,10 +4843,10 @@
         "expectedAwayPoints": 22.84,
         "historicalGamesHome": 8,
         "historicalGamesAway": 8,
-        "overProbability": 0.5114,
-        "underProbability": 0.4886,
-        "overFairOdds": 1.956,
-        "underFairOdds": 2.047,
+        "overProbability": 0.5039,
+        "underProbability": 0.4961,
+        "overFairOdds": 1.985,
+        "underFairOdds": 2.016,
         "moneylineProbabilities": {
           "modelHome": 0.5053,
           "modelAway": 0.4947,
@@ -4855,8 +4856,8 @@
         },
         "baseHomeMargin": 0.18,
         "baseTotal": 44.2,
-        "injurySpreadAdjustment": 0.55,
-        "injuryTotalAdjustment": -0.32,
+        "injurySpreadAdjustment": -0.41,
+        "injuryTotalAdjustment": -0.57,
         "injuryApplied": true
       },
       "market": {
@@ -4867,11 +4868,15 @@
         "home_moneyline": 142.0
       },
       "injuryImpact": {
-        "spreadAdjustment": 0.55,
-        "totalAdjustment": -0.32,
-        "awayBurden": 1.13,
-        "homeBurden": 0.58,
-        "keyDrivers": [],
+        "spreadAdjustment": -0.41,
+        "totalAdjustment": -0.57,
+        "awayBurden": 0.82,
+        "homeBurden": 1.23,
+        "keyDrivers": [
+          "Joshua Palmer OUT: 0.35 pt",
+          "Jauan Jennings OUT: 0.35 pt",
+          "Kyler Murray OUT: 0.60 pt"
+        ],
         "model": "provisional-injury-impact-v1.1-depth-role",
         "calibrated": false,
         "dataAvailable": true,
@@ -4882,11 +4887,31 @@
           "team": "MIN",
           "name": "Kyler Murray",
           "position": "QB",
-          "status": "QUESTIONABLE",
-          "injury": "Soreness",
-          "importance": "KIS",
-          "modelPoints": 0.21,
-          "consequence": "kérdéses; lehetséges hatás: irányító/passing offense"
+          "status": "OUT",
+          "injury": "Strain",
+          "importance": "NAGY",
+          "modelPoints": 0.6,
+          "consequence": "biztos hiányzó; lehetséges hatás: irányító/passing offense"
+        },
+        {
+          "team": "BUF",
+          "name": "Joshua Palmer",
+          "position": "WR",
+          "status": "OUT",
+          "injury": "Not Specified",
+          "importance": "KÖZEPES",
+          "modelPoints": 0.35,
+          "consequence": "biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység"
+        },
+        {
+          "team": "MIN",
+          "name": "Jauan Jennings",
+          "position": "WR",
+          "status": "OUT",
+          "injury": "Not Specified",
+          "importance": "KÖZEPES",
+          "modelPoints": 0.35,
+          "consequence": "biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység"
         },
         {
           "team": "BUF",
@@ -4909,64 +4934,14 @@
           "consequence": "kérdéses; lehetséges hatás: pass protection és futásblokkolás"
         },
         {
-          "team": "BUF",
-          "name": "Spencer Brown",
-          "position": "OT",
-          "status": "QUESTIONABLE",
-          "injury": "Not Specified",
-          "importance": "KIS",
-          "modelPoints": 0.19,
-          "consequence": "kérdéses; lehetséges hatás: pass protection és futásblokkolás"
-        },
-        {
-          "team": "BUF",
-          "name": "Keon Coleman",
-          "position": "WR",
-          "status": "QUESTIONABLE",
-          "injury": "Shoulder",
-          "importance": "KIS",
-          "modelPoints": 0.12,
-          "consequence": "kérdéses; lehetséges hatás: passzjáték és célpontmélység"
-        },
-        {
-          "team": "BUF",
-          "name": "DJ Moore",
-          "position": "WR",
-          "status": "QUESTIONABLE",
-          "injury": "Not Specified",
-          "importance": "KIS",
-          "modelPoints": 0.12,
-          "consequence": "kérdéses; lehetséges hatás: passzjáték és célpontmélység"
-        },
-        {
-          "team": "BUF",
-          "name": "Joshua Palmer",
-          "position": "WR",
-          "status": "QUESTIONABLE",
-          "injury": "Not Specified",
-          "importance": "KIS",
-          "modelPoints": 0.12,
-          "consequence": "kérdéses; lehetséges hatás: passzjáték és célpontmélység"
-        },
-        {
           "team": "MIN",
-          "name": "Jauan Jennings",
-          "position": "WR",
-          "status": "QUESTIONABLE",
+          "name": "Demond Claiborne",
+          "position": "RB",
+          "status": "OUT",
           "injury": "Not Specified",
           "importance": "KIS",
-          "modelPoints": 0.12,
-          "consequence": "kérdéses; lehetséges hatás: passzjáték és célpontmélység"
-        },
-        {
-          "team": "BUF",
-          "name": "Sam Franklin Jr.",
-          "position": "S",
-          "status": "QUESTIONABLE",
-          "injury": "Illness",
-          "importance": "KIS",
-          "modelPoints": 0.1,
-          "consequence": "kérdéses; lehetséges hatás: passzvédekezés/coverage"
+          "modelPoints": 0.18,
+          "consequence": "biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection"
         },
         {
           "team": "MIN",
@@ -4987,26 +4962,6 @@
           "importance": "KIS",
           "modelPoints": 0.09,
           "consequence": "kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés"
-        },
-        {
-          "team": "MIN",
-          "name": "Andrew Van Ginkel",
-          "position": "LB",
-          "status": "QUESTIONABLE",
-          "injury": "Not Specified",
-          "importance": "KIS",
-          "modelPoints": 0.09,
-          "consequence": "kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés"
-        },
-        {
-          "team": "MIN",
-          "name": "Demond Claiborne",
-          "position": "RB",
-          "status": "QUESTIONABLE",
-          "injury": "Not Specified",
-          "importance": "KIS",
-          "modelPoints": 0.06,
-          "consequence": "kérdéses; lehetséges hatás: futójáték és checkdown/pass protection"
         }
       ],
       "injurySource": "ESPN core injury feed"
