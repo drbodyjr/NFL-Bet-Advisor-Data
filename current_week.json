@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 9,
-  "updatedAt": "2026-11-09T02:43:47.408077+00:00",
+  "updatedAt": "2026-11-09T06:17:35.190378+00:00",
   "dataStatus": "HISTORICAL_MARKET_V4",
   "games": [
     {
@@ -3034,9 +3034,9 @@
       "away": "TB",
       "home": "CHI",
       "venue": "Soldier Field",
-      "state": "UPCOMING",
-      "awayScore": null,
-      "homeScore": null,
+      "state": "FINAL",
+      "awayScore": 24,
+      "homeScore": 27,
       "moneyline": {
         "kind": "MONEYLINE",
         "label": "CHI",
@@ -3274,7 +3274,7 @@
         "kind": "MONEYLINE",
         "label": "MIN",
         "confidence": 57,
-        "updated": "2026-11-09T02:43:47.408077+00:00",
+        "updated": "2026-11-09T06:17:35.190378+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3332,7 +3332,7 @@
         "kind": "SPREAD",
         "label": "MIN +3.0",
         "confidence": 62,
-        "updated": "2026-11-09T02:43:47.408077+00:00",
+        "updated": "2026-11-09T06:17:35.190378+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3384,7 +3384,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-09T02:43:47.408077+00:00",
+        "updated": "2026-11-09T06:17:35.190378+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3449,25 +3449,25 @@
         "rawHomeMargin": 0.97,
         "marketHomeMargin": -3.0,
         "spreadEdge": 3.12,
-        "total": 43.5,
-        "rawTotal": 45.04,
+        "total": 43.51,
+        "rawTotal": 45.05,
         "marketTotal": 43.5,
-        "totalEdge": 0.0,
-        "leagueTotalPrior": 46.01,
+        "totalEdge": 0.01,
+        "leagueTotalPrior": 46.05,
         "sampleReliability": 1.0,
         "spreadThreshold": 1.5,
         "totalThreshold": 2.0,
         "modelVersion": "v4-historical-market",
-        "totalSigma": 13.44,
+        "totalSigma": 13.43,
         "totalMarketWeight": 0.55,
-        "expectedHomePoints": 22.21,
+        "expectedHomePoints": 22.22,
         "expectedAwayPoints": 22.83,
         "historicalGamesHome": 8,
         "historicalGamesAway": 8,
-        "overProbability": 0.5,
-        "underProbability": 0.5,
-        "overFairOdds": 2.0,
-        "underFairOdds": 2.0,
+        "overProbability": 0.5003,
+        "underProbability": 0.4997,
+        "overFairOdds": 1.999,
+        "underFairOdds": 2.001,
         "moneylineProbabilities": {
           "modelHome": 0.5053,
           "modelAway": 0.4947,
@@ -3476,7 +3476,7 @@
           "homeProbabilityEdge": 0.1145
         },
         "baseHomeMargin": 0.18,
-        "baseTotal": 44.19,
+        "baseTotal": 44.2,
         "injurySpreadAdjustment": -0.06,
         "injuryTotalAdjustment": -0.69,
         "injuryApplied": true
