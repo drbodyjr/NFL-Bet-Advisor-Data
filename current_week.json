@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 9,
-  "updatedAt": "2026-11-08T22:08:34.277672+00:00",
+  "updatedAt": "2026-11-09T01:44:31.865398+00:00",
   "dataStatus": "HISTORICAL_MARKET_V4",
   "games": [
     {
@@ -2102,9 +2102,9 @@
       "away": "HOU",
       "home": "LAC",
       "venue": "SoFi Stadium",
-      "state": "UPCOMING",
-      "awayScore": null,
-      "homeScore": null,
+      "state": "FINAL",
+      "awayScore": 44,
+      "homeScore": 22,
       "moneyline": {
         "kind": "MONEYLINE",
         "label": "HOU",
@@ -2335,9 +2335,9 @@
       "away": "LV",
       "home": "SF",
       "venue": "Levi's Stadium",
-      "state": "UPCOMING",
-      "awayScore": null,
-      "homeScore": null,
+      "state": "FINAL",
+      "awayScore": 17,
+      "homeScore": 38,
       "moneyline": {
         "kind": "MONEYLINE",
         "label": "SF",
@@ -2568,9 +2568,9 @@
       "away": "GB",
       "home": "NE",
       "venue": "Gillette Stadium",
-      "state": "UPCOMING",
-      "awayScore": null,
-      "homeScore": null,
+      "state": "FINAL",
+      "awayScore": 45,
+      "homeScore": 27,
       "moneyline": {
         "kind": "MONEYLINE",
         "label": "NE",
@@ -2801,9 +2801,9 @@
       "away": "ARI",
       "home": "SEA",
       "venue": "Lumen Field",
-      "state": "UPCOMING",
-      "awayScore": null,
-      "homeScore": null,
+      "state": "FINAL",
+      "awayScore": 3,
+      "homeScore": 17,
       "moneyline": {
         "kind": "MONEYLINE",
         "label": "SEA",
@@ -3252,76 +3252,12 @@
         "injuryApplied": true
       },
       "market": {
-        "spread_line": 6.0,
+        "spread_line": 6.5,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 47.5,
-        "away_moneyline": 220.0,
-        "home_moneyline": -270.0
+        "away_moneyline": 235.0,
+        "home_moneyline": -290.0
       },
-      "injuryImpact": {
-        "spreadAdjustment": 0.06,
-        "totalAdjustment": 0.06,
-        "awayBurden": 0.37,
-        "homeBurden": 0.31,
-        "keyDrivers": [],
-        "model": "provisional-injury-impact-v1.1-depth-role",
-        "calibrated": false,
-        "dataAvailable": true,
-        "appliedToForecast": true
-      },
-      "injuries": [
-        {
-          "team": "TB",
-          "name": "Yaya Diaby",
-          "position": "LB",
-          "status": "OUT",
-          "injury": "Sprain",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.25,
-          "consequence": "biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés"
-        },
-        {
-          "team": "TB",
-          "name": "Emeka Egbuka",
-          "position": "WR",
-          "status": "QUESTIONABLE",
-          "injury": "Not Specified",
-          "importance": "KIS",
-          "modelPoints": 0.12,
-          "consequence": "kérdéses; lehetséges hatás: passzjáték és célpontmélység"
-        },
-        {
-          "team": "CHI",
-          "name": "Tyrique Stevenson Sr.",
-          "position": "CB",
-          "status": "QUESTIONABLE",
-          "injury": "Not Specified",
-          "importance": "KIS",
-          "modelPoints": 0.12,
-          "consequence": "kérdéses; lehetséges hatás: passzvédekezés/coverage"
-        },
-        {
-          "team": "CHI",
-          "name": "Malik Muhammad II",
-          "position": "CB",
-          "status": "QUESTIONABLE",
-          "injury": "Not Specified",
-          "importance": "KIS",
-          "modelPoints": 0.12,
-          "consequence": "kérdéses; lehetséges hatás: passzvédekezés/coverage"
-        },
-        {
-          "team": "CHI",
-          "name": "Kyle Monangai",
-          "position": "RB",
-          "status": "QUESTIONABLE",
-          "injury": "Sprain",
-          "importance": "KIS",
-          "modelPoints": 0.06,
-          "consequence": "kérdéses; lehetséges hatás: futójáték és checkdown/pass protection"
-        }
-      ],
-      "injurySource": "ESPN core injury feed",
       "awayLogo": "https://highlightly.net/american-football/images/teams/92734.png",
       "homeLogo": "https://highlightly.net/american-football/images/teams/92733.png"
     },
@@ -3338,7 +3274,7 @@
         "kind": "MONEYLINE",
         "label": "MIN",
         "confidence": 57,
-        "updated": "2026-11-08T22:08:34.277672+00:00",
+        "updated": "2026-11-09T01:44:31.865398+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3396,7 +3332,7 @@
         "kind": "SPREAD",
         "label": "MIN +3.0",
         "confidence": 62,
-        "updated": "2026-11-08T22:08:34.277672+00:00",
+        "updated": "2026-11-09T01:44:31.865398+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3448,13 +3384,13 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-08T22:08:34.277672+00:00",
+        "updated": "2026-11-09T01:44:31.865398+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált total 43.5 (alap 44.2, sérülési korrekció -0.69), referencia 43.5; eltérés -0.0, ami nem éri el a 2.0 pontos küszöböt."
+            "detail": "Sérülésekkel korrigált total 43.5 (alap 44.2, sérülési korrekció -0.69), referencia 43.5; eltérés +0.0, ami nem éri el a 2.0 pontos küszöböt."
           },
           {
             "title": "2026-os szezon",
@@ -3513,25 +3449,25 @@
         "rawHomeMargin": 0.97,
         "marketHomeMargin": -3.0,
         "spreadEdge": 3.12,
-        "total": 43.47,
-        "rawTotal": 44.97,
+        "total": 43.5,
+        "rawTotal": 45.04,
         "marketTotal": 43.5,
-        "totalEdge": -0.03,
-        "leagueTotalPrior": 45.79,
+        "totalEdge": 0.0,
+        "leagueTotalPrior": 46.01,
         "sampleReliability": 1.0,
         "spreadThreshold": 1.5,
         "totalThreshold": 2.0,
         "modelVersion": "v4-historical-market",
-        "totalSigma": 13.26,
+        "totalSigma": 13.44,
         "totalMarketWeight": 0.55,
-        "expectedHomePoints": 22.18,
-        "expectedAwayPoints": 22.79,
+        "expectedHomePoints": 22.21,
+        "expectedAwayPoints": 22.83,
         "historicalGamesHome": 8,
         "historicalGamesAway": 8,
-        "overProbability": 0.4991,
-        "underProbability": 0.5009,
-        "overFairOdds": 2.004,
-        "underFairOdds": 1.996,
+        "overProbability": 0.5,
+        "underProbability": 0.5,
+        "overFairOdds": 2.0,
+        "underFairOdds": 2.0,
         "moneylineProbabilities": {
           "modelHome": 0.5053,
           "modelAway": 0.4947,
@@ -3540,7 +3476,7 @@
           "homeProbabilityEdge": 0.1145
         },
         "baseHomeMargin": 0.18,
-        "baseTotal": 44.16,
+        "baseTotal": 44.19,
         "injurySpreadAdjustment": -0.06,
         "injuryTotalAdjustment": -0.69,
         "injuryApplied": true
