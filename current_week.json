@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 9,
-  "updatedAt": "2026-11-09T13:59:51.713671+00:00",
+  "updatedAt": "2026-11-10T00:43:37.443367+00:00",
   "dataStatus": "HISTORICAL_MARKET_V4",
   "games": [
     {
@@ -3272,15 +3272,15 @@
       "homeScore": null,
       "moneyline": {
         "kind": "MONEYLINE",
-        "label": "MIN",
+        "label": "BUF",
         "confidence": 57,
-        "updated": "2026-11-09T13:59:51.713671+00:00",
+        "updated": "2026-11-10T00:43:37.443367+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség +0.1 (alap +0.2, sérülési korrekció -0.06)."
+            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség -0.2 (alap +0.1, sérülési korrekció -0.31)."
           },
           {
             "title": "2026-os szezon",
@@ -3316,13 +3316,13 @@
             "title": "Piaci referencia",
             "weight": 10,
             "impact": 0,
-            "detail": "A referencia piaci hazai margin -3.0 (hazai handicap +3.0)."
+            "detail": "A referencia piaci hazai margin -3.5 (hazai handicap +3.5)."
           },
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
-            "impact": -0.06,
-            "detail": "BUF: Alec Anderson (OT) — QUESTIONABLE, Ankle [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; BUF: Dion Dawkins (OT) — QUESTIONABLE, Ribs [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; BUF: Tyrell Shavers (WR) — OUT, Surgery [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; BUF: Joshua Palmer (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; BUF: Greg Gaines (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; MIN: Demond Claiborne (RB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection]; MIN: Jauan Jennings (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; MIN: Kyler Murray (QB) — OUT, Strain [biztos hiányzó; lehetséges hatás: irányító/passing offense]; MIN: Jay Ward (S) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage] | Beépített modellhatás: 0.06 pont, vendég oldal felé.",
+            "impact": -0.31,
+            "detail": "BUF: Greg Gaines (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; BUF: Alec Anderson (OT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; BUF: Dion Dawkins (OT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; BUF: Tyrell Shavers (WR) — OUT, Surgery [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; BUF: Jalon Kilgore (S) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; BUF: Mike Danna (DE) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; BUF: Skyler Bell (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; MIN: Demond Claiborne (RB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection]; MIN: Theo Jackson (S) — QUESTIONABLE [kérdéses; lehetséges hatás: passzvédekezés/coverage]; MIN: Jakobe Thomas (S) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; MIN: Kyler Murray (QB) — OUT, Strain [biztos hiányzó; lehetséges hatás: irányító/passing offense]; MIN: Charles Demmings (CB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; MIN: Jauan Jennings (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; MIN: Caleb Banks (DT) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 0.31 pont, vendég oldal felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           }
@@ -3330,15 +3330,15 @@
       },
       "spread": {
         "kind": "SPREAD",
-        "label": "MIN +3.0",
+        "label": "MIN +3.5",
         "confidence": 62,
-        "updated": "2026-11-09T13:59:51.713671+00:00",
+        "updated": "2026-11-10T00:43:37.443367+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált hazai margin +0.1 (alap +0.2, sérülési korrekció -0.06), piaci margin -3.0; edge +3.1."
+            "detail": "Sérülésekkel korrigált hazai margin -0.2 (alap +0.1, sérülési korrekció -0.31), piaci margin -3.5; edge +3.3."
           },
           {
             "title": "2026-os szezon",
@@ -3373,8 +3373,8 @@
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
-            "impact": -0.06,
-            "detail": "BUF: Alec Anderson (OT) — QUESTIONABLE, Ankle [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; BUF: Dion Dawkins (OT) — QUESTIONABLE, Ribs [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; BUF: Tyrell Shavers (WR) — OUT, Surgery [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; BUF: Joshua Palmer (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; BUF: Greg Gaines (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; MIN: Demond Claiborne (RB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection]; MIN: Jauan Jennings (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; MIN: Kyler Murray (QB) — OUT, Strain [biztos hiányzó; lehetséges hatás: irányító/passing offense]; MIN: Jay Ward (S) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage] | Beépített modellhatás: 0.06 pont, vendég oldal felé.",
+            "impact": -0.31,
+            "detail": "BUF: Greg Gaines (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; BUF: Alec Anderson (OT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; BUF: Dion Dawkins (OT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; BUF: Tyrell Shavers (WR) — OUT, Surgery [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; BUF: Jalon Kilgore (S) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; BUF: Mike Danna (DE) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; BUF: Skyler Bell (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; MIN: Demond Claiborne (RB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection]; MIN: Theo Jackson (S) — QUESTIONABLE [kérdéses; lehetséges hatás: passzvédekezés/coverage]; MIN: Jakobe Thomas (S) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; MIN: Kyler Murray (QB) — OUT, Strain [biztos hiányzó; lehetséges hatás: irányító/passing offense]; MIN: Charles Demmings (CB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; MIN: Jauan Jennings (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; MIN: Caleb Banks (DT) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 0.31 pont, vendég oldal felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           }
@@ -3384,13 +3384,13 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-09T13:59:51.713671+00:00",
+        "updated": "2026-11-10T00:43:37.443367+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált total 44.1 (alap 44.8, sérülési korrekció -0.69), referencia 44.5; eltérés -0.4, ami nem éri el a 2.0 pontos küszöböt."
+            "detail": "Sérülésekkel korrigált total 45.1 (alap 45.3, sérülési korrekció -0.24), referencia 45.5; eltérés -0.4, ami nem éri el a 2.0 pontos küszöböt."
           },
           {
             "title": "2026-os szezon",
@@ -3431,27 +3431,27 @@
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
-            "impact": -0.69,
-            "detail": "BUF: Alec Anderson (OT) — QUESTIONABLE, Ankle [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; BUF: Dion Dawkins (OT) — QUESTIONABLE, Ribs [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; BUF: Tyrell Shavers (WR) — OUT, Surgery [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; BUF: Joshua Palmer (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; BUF: Greg Gaines (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; MIN: Demond Claiborne (RB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection]; MIN: Jauan Jennings (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; MIN: Kyler Murray (QB) — OUT, Strain [biztos hiányzó; lehetséges hatás: irányító/passing offense]; MIN: Jay Ward (S) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage] | Beépített modellhatás: 0.69 pont, alacsonyabb total felé.",
+            "impact": -0.24,
+            "detail": "BUF: Greg Gaines (DT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass rush és/vagy futásvédekezés]; BUF: Alec Anderson (OT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; BUF: Dion Dawkins (OT) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; BUF: Tyrell Shavers (WR) — OUT, Surgery [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; BUF: Jalon Kilgore (S) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; BUF: Mike Danna (DE) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés]; BUF: Skyler Bell (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; MIN: Demond Claiborne (RB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection]; MIN: Theo Jackson (S) — QUESTIONABLE [kérdéses; lehetséges hatás: passzvédekezés/coverage]; MIN: Jakobe Thomas (S) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; MIN: Kyler Murray (QB) — OUT, Strain [biztos hiányzó; lehetséges hatás: irányító/passing offense]; MIN: Charles Demmings (CB) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzvédekezés/coverage]; MIN: Jauan Jennings (WR) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység]; MIN: Caleb Banks (DT) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés] | Beépített modellhatás: 0.24 pont, alacsonyabb total felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           }
         ]
       },
       "totalTests": {
-        "overSafe": 41.5,
-        "overRisk": 44.5,
-        "underSafe": 47.5,
-        "underRisk": 44.5
+        "overSafe": 42.5,
+        "overRisk": 45.5,
+        "underSafe": 48.5,
+        "underRisk": 45.5
       },
       "forecast": {
-        "homeMargin": 0.12,
+        "homeMargin": -0.23,
         "rawHomeMargin": 0.97,
-        "marketHomeMargin": -3.0,
-        "spreadEdge": 3.12,
-        "total": 44.06,
+        "marketHomeMargin": -3.5,
+        "spreadEdge": 3.27,
+        "total": 45.06,
         "rawTotal": 45.05,
-        "marketTotal": 44.5,
+        "marketTotal": 45.5,
         "totalEdge": -0.44,
         "leagueTotalPrior": 46.05,
         "sampleReliability": 1.0,
@@ -3469,35 +3469,37 @@
         "overFairOdds": 2.054,
         "underFairOdds": 1.949,
         "moneylineProbabilities": {
-          "modelHome": 0.5053,
-          "modelAway": 0.4947,
-          "marketHomeNoVig": 0.3836,
-          "marketAwayNoVig": 0.6164,
-          "homeProbabilityEdge": 0.1217
+          "modelHome": 0.5023,
+          "modelAway": 0.4977,
+          "marketHomeNoVig": 0.3691,
+          "marketAwayNoVig": 0.6309,
+          "homeProbabilityEdge": 0.1332
         },
-        "baseHomeMargin": 0.18,
-        "baseTotal": 44.75,
-        "injurySpreadAdjustment": -0.06,
-        "injuryTotalAdjustment": -0.69,
+        "baseHomeMargin": 0.08,
+        "baseTotal": 45.3,
+        "injurySpreadAdjustment": -0.31,
+        "injuryTotalAdjustment": -0.24,
         "injuryApplied": true
       },
       "market": {
-        "spread_line": -3.0,
+        "spread_line": -3.5,
         "spread_convention": "nflverse_signed_home_margin",
-        "total_line": 44.5,
-        "away_moneyline": -180.0,
-        "home_moneyline": 150.0
+        "total_line": 45.5,
+        "away_moneyline": -192.0,
+        "home_moneyline": 160.0
       },
       "injuryImpact": {
-        "spreadAdjustment": -0.06,
-        "totalAdjustment": -0.69,
-        "awayBurden": 1.17,
-        "homeBurden": 1.23,
+        "spreadAdjustment": -0.31,
+        "totalAdjustment": -0.24,
+        "awayBurden": 1.8,
+        "homeBurden": 2.11,
         "keyDrivers": [
           "Tyrell Shavers OUT: 0.35 pt",
-          "Joshua Palmer OUT: 0.35 pt",
-          "Jauan Jennings OUT: 0.35 pt",
-          "Kyler Murray OUT: 0.60 pt"
+          "Mike Danna OUT: 0.35 pt",
+          "Skyler Bell OUT: 0.35 pt",
+          "Kyler Murray OUT: 0.60 pt",
+          "Charles Demmings OUT: 0.35 pt",
+          "Jauan Jennings OUT: 0.35 pt"
         ],
         "model": "provisional-injury-impact-v1.1-depth-role",
         "calibrated": false,
@@ -3527,13 +3529,33 @@
         },
         {
           "team": "BUF",
-          "name": "Joshua Palmer",
+          "name": "Mike Danna",
+          "position": "DE",
+          "status": "OUT",
+          "injury": "Not Specified",
+          "importance": "KÖZEPES",
+          "modelPoints": 0.35,
+          "consequence": "biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés"
+        },
+        {
+          "team": "BUF",
+          "name": "Skyler Bell",
           "position": "WR",
           "status": "OUT",
           "injury": "Not Specified",
           "importance": "KÖZEPES",
           "modelPoints": 0.35,
           "consequence": "biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység"
+        },
+        {
+          "team": "MIN",
+          "name": "Charles Demmings",
+          "position": "CB",
+          "status": "OUT",
+          "injury": "Not Specified",
+          "importance": "KÖZEPES",
+          "modelPoints": 0.35,
+          "consequence": "biztos hiányzó; lehetséges hatás: passzvédekezés/coverage"
         },
         {
           "team": "MIN",
@@ -3547,10 +3569,40 @@
         },
         {
           "team": "BUF",
+          "name": "Jalon Kilgore",
+          "position": "S",
+          "status": "OUT",
+          "injury": "Not Specified",
+          "importance": "KÖZEPES",
+          "modelPoints": 0.28,
+          "consequence": "biztos hiányzó; lehetséges hatás: passzvédekezés/coverage"
+        },
+        {
+          "team": "MIN",
+          "name": "Jakobe Thomas",
+          "position": "S",
+          "status": "OUT",
+          "injury": "Not Specified",
+          "importance": "KÖZEPES",
+          "modelPoints": 0.28,
+          "consequence": "biztos hiányzó; lehetséges hatás: passzvédekezés/coverage"
+        },
+        {
+          "team": "MIN",
+          "name": "Caleb Banks",
+          "position": "DT",
+          "status": "OUT",
+          "injury": "Not Specified",
+          "importance": "KÖZEPES",
+          "modelPoints": 0.25,
+          "consequence": "biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés"
+        },
+        {
+          "team": "BUF",
           "name": "Alec Anderson",
           "position": "OT",
           "status": "QUESTIONABLE",
-          "injury": "Ankle",
+          "injury": "Not Specified",
           "importance": "KIS",
           "modelPoints": 0.19,
           "consequence": "kérdéses; lehetséges hatás: pass protection és futásblokkolás"
@@ -3560,7 +3612,7 @@
           "name": "Dion Dawkins",
           "position": "OT",
           "status": "QUESTIONABLE",
-          "injury": "Ribs",
+          "injury": "Not Specified",
           "importance": "KIS",
           "modelPoints": 0.19,
           "consequence": "kérdéses; lehetséges hatás: pass protection és futásblokkolás"
@@ -3577,10 +3629,10 @@
         },
         {
           "team": "MIN",
-          "name": "Jay Ward",
+          "name": "Theo Jackson",
           "position": "S",
           "status": "QUESTIONABLE",
-          "injury": "Not Specified",
+          "injury": "",
           "importance": "KIS",
           "modelPoints": 0.1,
           "consequence": "kérdéses; lehetséges hatás: passzvédekezés/coverage"
