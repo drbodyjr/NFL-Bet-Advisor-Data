@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 10,
-  "updatedAt": "2026-11-13T03:27:17.276356+00:00",
+  "updatedAt": "2026-11-13T06:36:42.525215+00:00",
   "dataStatus": "HISTORICAL_MARKET_V4",
   "games": [
     {
@@ -10,9 +10,9 @@
       "away": "WAS",
       "home": "NYG",
       "venue": "MetLife Stadium",
-      "state": "UPCOMING",
-      "awayScore": null,
-      "homeScore": null,
+      "state": "FINAL",
+      "awayScore": 24,
+      "homeScore": 21,
       "moneyline": {
         "kind": "MONEYLINE",
         "label": "NYG",
@@ -245,7 +245,7 @@
         "kind": "MONEYLINE",
         "label": "DET",
         "confidence": 63,
-        "updated": "2026-11-13T03:27:17.276356+00:00",
+        "updated": "2026-11-13T06:36:42.525215+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -304,7 +304,7 @@
         "kind": "SPREAD",
         "label": "DET -2.5",
         "confidence": 61,
-        "updated": "2026-11-13T03:27:17.276356+00:00",
+        "updated": "2026-11-13T06:36:42.525215+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -357,7 +357,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-13T03:27:17.276356+00:00",
+        "updated": "2026-11-13T06:36:42.525215+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -427,7 +427,7 @@
         "rawTotal": 48.39,
         "marketTotal": 50.5,
         "totalEdge": -1.04,
-        "leagueTotalPrior": 45.93,
+        "leagueTotalPrior": 45.92,
         "sampleReliability": 1.0,
         "spreadThreshold": 1.5,
         "totalThreshold": 2.0,
@@ -667,7 +667,7 @@
         "kind": "MONEYLINE",
         "label": "KC",
         "confidence": 62,
-        "updated": "2026-11-13T03:27:17.276356+00:00",
+        "updated": "2026-11-13T06:36:42.525215+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -726,7 +726,7 @@
         "kind": "SPREAD",
         "label": "KC -3.0",
         "confidence": 60,
-        "updated": "2026-11-13T03:27:17.276356+00:00",
+        "updated": "2026-11-13T06:36:42.525215+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -779,7 +779,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-13T03:27:17.276356+00:00",
+        "updated": "2026-11-13T06:36:42.525215+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -849,14 +849,14 @@
         "rawTotal": 44.14,
         "marketTotal": 46.5,
         "totalEdge": -1.11,
-        "leagueTotalPrior": 45.93,
+        "leagueTotalPrior": 45.92,
         "sampleReliability": 1.0,
         "spreadThreshold": 1.5,
         "totalThreshold": 2.0,
         "modelVersion": "v4-historical-market",
         "totalSigma": 13.48,
         "totalMarketWeight": 0.55,
-        "expectedHomePoints": 20.42,
+        "expectedHomePoints": 20.41,
         "expectedAwayPoints": 23.73,
         "historicalGamesHome": 8,
         "historicalGamesAway": 8,
@@ -1014,7 +1014,7 @@
         "kind": "MONEYLINE",
         "label": "HOU",
         "confidence": 61,
-        "updated": "2026-11-13T03:27:17.276356+00:00",
+        "updated": "2026-11-13T06:36:42.525215+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -1073,7 +1073,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-13T03:27:17.276356+00:00",
+        "updated": "2026-11-13T06:36:42.525215+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -1126,7 +1126,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-13T03:27:17.276356+00:00",
+        "updated": "2026-11-13T06:36:42.525215+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -1196,7 +1196,7 @@
         "rawTotal": 44.77,
         "marketTotal": 40.5,
         "totalEdge": 1.8,
-        "leagueTotalPrior": 45.93,
+        "leagueTotalPrior": 45.92,
         "sampleReliability": 1.0,
         "spreadThreshold": 1.5,
         "totalThreshold": 2.0,
@@ -1461,7 +1461,7 @@
         "kind": "MONEYLINE",
         "label": "GB",
         "confidence": 59,
-        "updated": "2026-11-13T03:27:17.276356+00:00",
+        "updated": "2026-11-13T06:36:42.525215+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -1520,7 +1520,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-13T03:27:17.276356+00:00",
+        "updated": "2026-11-13T06:36:42.525215+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -1573,7 +1573,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-13T03:27:17.276356+00:00",
+        "updated": "2026-11-13T06:36:42.525215+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -1643,7 +1643,7 @@
         "rawTotal": 40.43,
         "marketTotal": 41.5,
         "totalEdge": -0.85,
-        "leagueTotalPrior": 45.93,
+        "leagueTotalPrior": 45.92,
         "sampleReliability": 1.0,
         "spreadThreshold": 1.5,
         "totalThreshold": 2.0,
@@ -1891,7 +1891,7 @@
         "kind": "MONEYLINE",
         "label": "IND",
         "confidence": 59,
-        "updated": "2026-11-13T03:27:17.276356+00:00",
+        "updated": "2026-11-13T06:36:42.525215+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -1950,7 +1950,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-13T03:27:17.276356+00:00",
+        "updated": "2026-11-13T06:36:42.525215+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2003,7 +2003,7 @@
         "kind": "OVER",
         "label": "Over 38.5",
         "confidence": 58,
-        "updated": "2026-11-13T03:27:17.276356+00:00",
+        "updated": "2026-11-13T06:36:42.525215+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2073,7 +2073,7 @@
         "rawTotal": 45.17,
         "marketTotal": 38.5,
         "totalEdge": 2.88,
-        "leagueTotalPrior": 45.93,
+        "leagueTotalPrior": 45.92,
         "sampleReliability": 1.0,
         "spreadThreshold": 1.5,
         "totalThreshold": 2.0,
@@ -2261,7 +2261,7 @@
         "kind": "MONEYLINE",
         "label": "NO",
         "confidence": 57,
-        "updated": "2026-11-13T03:27:17.276356+00:00",
+        "updated": "2026-11-13T06:36:42.525215+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2320,7 +2320,7 @@
         "kind": "SPREAD",
         "label": "CAR +2.5",
         "confidence": 61,
-        "updated": "2026-11-13T03:27:17.276356+00:00",
+        "updated": "2026-11-13T06:36:42.525215+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2373,7 +2373,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-13T03:27:17.276356+00:00",
+        "updated": "2026-11-13T06:36:42.525215+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2440,17 +2440,17 @@
         "marketHomeMargin": 2.5,
         "spreadEdge": -2.25,
         "total": 48.2,
-        "rawTotal": 48.11,
+        "rawTotal": 48.1,
         "marketTotal": 48.5,
         "totalEdge": -0.3,
-        "leagueTotalPrior": 45.93,
+        "leagueTotalPrior": 45.92,
         "sampleReliability": 1.0,
         "spreadThreshold": 1.5,
         "totalThreshold": 2.0,
         "modelVersion": "v4-historical-market",
         "totalSigma": 13.48,
         "totalMarketWeight": 0.55,
-        "expectedHomePoints": 24.19,
+        "expectedHomePoints": 24.18,
         "expectedAwayPoints": 23.92,
         "historicalGamesHome": 8,
         "historicalGamesAway": 8,
@@ -2461,9 +2461,9 @@
         "moneylineProbabilities": {
           "modelHome": 0.5397,
           "modelAway": 0.4603,
-          "marketHomeNoVig": 0.5427,
-          "marketAwayNoVig": 0.4573,
-          "homeProbabilityEdge": -0.003
+          "marketHomeNoVig": 0.5514,
+          "marketAwayNoVig": 0.4486,
+          "homeProbabilityEdge": -0.0117
         },
         "baseHomeMargin": 1.35,
         "baseTotal": 48.32,
@@ -2475,8 +2475,8 @@
         "spread_line": 2.5,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 48.5,
-        "away_moneyline": 110.0,
-        "home_moneyline": -130.0
+        "away_moneyline": 114.0,
+        "home_moneyline": -135.0
       },
       "injuryImpact": {
         "spreadAdjustment": -1.1,
@@ -2598,7 +2598,7 @@
         "kind": "MONEYLINE",
         "label": "BUF",
         "confidence": 65,
-        "updated": "2026-11-13T03:27:17.276356+00:00",
+        "updated": "2026-11-13T06:36:42.525215+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2657,7 +2657,7 @@
         "kind": "SPREAD",
         "label": "NYJ +8.5",
         "confidence": 60,
-        "updated": "2026-11-13T03:27:17.276356+00:00",
+        "updated": "2026-11-13T06:36:42.525215+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2710,7 +2710,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-13T03:27:17.276356+00:00",
+        "updated": "2026-11-13T06:36:42.525215+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2777,10 +2777,10 @@
         "marketHomeMargin": -8.5,
         "spreadEdge": 1.67,
         "total": 49.63,
-        "rawTotal": 48.73,
+        "rawTotal": 48.72,
         "marketTotal": 50.5,
         "totalEdge": -0.87,
-        "leagueTotalPrior": 45.93,
+        "leagueTotalPrior": 45.92,
         "sampleReliability": 1.0,
         "spreadThreshold": 1.5,
         "totalThreshold": 2.0,
@@ -2965,7 +2965,7 @@
         "kind": "MONEYLINE",
         "label": "JAX",
         "confidence": 68,
-        "updated": "2026-11-13T03:27:17.276356+00:00",
+        "updated": "2026-11-13T06:36:42.525215+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3024,7 +3024,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-13T03:27:17.276356+00:00",
+        "updated": "2026-11-13T06:36:42.525215+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3077,7 +3077,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-13T03:27:17.276356+00:00",
+        "updated": "2026-11-13T06:36:42.525215+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3144,10 +3144,10 @@
         "marketHomeMargin": -10.5,
         "spreadEdge": 1.12,
         "total": 45.77,
-        "rawTotal": 45.07,
+        "rawTotal": 45.06,
         "marketTotal": 46.5,
         "totalEdge": -0.73,
-        "leagueTotalPrior": 45.93,
+        "leagueTotalPrior": 45.92,
         "sampleReliability": 1.0,
         "spreadThreshold": 1.5,
         "totalThreshold": 2.0,
@@ -3352,7 +3352,7 @@
         "kind": "MONEYLINE",
         "label": "LA",
         "confidence": 66,
-        "updated": "2026-11-13T03:27:17.276356+00:00",
+        "updated": "2026-11-13T06:36:42.525215+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3411,7 +3411,7 @@
         "kind": "SPREAD",
         "label": "ARI +9.5",
         "confidence": 60,
-        "updated": "2026-11-13T03:27:17.276356+00:00",
+        "updated": "2026-11-13T06:36:42.525215+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3464,7 +3464,7 @@
         "kind": "OVER",
         "label": "Over 39.5",
         "confidence": 59,
-        "updated": "2026-11-13T03:27:17.276356+00:00",
+        "updated": "2026-11-13T06:36:42.525215+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3534,7 +3534,7 @@
         "rawTotal": 47.04,
         "marketTotal": 39.5,
         "totalEdge": 3.36,
-        "leagueTotalPrior": 45.93,
+        "leagueTotalPrior": 45.92,
         "sampleReliability": 1.0,
         "spreadThreshold": 1.5,
         "totalThreshold": 2.0,
@@ -3552,9 +3552,9 @@
         "moneylineProbabilities": {
           "modelHome": 0.2934,
           "modelAway": 0.7066,
-          "marketHomeNoVig": 0.2042,
-          "marketAwayNoVig": 0.7958,
-          "homeProbabilityEdge": 0.0892
+          "marketHomeNoVig": 0.2,
+          "marketAwayNoVig": 0.8,
+          "homeProbabilityEdge": 0.0934
         },
         "baseHomeMargin": -7.34,
         "baseTotal": 42.89,
@@ -3566,8 +3566,8 @@
         "spread_line": -9.5,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 39.5,
-        "away_moneyline": -485.0,
-        "home_moneyline": 370.0
+        "away_moneyline": -500.0,
+        "home_moneyline": 380.0
       },
       "injuryImpact": {
         "spreadAdjustment": -0.16,
@@ -3759,7 +3759,7 @@
         "kind": "MONEYLINE",
         "label": "SEA",
         "confidence": 59,
-        "updated": "2026-11-13T03:27:17.276356+00:00",
+        "updated": "2026-11-13T06:36:42.525215+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3818,7 +3818,7 @@
         "kind": "SPREAD",
         "label": "LV +6.5",
         "confidence": 64,
-        "updated": "2026-11-13T03:27:17.276356+00:00",
+        "updated": "2026-11-13T06:36:42.525215+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3871,7 +3871,7 @@
         "kind": "OVER",
         "label": "Over 40.5",
         "confidence": 57,
-        "updated": "2026-11-13T03:27:17.276356+00:00",
+        "updated": "2026-11-13T06:36:42.525215+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3941,7 +3941,7 @@
         "rawTotal": 46.72,
         "marketTotal": 40.5,
         "totalEdge": 2.33,
-        "leagueTotalPrior": 45.93,
+        "leagueTotalPrior": 45.92,
         "sampleReliability": 1.0,
         "spreadThreshold": 1.5,
         "totalThreshold": 2.0,
@@ -4139,7 +4139,7 @@
         "kind": "MONEYLINE",
         "label": "SF",
         "confidence": 60,
-        "updated": "2026-11-13T03:27:17.276356+00:00",
+        "updated": "2026-11-13T06:36:42.525215+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -4198,7 +4198,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-13T03:27:17.276356+00:00",
+        "updated": "2026-11-13T06:36:42.525215+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -4251,7 +4251,7 @@
         "kind": "UNDER",
         "label": "Under 55.5",
         "confidence": 57,
-        "updated": "2026-11-13T03:27:17.276356+00:00",
+        "updated": "2026-11-13T06:36:42.525215+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -4321,7 +4321,7 @@
         "rawTotal": 50.36,
         "marketTotal": 55.5,
         "totalEdge": -2.42,
-        "leagueTotalPrior": 45.93,
+        "leagueTotalPrior": 45.92,
         "sampleReliability": 1.0,
         "spreadThreshold": 1.5,
         "totalThreshold": 2.0,
@@ -4578,7 +4578,7 @@
         "kind": "MONEYLINE",
         "label": "CIN",
         "confidence": 61,
-        "updated": "2026-11-13T03:27:17.276356+00:00",
+        "updated": "2026-11-13T06:36:42.525215+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -4637,7 +4637,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-13T03:27:17.276356+00:00",
+        "updated": "2026-11-13T06:36:42.525215+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -4690,7 +4690,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-13T03:27:17.276356+00:00",
+        "updated": "2026-11-13T06:36:42.525215+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -4760,7 +4760,7 @@
         "rawTotal": 46.17,
         "marketTotal": 49.5,
         "totalEdge": -1.47,
-        "leagueTotalPrior": 45.93,
+        "leagueTotalPrior": 45.92,
         "sampleReliability": 1.0,
         "spreadThreshold": 1.5,
         "totalThreshold": 2.0,
@@ -4835,7 +4835,7 @@
         "kind": "MONEYLINE",
         "label": "BAL",
         "confidence": 63,
-        "updated": "2026-11-13T03:27:17.276356+00:00",
+        "updated": "2026-11-13T06:36:42.525215+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -4893,7 +4893,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-13T03:27:17.276356+00:00",
+        "updated": "2026-11-13T06:36:42.525215+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -4945,7 +4945,7 @@
         "kind": "OVER",
         "label": "Over 38.5",
         "confidence": 58,
-        "updated": "2026-11-13T03:27:17.276356+00:00",
+        "updated": "2026-11-13T06:36:42.525215+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -5011,10 +5011,10 @@
         "marketHomeMargin": 4.5,
         "spreadEdge": 0.31,
         "total": 41.12,
-        "rawTotal": 44.62,
+        "rawTotal": 44.61,
         "marketTotal": 38.5,
         "totalEdge": 2.62,
-        "leagueTotalPrior": 45.93,
+        "leagueTotalPrior": 45.92,
         "sampleReliability": 1.0,
         "spreadThreshold": 1.5,
         "totalThreshold": 2.0,
