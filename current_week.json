@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 10,
-  "updatedAt": "2026-11-16T02:50:17.642665+00:00",
+  "updatedAt": "2026-11-16T06:20:40.838603+00:00",
   "dataStatus": "HISTORICAL_MARKET_V4",
   "games": [
     {
@@ -2801,9 +2801,9 @@
       "away": "PIT",
       "home": "CIN",
       "venue": "Paycor Stadium",
-      "state": "UPCOMING",
-      "awayScore": null,
-      "homeScore": null,
+      "state": "FINAL",
+      "awayScore": 18,
+      "homeScore": 38,
       "moneyline": {
         "kind": "MONEYLINE",
         "label": "CIN",
@@ -3041,7 +3041,7 @@
         "kind": "MONEYLINE",
         "label": "BAL",
         "confidence": 63,
-        "updated": "2026-11-16T02:50:17.642665+00:00",
+        "updated": "2026-11-16T06:20:40.838603+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3099,7 +3099,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-16T02:50:17.642665+00:00",
+        "updated": "2026-11-16T06:20:40.838603+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3151,7 +3151,7 @@
         "kind": "OVER",
         "label": "Over 38.5",
         "confidence": 58,
-        "updated": "2026-11-16T02:50:17.642665+00:00",
+        "updated": "2026-11-16T06:20:40.838603+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3217,18 +3217,18 @@
         "marketHomeMargin": 4.5,
         "spreadEdge": 0.93,
         "total": 41.27,
-        "rawTotal": 44.67,
+        "rawTotal": 44.69,
         "marketTotal": 38.5,
         "totalEdge": 2.77,
-        "leagueTotalPrior": 46.11,
+        "leagueTotalPrior": 46.17,
         "sampleReliability": 1.0,
         "spreadThreshold": 1.5,
         "totalThreshold": 2.0,
         "modelVersion": "v4-historical-market",
         "totalSigma": 13.08,
         "totalMarketWeight": 0.55,
-        "expectedHomePoints": 23.42,
-        "expectedAwayPoints": 21.25,
+        "expectedHomePoints": 23.43,
+        "expectedAwayPoints": 21.26,
         "historicalGamesHome": 8,
         "historicalGamesAway": 8,
         "overProbability": 0.5839,
