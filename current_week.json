@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 10,
-  "updatedAt": "2026-11-16T06:20:40.838603+00:00",
+  "updatedAt": "2026-11-16T13:46:11.738121+00:00",
   "dataStatus": "HISTORICAL_MARKET_V4",
   "games": [
     {
@@ -2858,7 +2858,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: cloudy 5.94°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: partly cloudy night 4.71°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -2911,7 +2911,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: cloudy 5.94°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: partly cloudy night 4.71°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -2970,7 +2970,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: cloudy 5.94°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: partly cloudy night 4.71°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -3041,7 +3041,7 @@
         "kind": "MONEYLINE",
         "label": "BAL",
         "confidence": 63,
-        "updated": "2026-11-16T06:20:40.838603+00:00",
+        "updated": "2026-11-16T13:46:11.738121+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3099,7 +3099,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-16T06:20:40.838603+00:00",
+        "updated": "2026-11-16T13:46:11.738121+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3151,7 +3151,7 @@
         "kind": "OVER",
         "label": "Over 38.5",
         "confidence": 58,
-        "updated": "2026-11-16T06:20:40.838603+00:00",
+        "updated": "2026-11-16T13:46:11.738121+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
