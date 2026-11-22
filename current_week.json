@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 11,
-  "updatedAt": "2026-11-21T22:13:14.834823+00:00",
+  "updatedAt": "2026-11-22T03:15:39.381170+00:00",
   "dataStatus": "HISTORICAL_MARKET_V4",
   "games": [
     {
@@ -245,7 +245,7 @@
         "kind": "MONEYLINE",
         "label": "BUF",
         "confidence": 72,
-        "updated": "2026-11-21T22:13:14.834823+00:00",
+        "updated": "2026-11-22T03:15:39.381170+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -304,7 +304,7 @@
         "kind": "SPREAD",
         "label": "MIA +16.5",
         "confidence": 62,
-        "updated": "2026-11-21T22:13:14.834823+00:00",
+        "updated": "2026-11-22T03:15:39.381170+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -357,7 +357,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-21T22:13:14.834823+00:00",
+        "updated": "2026-11-22T03:15:39.381170+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -445,9 +445,9 @@
         "moneylineProbabilities": {
           "modelHome": 0.8386,
           "modelAway": 0.1614,
-          "marketHomeNoVig": 0.902,
-          "marketAwayNoVig": 0.098,
-          "homeProbabilityEdge": -0.0634
+          "marketHomeNoVig": 0.9029,
+          "marketAwayNoVig": 0.0971,
+          "homeProbabilityEdge": -0.0644
         },
         "baseHomeMargin": 13.35,
         "baseTotal": 45.54,
@@ -459,8 +459,8 @@
         "spread_line": 16.5,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 44.5,
-        "away_moneyline": 880.0,
-        "home_moneyline": -1540.0
+        "away_moneyline": 890.0,
+        "home_moneyline": -1560.0
       },
       "injuryImpact": {
         "spreadAdjustment": 0.09,
@@ -635,7 +635,7 @@
         "kind": "MONEYLINE",
         "label": "CAR",
         "confidence": 61,
-        "updated": "2026-11-21T22:13:14.834823+00:00",
+        "updated": "2026-11-22T03:15:39.381170+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -694,7 +694,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-21T22:13:14.834823+00:00",
+        "updated": "2026-11-22T03:15:39.381170+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -747,7 +747,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-21T22:13:14.834823+00:00",
+        "updated": "2026-11-22T03:15:39.381170+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -835,9 +835,9 @@
         "moneylineProbabilities": {
           "modelHome": 0.5926,
           "modelAway": 0.4074,
-          "marketHomeNoVig": 0.5749,
-          "marketAwayNoVig": 0.4251,
-          "homeProbabilityEdge": 0.0177
+          "marketHomeNoVig": 0.579,
+          "marketAwayNoVig": 0.421,
+          "homeProbabilityEdge": 0.0136
         },
         "baseHomeMargin": 3.16,
         "baseTotal": 45.06,
@@ -849,8 +849,8 @@
         "spread_line": 3.0,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 43.5,
-        "away_moneyline": 126.0,
-        "home_moneyline": -149.0
+        "away_moneyline": 128.0,
+        "home_moneyline": -152.0
       },
       "injuryImpact": {
         "spreadAdjustment": 0.33,
@@ -954,7 +954,7 @@
         "kind": "MONEYLINE",
         "label": "CHI",
         "confidence": 68,
-        "updated": "2026-11-21T22:13:14.834823+00:00",
+        "updated": "2026-11-22T03:15:39.381170+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -1013,7 +1013,7 @@
         "kind": "SPREAD",
         "label": "NO +11.5",
         "confidence": 61,
-        "updated": "2026-11-21T22:13:14.834823+00:00",
+        "updated": "2026-11-22T03:15:39.381170+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -1066,7 +1066,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-21T22:13:14.834823+00:00",
+        "updated": "2026-11-22T03:15:39.381170+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -1154,9 +1154,9 @@
         "moneylineProbabilities": {
           "modelHome": 0.719,
           "modelAway": 0.281,
-          "marketHomeNoVig": 0.8288,
-          "marketAwayNoVig": 0.1712,
-          "homeProbabilityEdge": -0.1098
+          "marketHomeNoVig": 0.8293,
+          "marketAwayNoVig": 0.1707,
+          "homeProbabilityEdge": -0.1104
         },
         "baseHomeMargin": 7.83,
         "baseTotal": 47.74,
@@ -1168,7 +1168,7 @@
         "spread_line": 11.5,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 48.5,
-        "away_moneyline": 461.0,
+        "away_moneyline": 463.0,
         "home_moneyline": -630.0
       },
       "injuryImpact": {
@@ -1287,7 +1287,7 @@
         "kind": "MONEYLINE",
         "label": "DAL",
         "confidence": 63,
-        "updated": "2026-11-21T22:13:14.834823+00:00",
+        "updated": "2026-11-22T03:15:39.381170+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -1346,7 +1346,7 @@
         "kind": "SPREAD",
         "label": "TEN +7.5",
         "confidence": 61,
-        "updated": "2026-11-21T22:13:14.834823+00:00",
+        "updated": "2026-11-22T03:15:39.381170+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -1399,7 +1399,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-21T22:13:14.834823+00:00",
+        "updated": "2026-11-22T03:15:39.381170+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -1487,9 +1487,9 @@
         "moneylineProbabilities": {
           "modelHome": 0.6744,
           "modelAway": 0.3256,
-          "marketHomeNoVig": 0.7504,
-          "marketAwayNoVig": 0.2496,
-          "homeProbabilityEdge": -0.076
+          "marketHomeNoVig": 0.7404,
+          "marketAwayNoVig": 0.2596,
+          "homeProbabilityEdge": -0.066
         },
         "baseHomeMargin": 6.1,
         "baseTotal": 52.8,
@@ -1501,8 +1501,8 @@
         "spread_line": 7.5,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 54.5,
-        "away_moneyline": 285.0,
-        "home_moneyline": -356.0
+        "away_moneyline": 270.0,
+        "home_moneyline": -336.0
       },
       "injuryImpact": {
         "spreadAdjustment": -1.07,
@@ -1627,13 +1627,13 @@
         "kind": "MONEYLINE",
         "label": "DET",
         "confidence": 61,
-        "updated": "2026-11-21T22:13:14.834823+00:00",
+        "updated": "2026-11-22T03:15:39.381170+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség +3.3 (alap +3.4, sérülési korrekció -0.03)."
+            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség +3.1 (alap +3.1, sérülési korrekció -0.03)."
           },
           {
             "title": "2026-os szezon",
@@ -1663,7 +1663,7 @@
             "title": "Piaci referencia",
             "weight": 10,
             "impact": 0,
-            "detail": "A referencia piaci hazai margin +4.5 (hazai handicap -4.5)."
+            "detail": "A referencia piaci hazai margin +3.5 (hazai handicap -3.5)."
           },
           {
             "title": "Sérülések és kezdők",
@@ -1686,13 +1686,13 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-21T22:13:14.834823+00:00",
+        "updated": "2026-11-22T03:15:39.381170+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált margin +3.3, piaci margin +4.5; edge -1.2, ami nem éri el a 1.5 pontos küszöböt."
+            "detail": "Sérülésekkel korrigált margin +3.1, piaci margin +3.5; edge -0.4, ami nem éri el a 1.5 pontos küszöböt."
           },
           {
             "title": "2026-os szezon",
@@ -1739,13 +1739,13 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-21T22:13:14.834823+00:00",
+        "updated": "2026-11-22T03:15:39.381170+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált total 46.4 (alap 46.2, sérülési korrekció +0.18), referencia 46.5; eltérés -0.1, ami nem éri el a 2.0 pontos küszöböt."
+            "detail": "Sérülésekkel korrigált total 46.9 (alap 46.7, sérülési korrekció +0.18), referencia 47.5; eltérés -0.6, ami nem éri el a 2.0 pontos küszöböt."
           },
           {
             "title": "2026-os szezon",
@@ -1795,20 +1795,20 @@
         ]
       },
       "totalTests": {
-        "overSafe": 43.5,
-        "overRisk": 46.5,
-        "underSafe": 49.5,
-        "underRisk": 46.5
+        "overSafe": 44.5,
+        "overRisk": 47.5,
+        "underSafe": 50.5,
+        "underRisk": 47.5
       },
       "forecast": {
-        "homeMargin": 3.32,
+        "homeMargin": 3.12,
         "rawHomeMargin": 3.06,
-        "marketHomeMargin": 4.5,
-        "spreadEdge": -1.18,
-        "total": 46.37,
+        "marketHomeMargin": 3.5,
+        "spreadEdge": -0.38,
+        "total": 46.92,
         "rawTotal": 45.8,
-        "marketTotal": 46.5,
-        "totalEdge": -0.13,
+        "marketTotal": 47.5,
+        "totalEdge": -0.58,
         "leagueTotalPrior": 46.04,
         "sampleReliability": 1.0,
         "spreadThreshold": 1.5,
@@ -1820,29 +1820,29 @@
         "expectedAwayPoints": 22.22,
         "historicalGamesHome": 8,
         "historicalGamesAway": 8,
-        "overProbability": 0.4961,
-        "underProbability": 0.5039,
-        "overFairOdds": 2.016,
-        "underFairOdds": 1.984,
+        "overProbability": 0.4824,
+        "underProbability": 0.5176,
+        "overFairOdds": 2.073,
+        "underFairOdds": 1.932,
         "moneylineProbabilities": {
-          "modelHome": 0.5979,
-          "modelAway": 0.4021,
-          "marketHomeNoVig": 0.6641,
-          "marketAwayNoVig": 0.3359,
-          "homeProbabilityEdge": -0.0662
+          "modelHome": 0.5922,
+          "modelAway": 0.4078,
+          "marketHomeNoVig": 0.644,
+          "marketAwayNoVig": 0.356,
+          "homeProbabilityEdge": -0.0518
         },
-        "baseHomeMargin": 3.35,
-        "baseTotal": 46.19,
+        "baseHomeMargin": 3.15,
+        "baseTotal": 46.74,
         "injurySpreadAdjustment": -0.03,
         "injuryTotalAdjustment": 0.18,
         "injuryApplied": true
       },
       "market": {
-        "spread_line": 4.5,
+        "spread_line": 3.5,
         "spread_convention": "nflverse_signed_home_margin",
-        "total_line": 46.5,
-        "away_moneyline": 186.0,
-        "home_moneyline": -224.0
+        "total_line": 47.5,
+        "away_moneyline": 170.0,
+        "home_moneyline": -203.0
       },
       "injuryImpact": {
         "spreadAdjustment": -0.03,
@@ -1964,7 +1964,7 @@
         "kind": "MONEYLINE",
         "label": "KC",
         "confidence": 72,
-        "updated": "2026-11-21T22:13:14.834823+00:00",
+        "updated": "2026-11-22T03:15:39.381170+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2023,7 +2023,7 @@
         "kind": "SPREAD",
         "label": "ARI +15.5",
         "confidence": 61,
-        "updated": "2026-11-21T22:13:14.834823+00:00",
+        "updated": "2026-11-22T03:15:39.381170+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2076,7 +2076,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-21T22:13:14.834823+00:00",
+        "updated": "2026-11-22T03:15:39.381170+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2164,9 +2164,9 @@
         "moneylineProbabilities": {
           "modelHome": 0.8441,
           "modelAway": 0.1559,
-          "marketHomeNoVig": 0.904,
-          "marketAwayNoVig": 0.096,
-          "homeProbabilityEdge": -0.0598
+          "marketHomeNoVig": 0.9049,
+          "marketAwayNoVig": 0.0951,
+          "homeProbabilityEdge": -0.0608
         },
         "baseHomeMargin": 13.66,
         "baseTotal": 42.62,
@@ -2178,8 +2178,8 @@
         "spread_line": 15.5,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 40.5,
-        "away_moneyline": 900.0,
-        "home_moneyline": -1600.0
+        "away_moneyline": 910.0,
+        "home_moneyline": -1620.0
       },
       "injuryImpact": {
         "spreadAdjustment": -0.3,
@@ -2286,7 +2286,7 @@
         "kind": "MONEYLINE",
         "label": "JAX",
         "confidence": 63,
-        "updated": "2026-11-21T22:13:14.834823+00:00",
+        "updated": "2026-11-22T03:15:39.381170+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2345,7 +2345,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-21T22:13:14.834823+00:00",
+        "updated": "2026-11-22T03:15:39.381170+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2398,13 +2398,13 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-21T22:13:14.834823+00:00",
+        "updated": "2026-11-22T03:15:39.381170+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált total 46.2 (alap 46.2, sérülési korrekció +0.01), referencia 46.5; eltérés -0.3, ami nem éri el a 2.0 pontos küszöböt."
+            "detail": "Sérülésekkel korrigált total 45.7 (alap 45.7, sérülési korrekció +0.01), referencia 45.5; eltérés +0.2, ami nem éri el a 2.0 pontos küszöböt."
           },
           {
             "title": "2026-os szezon",
@@ -2454,20 +2454,20 @@
         ]
       },
       "totalTests": {
-        "overSafe": 43.5,
-        "overRisk": 46.5,
-        "underSafe": 49.5,
-        "underRisk": 46.5
+        "overSafe": 42.5,
+        "overRisk": 45.5,
+        "underSafe": 48.5,
+        "underRisk": 45.5
       },
       "forecast": {
         "homeMargin": -5.3,
         "rawHomeMargin": -6.15,
         "marketHomeMargin": -6.0,
         "spreadEdge": 0.7,
-        "total": 46.22,
+        "total": 45.67,
         "rawTotal": 45.86,
-        "marketTotal": 46.5,
-        "totalEdge": -0.28,
+        "marketTotal": 45.5,
+        "totalEdge": 0.17,
         "leagueTotalPrior": 46.04,
         "sampleReliability": 1.0,
         "spreadThreshold": 1.5,
@@ -2479,19 +2479,19 @@
         "expectedAwayPoints": 25.63,
         "historicalGamesHome": 8,
         "historicalGamesAway": 8,
-        "overProbability": 0.4915,
-        "underProbability": 0.5085,
-        "overFairOdds": 2.035,
-        "underFairOdds": 1.967,
+        "overProbability": 0.5052,
+        "underProbability": 0.4948,
+        "overFairOdds": 1.98,
+        "underFairOdds": 2.021,
         "moneylineProbabilities": {
           "modelHome": 0.3253,
           "modelAway": 0.6747,
-          "marketHomeNoVig": 0.309,
-          "marketAwayNoVig": 0.691,
-          "homeProbabilityEdge": 0.0163
+          "marketHomeNoVig": 0.3101,
+          "marketAwayNoVig": 0.6899,
+          "homeProbabilityEdge": 0.0151
         },
         "baseHomeMargin": -6.12,
-        "baseTotal": 46.21,
+        "baseTotal": 45.66,
         "injurySpreadAdjustment": 0.82,
         "injuryTotalAdjustment": 0.01,
         "injuryApplied": true
@@ -2499,9 +2499,9 @@
       "market": {
         "spread_line": -6.0,
         "spread_convention": "nflverse_signed_home_margin",
-        "total_line": 46.5,
-        "away_moneyline": -256.0,
-        "home_moneyline": 211.0
+        "total_line": 45.5,
+        "away_moneyline": -254.0,
+        "home_moneyline": 210.0
       },
       "injuryImpact": {
         "spreadAdjustment": 0.82,
@@ -2566,7 +2566,7 @@
         "kind": "MONEYLINE",
         "label": "LAC",
         "confidence": 57,
-        "updated": "2026-11-21T22:13:14.834823+00:00",
+        "updated": "2026-11-22T03:15:39.381170+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2625,7 +2625,7 @@
         "kind": "SPREAD",
         "label": "NYJ +3.0",
         "confidence": 62,
-        "updated": "2026-11-21T22:13:14.834823+00:00",
+        "updated": "2026-11-22T03:15:39.381170+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2678,7 +2678,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-21T22:13:14.834823+00:00",
+        "updated": "2026-11-22T03:15:39.381170+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2766,9 +2766,9 @@
         "moneylineProbabilities": {
           "modelHome": 0.511,
           "modelAway": 0.489,
-          "marketHomeNoVig": 0.6062,
-          "marketAwayNoVig": 0.3938,
-          "homeProbabilityEdge": -0.0953
+          "marketHomeNoVig": 0.6027,
+          "marketAwayNoVig": 0.3973,
+          "homeProbabilityEdge": -0.0917
         },
         "baseHomeMargin": 0.37,
         "baseTotal": 43.25,
@@ -2780,8 +2780,8 @@
         "spread_line": 3.0,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 42.5,
-        "away_moneyline": 144.0,
-        "home_moneyline": -171.0
+        "away_moneyline": 142.0,
+        "home_moneyline": -168.0
       },
       "injuryImpact": {
         "spreadAdjustment": -0.34,
@@ -2956,7 +2956,7 @@
         "kind": "MONEYLINE",
         "label": "DEN",
         "confidence": 65,
-        "updated": "2026-11-21T22:13:14.834823+00:00",
+        "updated": "2026-11-22T03:15:39.381170+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3015,7 +3015,7 @@
         "kind": "SPREAD",
         "label": "LV +10.5",
         "confidence": 63,
-        "updated": "2026-11-21T22:13:14.834823+00:00",
+        "updated": "2026-11-22T03:15:39.381170+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3068,7 +3068,7 @@
         "kind": "OVER",
         "label": "Over 40.5",
         "confidence": 58,
-        "updated": "2026-11-21T22:13:14.834823+00:00",
+        "updated": "2026-11-22T03:15:39.381170+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3156,9 +3156,9 @@
         "moneylineProbabilities": {
           "modelHome": 0.6883,
           "modelAway": 0.3117,
-          "marketHomeNoVig": 0.8239,
-          "marketAwayNoVig": 0.1761,
-          "homeProbabilityEdge": -0.1356
+          "marketHomeNoVig": 0.8304,
+          "marketAwayNoVig": 0.1696,
+          "homeProbabilityEdge": -0.1421
         },
         "baseHomeMargin": 6.63,
         "baseTotal": 43.39,
@@ -3170,8 +3170,8 @@
         "spread_line": 10.5,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 40.5,
-        "away_moneyline": 446.0,
-        "home_moneyline": -599.0
+        "away_moneyline": 466.0,
+        "home_moneyline": -640.0
       },
       "injuryImpact": {
         "spreadAdjustment": 0.37,
@@ -3253,7 +3253,7 @@
         "kind": "MONEYLINE",
         "label": "PIT",
         "confidence": 61,
-        "updated": "2026-11-21T22:13:14.834823+00:00",
+        "updated": "2026-11-22T03:15:39.381170+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3312,7 +3312,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-21T22:13:14.834823+00:00",
+        "updated": "2026-11-22T03:15:39.381170+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3365,7 +3365,7 @@
         "kind": "OVER",
         "label": "Over 37.5",
         "confidence": 57,
-        "updated": "2026-11-21T22:13:14.834823+00:00",
+        "updated": "2026-11-22T03:15:39.381170+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3453,9 +3453,9 @@
         "moneylineProbabilities": {
           "modelHome": 0.3831,
           "modelAway": 0.6169,
-          "marketHomeNoVig": 0.3695,
-          "marketAwayNoVig": 0.6305,
-          "homeProbabilityEdge": 0.0136
+          "marketHomeNoVig": 0.3669,
+          "marketAwayNoVig": 0.6331,
+          "homeProbabilityEdge": 0.0162
         },
         "baseHomeMargin": -4.02,
         "baseTotal": 39.69,
@@ -3467,8 +3467,8 @@
         "spread_line": -3.5,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 37.5,
-        "away_moneyline": -191.0,
-        "home_moneyline": 160.0
+        "away_moneyline": -193.0,
+        "home_moneyline": 162.0
       },
       "injuryImpact": {
         "spreadAdjustment": 0.3,
@@ -3560,13 +3560,13 @@
         "kind": "MONEYLINE",
         "label": "SF",
         "confidence": 61,
-        "updated": "2026-11-21T22:13:14.834823+00:00",
+        "updated": "2026-11-22T03:15:39.381170+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség +3.8 (alap +3.9, sérülési korrekció -0.18)."
+            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség +3.6 (alap +3.8, sérülési korrekció -0.18)."
           },
           {
             "title": "2026-os szezon",
@@ -3596,7 +3596,7 @@
             "title": "Piaci referencia",
             "weight": 10,
             "impact": 0,
-            "detail": "A referencia piaci hazai margin +3.5 (hazai handicap -3.5)."
+            "detail": "A referencia piaci hazai margin +3.0 (hazai handicap -3.0)."
           },
           {
             "title": "Sérülések és kezdők",
@@ -3619,13 +3619,13 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-21T22:13:14.834823+00:00",
+        "updated": "2026-11-22T03:15:39.381170+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált margin +3.8, piaci margin +3.5; edge +0.2, ami nem éri el a 1.5 pontos küszöböt."
+            "detail": "Sérülésekkel korrigált margin +3.6, piaci margin +3.0; edge +0.6, ami nem éri el a 1.5 pontos küszöböt."
           },
           {
             "title": "2026-os szezon",
@@ -3672,7 +3672,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-21T22:13:14.834823+00:00",
+        "updated": "2026-11-22T03:15:39.381170+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3734,10 +3734,10 @@
         "underRisk": 46.5
       },
       "forecast": {
-        "homeMargin": 3.75,
+        "homeMargin": 3.65,
         "rawHomeMargin": 4.04,
-        "marketHomeMargin": 3.5,
-        "spreadEdge": 0.25,
+        "marketHomeMargin": 3.0,
+        "spreadEdge": 0.65,
         "total": 44.87,
         "rawTotal": 43.94,
         "marketTotal": 46.5,
@@ -3758,24 +3758,24 @@
         "overFairOdds": 2.219,
         "underFairOdds": 1.82,
         "moneylineProbabilities": {
-          "modelHome": 0.6145,
-          "modelAway": 0.3855,
-          "marketHomeNoVig": 0.6077,
-          "marketAwayNoVig": 0.3923,
-          "homeProbabilityEdge": 0.0068
+          "modelHome": 0.6117,
+          "modelAway": 0.3883,
+          "marketHomeNoVig": 0.6012,
+          "marketAwayNoVig": 0.3988,
+          "homeProbabilityEdge": 0.0105
         },
-        "baseHomeMargin": 3.93,
+        "baseHomeMargin": 3.83,
         "baseTotal": 45.35,
         "injurySpreadAdjustment": -0.18,
         "injuryTotalAdjustment": -0.48,
         "injuryApplied": true
       },
       "market": {
-        "spread_line": 3.5,
+        "spread_line": 3.0,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 46.5,
-        "away_moneyline": 145.0,
-        "home_moneyline": -172.0
+        "away_moneyline": 141.0,
+        "home_moneyline": -167.0
       },
       "injuryImpact": {
         "spreadAdjustment": -0.18,
@@ -3941,13 +3941,13 @@
         "kind": "MONEYLINE",
         "label": "CIN",
         "confidence": 63,
-        "updated": "2026-11-21T22:13:14.834823+00:00",
+        "updated": "2026-11-22T03:15:39.381170+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség -5.0 (alap -5.6, sérülési korrekció +0.51)."
+            "detail": "Sérülésekkel korrigált becsült hazai pontkülönbség -5.2 (alap -5.6, sérülési korrekció +0.38)."
           },
           {
             "title": "2026-os szezon",
@@ -3988,8 +3988,8 @@
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
-            "impact": 0.51,
-            "detail": "CIN: Dalton Risner (G) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; CIN: Kyle Dugger (S) — QUESTIONABLE, Quadriceps [kérdéses; lehetséges hatás: passzvédekezés/coverage]; CIN: Dax Hill (CB) — QUESTIONABLE, Illness [kérdéses; lehetséges hatás: passzvédekezés/coverage]; CIN: Dylan Fairchild (G) — QUESTIONABLE, Oblique [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; WAS: Lucas Patrick (G) — QUESTIONABLE, Concussion [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; WAS: Rachaad White (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection] | Beépített modellhatás: 0.51 pont, hazai oldal felé.",
+            "impact": 0.38,
+            "detail": "CIN: Kyle Dugger (S) — QUESTIONABLE, Quadriceps [kérdéses; lehetséges hatás: passzvédekezés/coverage]; CIN: Dalton Risner (G) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; CIN: Dax Hill (CB) — QUESTIONABLE, Illness [kérdéses; lehetséges hatás: passzvédekezés/coverage]; CIN: Dylan Fairchild (G) — QUESTIONABLE, Oblique [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; WAS: Lucas Patrick (G) — QUESTIONABLE, Concussion [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; WAS: Amik Robertson (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; WAS: Rachaad White (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection] | Beépített modellhatás: 0.38 pont, hazai oldal felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           }
@@ -3999,13 +3999,13 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-21T22:13:14.834823+00:00",
+        "updated": "2026-11-22T03:15:39.381170+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált margin -5.0, piaci margin -6.0; edge +1.0, ami nem éri el a 1.5 pontos küszöböt."
+            "detail": "Sérülésekkel korrigált margin -5.2, piaci margin -6.0; edge +0.8, ami nem éri el a 1.5 pontos küszöböt."
           },
           {
             "title": "2026-os szezon",
@@ -4040,8 +4040,8 @@
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
-            "impact": 0.51,
-            "detail": "CIN: Dalton Risner (G) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; CIN: Kyle Dugger (S) — QUESTIONABLE, Quadriceps [kérdéses; lehetséges hatás: passzvédekezés/coverage]; CIN: Dax Hill (CB) — QUESTIONABLE, Illness [kérdéses; lehetséges hatás: passzvédekezés/coverage]; CIN: Dylan Fairchild (G) — QUESTIONABLE, Oblique [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; WAS: Lucas Patrick (G) — QUESTIONABLE, Concussion [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; WAS: Rachaad White (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection] | Beépített modellhatás: 0.51 pont, hazai oldal felé.",
+            "impact": 0.38,
+            "detail": "CIN: Kyle Dugger (S) — QUESTIONABLE, Quadriceps [kérdéses; lehetséges hatás: passzvédekezés/coverage]; CIN: Dalton Risner (G) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; CIN: Dax Hill (CB) — QUESTIONABLE, Illness [kérdéses; lehetséges hatás: passzvédekezés/coverage]; CIN: Dylan Fairchild (G) — QUESTIONABLE, Oblique [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; WAS: Lucas Patrick (G) — QUESTIONABLE, Concussion [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; WAS: Amik Robertson (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; WAS: Rachaad White (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection] | Beépített modellhatás: 0.38 pont, hazai oldal felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           }
@@ -4051,13 +4051,13 @@
         "kind": "UNDER",
         "label": "Under 54.5",
         "confidence": 58,
-        "updated": "2026-11-21T22:13:14.834823+00:00",
+        "updated": "2026-11-22T03:15:39.381170+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált total 51.6 (alap 51.8, sérülési korrekció -0.11), referencia 54.5; edge -2.9."
+            "detail": "Sérülésekkel korrigált total 51.7 (alap 51.8, sérülési korrekció -0.07), referencia 54.5; edge -2.8."
           },
           {
             "title": "2026-os szezon",
@@ -4098,8 +4098,8 @@
           {
             "title": "Sérülések és kezdők",
             "weight": 10,
-            "impact": -0.11,
-            "detail": "CIN: Dalton Risner (G) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; CIN: Kyle Dugger (S) — QUESTIONABLE, Quadriceps [kérdéses; lehetséges hatás: passzvédekezés/coverage]; CIN: Dax Hill (CB) — QUESTIONABLE, Illness [kérdéses; lehetséges hatás: passzvédekezés/coverage]; CIN: Dylan Fairchild (G) — QUESTIONABLE, Oblique [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; WAS: Lucas Patrick (G) — QUESTIONABLE, Concussion [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; WAS: Rachaad White (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection] | Beépített modellhatás: 0.11 pont, alacsonyabb total felé.",
+            "impact": -0.07,
+            "detail": "CIN: Kyle Dugger (S) — QUESTIONABLE, Quadriceps [kérdéses; lehetséges hatás: passzvédekezés/coverage]; CIN: Dalton Risner (G) — OUT, Not Specified [biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás]; CIN: Dax Hill (CB) — QUESTIONABLE, Illness [kérdéses; lehetséges hatás: passzvédekezés/coverage]; CIN: Dylan Fairchild (G) — QUESTIONABLE, Oblique [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; WAS: Lucas Patrick (G) — QUESTIONABLE, Concussion [kérdéses; lehetséges hatás: pass protection és futásblokkolás]; WAS: Amik Robertson (CB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: passzvédekezés/coverage]; WAS: Rachaad White (RB) — QUESTIONABLE, Not Specified [kérdéses; lehetséges hatás: futójáték és checkdown/pass protection] | Beépített modellhatás: 0.07 pont, alacsonyabb total felé.",
             "source": "ESPN core injury feed",
             "sourcePriority": 1
           }
@@ -4112,14 +4112,14 @@
         "underRisk": 54.5
       },
       "forecast": {
-        "homeMargin": -5.05,
+        "homeMargin": -5.18,
         "rawHomeMargin": -5.45,
         "marketHomeMargin": -6.0,
-        "spreadEdge": 0.95,
-        "total": 51.64,
+        "spreadEdge": 0.82,
+        "total": 51.68,
         "rawTotal": 48.39,
         "marketTotal": 54.5,
-        "totalEdge": -2.86,
+        "totalEdge": -2.82,
         "leagueTotalPrior": 46.04,
         "sampleReliability": 1.0,
         "spreadThreshold": 1.5,
@@ -4131,35 +4131,35 @@
         "expectedAwayPoints": 26.55,
         "historicalGamesHome": 8,
         "historicalGamesAway": 8,
-        "overProbability": 0.4138,
-        "underProbability": 0.5862,
-        "overFairOdds": 2.416,
-        "underFairOdds": 1.706,
+        "overProbability": 0.415,
+        "underProbability": 0.585,
+        "overFairOdds": 2.409,
+        "underFairOdds": 1.71,
         "moneylineProbabilities": {
           "modelHome": 0.3402,
           "modelAway": 0.6598,
-          "marketHomeNoVig": 0.2769,
-          "marketAwayNoVig": 0.7231,
-          "homeProbabilityEdge": 0.0633
+          "marketHomeNoVig": 0.281,
+          "marketAwayNoVig": 0.719,
+          "homeProbabilityEdge": 0.0592
         },
         "baseHomeMargin": -5.56,
         "baseTotal": 51.75,
-        "injurySpreadAdjustment": 0.51,
-        "injuryTotalAdjustment": -0.11,
+        "injurySpreadAdjustment": 0.38,
+        "injuryTotalAdjustment": -0.07,
         "injuryApplied": true
       },
       "market": {
         "spread_line": -6.0,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 54.5,
-        "away_moneyline": -304.0,
-        "home_moneyline": 247.0
+        "away_moneyline": -297.0,
+        "home_moneyline": 242.0
       },
       "injuryImpact": {
-        "spreadAdjustment": 0.51,
-        "totalAdjustment": -0.11,
+        "spreadAdjustment": 0.38,
+        "totalAdjustment": -0.07,
         "awayBurden": 0.69,
-        "homeBurden": 0.19,
+        "homeBurden": 0.31,
         "keyDrivers": [
           "Dalton Risner OUT: 0.35 pt"
         ],
@@ -4208,6 +4208,16 @@
           "importance": "KIS",
           "modelPoints": 0.12,
           "consequence": "kérdéses; lehetséges hatás: pass protection és futásblokkolás"
+        },
+        {
+          "team": "WAS",
+          "name": "Amik Robertson",
+          "position": "CB",
+          "status": "QUESTIONABLE",
+          "injury": "Not Specified",
+          "importance": "KIS",
+          "modelPoints": 0.12,
+          "consequence": "kérdéses; lehetséges hatás: passzvédekezés/coverage"
         },
         {
           "team": "CIN",
