@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 11,
-  "updatedAt": "2026-11-23T07:29:18.406930+00:00",
+  "updatedAt": "2026-11-23T16:07:55.535432+00:00",
   "dataStatus": "HISTORICAL_MARKET_V4",
   "games": [
     {
@@ -2808,7 +2808,7 @@
         "kind": "MONEYLINE",
         "label": "CIN",
         "confidence": 63,
-        "updated": "2026-11-23T07:29:18.406930+00:00",
+        "updated": "2026-11-23T16:07:55.535432+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2866,7 +2866,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-23T07:29:18.406930+00:00",
+        "updated": "2026-11-23T16:07:55.535432+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2918,7 +2918,7 @@
         "kind": "UNDER",
         "label": "Under 54.5",
         "confidence": 58,
-        "updated": "2026-11-23T07:29:18.406930+00:00",
+        "updated": "2026-11-23T16:07:55.535432+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3005,9 +3005,9 @@
         "moneylineProbabilities": {
           "modelHome": 0.3402,
           "modelAway": 0.6598,
-          "marketHomeNoVig": 0.2827,
-          "marketAwayNoVig": 0.7173,
-          "homeProbabilityEdge": 0.0575
+          "marketHomeNoVig": 0.2778,
+          "marketAwayNoVig": 0.7222,
+          "homeProbabilityEdge": 0.0624
         },
         "baseHomeMargin": -5.56,
         "baseTotal": 51.78,
@@ -3019,8 +3019,8 @@
         "spread_line": -6.0,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 54.5,
-        "away_moneyline": -294.0,
-        "home_moneyline": 240.0
+        "away_moneyline": -302.0,
+        "home_moneyline": 246.0
       },
       "injuryImpact": {
         "spreadAdjustment": 0.38,
