@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 11,
-  "updatedAt": "2026-11-23T00:55:26.844962+00:00",
+  "updatedAt": "2026-11-23T03:45:49.096326+00:00",
   "dataStatus": "HISTORICAL_MARKET_V4",
   "games": [
     {
@@ -2335,9 +2335,9 @@
       "away": "JAX",
       "home": "NYG",
       "venue": "MetLife Stadium",
-      "state": "UPCOMING",
-      "awayScore": null,
-      "homeScore": null,
+      "state": "FINAL",
+      "awayScore": 18,
+      "homeScore": 23,
       "moneyline": {
         "kind": "MONEYLINE",
         "label": "JAX",
@@ -2788,153 +2788,10 @@
       "market": {
         "spread_line": 4.5,
         "spread_convention": "nflverse_signed_home_margin",
-        "total_line": 45.5,
+        "total_line": 44.5,
         "away_moneyline": 170.0,
-        "home_moneyline": -204.0
+        "home_moneyline": -203.0
       },
-      "injuryImpact": {
-        "spreadAdjustment": -0.45,
-        "totalAdjustment": -0.89,
-        "awayBurden": 2.18,
-        "homeBurden": 2.63,
-        "keyDrivers": [
-          "Isaiah Rodgers OUT: 0.35 pt",
-          "Max Brosmer OUT: 0.60 pt",
-          "Kyler Murray OUT: 0.60 pt",
-          "Jordan Addison OUT: 0.35 pt",
-          "Khalid Kareem OUT: 0.35 pt",
-          "Demarcus Robinson OUT: 0.35 pt",
-          "Kurtis Rourke OUT: 0.60 pt",
-          "Enrique Cruz Jr. OUT: 0.55 pt"
-        ],
-        "model": "provisional-injury-impact-v1.1-depth-role",
-        "calibrated": false,
-        "dataAvailable": true,
-        "appliedToForecast": true
-      },
-      "injuries": [
-        {
-          "team": "MIN",
-          "name": "Max Brosmer",
-          "position": "QB",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "NAGY",
-          "modelPoints": 0.6,
-          "consequence": "biztos hiányzó; lehetséges hatás: irányító/passing offense"
-        },
-        {
-          "team": "MIN",
-          "name": "Kyler Murray",
-          "position": "QB",
-          "status": "OUT",
-          "injury": "Strain",
-          "importance": "NAGY",
-          "modelPoints": 0.6,
-          "consequence": "biztos hiányzó; lehetséges hatás: irányító/passing offense"
-        },
-        {
-          "team": "SF",
-          "name": "Kurtis Rourke",
-          "position": "QB",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "NAGY",
-          "modelPoints": 0.6,
-          "consequence": "biztos hiányzó; lehetséges hatás: irányító/passing offense"
-        },
-        {
-          "team": "SF",
-          "name": "Enrique Cruz Jr.",
-          "position": "OT",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.55,
-          "consequence": "biztos hiányzó; lehetséges hatás: pass protection és futásblokkolás"
-        },
-        {
-          "team": "MIN",
-          "name": "Isaiah Rodgers",
-          "position": "CB",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.35,
-          "consequence": "biztos hiányzó; lehetséges hatás: passzvédekezés/coverage"
-        },
-        {
-          "team": "MIN",
-          "name": "Jordan Addison",
-          "position": "WR",
-          "status": "OUT",
-          "injury": "Surgery",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.35,
-          "consequence": "biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység"
-        },
-        {
-          "team": "SF",
-          "name": "Khalid Kareem",
-          "position": "DE",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.35,
-          "consequence": "biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés"
-        },
-        {
-          "team": "SF",
-          "name": "Demarcus Robinson",
-          "position": "WR",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.35,
-          "consequence": "biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység"
-        },
-        {
-          "team": "SF",
-          "name": "Brandon Aiyuk",
-          "position": "WR",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.35,
-          "consequence": "biztos hiányzó; lehetséges hatás: passzjáték és célpontmélység"
-        },
-        {
-          "team": "MIN",
-          "name": "Jay Ward",
-          "position": "S",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.28,
-          "consequence": "biztos hiányzó; lehetséges hatás: passzvédekezés/coverage"
-        },
-        {
-          "team": "SF",
-          "name": "Dre Greenlaw",
-          "position": "LB",
-          "status": "OUT",
-          "injury": "Not Specified",
-          "importance": "KÖZEPES",
-          "modelPoints": 0.25,
-          "consequence": "biztos hiányzó; lehetséges hatás: pass rush és/vagy futásvédekezés"
-        },
-        {
-          "team": "SF",
-          "name": "Isaac Guerendo",
-          "position": "RB",
-          "status": "OUT",
-          "injury": "Surgery",
-          "importance": "KIS",
-          "modelPoints": 0.18,
-          "consequence": "biztos hiányzó; lehetséges hatás: futójáték és checkdown/pass protection"
-        }
-      ],
-      "injurySource": "ESPN core injury feed",
       "awayLogo": "https://highlightly.net/american-football/images/teams/92751.png",
       "homeLogo": "https://highlightly.net/american-football/images/teams/92739.png"
     },
@@ -2951,7 +2808,7 @@
         "kind": "MONEYLINE",
         "label": "CIN",
         "confidence": 63,
-        "updated": "2026-11-23T00:55:26.844962+00:00",
+        "updated": "2026-11-23T03:45:49.096326+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3009,7 +2866,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-23T00:55:26.844962+00:00",
+        "updated": "2026-11-23T03:45:49.096326+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3061,7 +2918,7 @@
         "kind": "UNDER",
         "label": "Under 54.5",
         "confidence": 58,
-        "updated": "2026-11-23T00:55:26.844962+00:00",
+        "updated": "2026-11-23T03:45:49.096326+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3126,34 +2983,34 @@
         "rawHomeMargin": -5.45,
         "marketHomeMargin": -6.0,
         "spreadEdge": 0.82,
-        "total": 51.72,
-        "rawTotal": 48.47,
+        "total": 51.71,
+        "rawTotal": 48.46,
         "marketTotal": 54.5,
-        "totalEdge": -2.78,
-        "leagueTotalPrior": 46.32,
+        "totalEdge": -2.79,
+        "leagueTotalPrior": 46.29,
         "sampleReliability": 1.0,
         "spreadThreshold": 1.5,
         "totalThreshold": 2.0,
         "modelVersion": "v4-historical-market",
-        "totalSigma": 13.2,
+        "totalSigma": 13.1,
         "totalMarketWeight": 0.55,
         "expectedHomePoints": 21.88,
-        "expectedAwayPoints": 26.59,
+        "expectedAwayPoints": 26.58,
         "historicalGamesHome": 8,
         "historicalGamesAway": 8,
-        "overProbability": 0.4166,
-        "underProbability": 0.5834,
-        "overFairOdds": 2.4,
-        "underFairOdds": 1.714,
+        "overProbability": 0.4157,
+        "underProbability": 0.5843,
+        "overFairOdds": 2.406,
+        "underFairOdds": 1.711,
         "moneylineProbabilities": {
           "modelHome": 0.3402,
           "modelAway": 0.6598,
-          "marketHomeNoVig": 0.2818,
-          "marketAwayNoVig": 0.7182,
-          "homeProbabilityEdge": 0.0585
+          "marketHomeNoVig": 0.2825,
+          "marketAwayNoVig": 0.7175,
+          "homeProbabilityEdge": 0.0577
         },
         "baseHomeMargin": -5.56,
-        "baseTotal": 51.79,
+        "baseTotal": 51.78,
         "injurySpreadAdjustment": 0.38,
         "injuryTotalAdjustment": -0.07,
         "injuryApplied": true
@@ -3162,8 +3019,8 @@
         "spread_line": -6.0,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 54.5,
-        "away_moneyline": -296.0,
-        "home_moneyline": 241.0
+        "away_moneyline": -295.0,
+        "home_moneyline": 240.0
       },
       "injuryImpact": {
         "spreadAdjustment": 0.38,
