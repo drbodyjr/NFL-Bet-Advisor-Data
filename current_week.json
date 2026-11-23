@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 11,
-  "updatedAt": "2026-11-23T03:45:49.096326+00:00",
+  "updatedAt": "2026-11-23T07:29:18.406930+00:00",
   "dataStatus": "HISTORICAL_MARKET_V4",
   "games": [
     {
@@ -2568,9 +2568,9 @@
       "away": "MIN",
       "home": "SF",
       "venue": "Estadio Banorte",
-      "state": "UPCOMING",
-      "awayScore": null,
-      "homeScore": null,
+      "state": "FINAL",
+      "awayScore": 10,
+      "homeScore": 35,
       "moneyline": {
         "kind": "MONEYLINE",
         "label": "SF",
@@ -2808,7 +2808,7 @@
         "kind": "MONEYLINE",
         "label": "CIN",
         "confidence": 63,
-        "updated": "2026-11-23T03:45:49.096326+00:00",
+        "updated": "2026-11-23T07:29:18.406930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2866,7 +2866,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-23T03:45:49.096326+00:00",
+        "updated": "2026-11-23T07:29:18.406930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2918,7 +2918,7 @@
         "kind": "UNDER",
         "label": "Under 54.5",
         "confidence": 58,
-        "updated": "2026-11-23T03:45:49.096326+00:00",
+        "updated": "2026-11-23T07:29:18.406930+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2987,27 +2987,27 @@
         "rawTotal": 48.46,
         "marketTotal": 54.5,
         "totalEdge": -2.79,
-        "leagueTotalPrior": 46.29,
+        "leagueTotalPrior": 46.28,
         "sampleReliability": 1.0,
         "spreadThreshold": 1.5,
         "totalThreshold": 2.0,
         "modelVersion": "v4-historical-market",
-        "totalSigma": 13.1,
+        "totalSigma": 13.05,
         "totalMarketWeight": 0.55,
         "expectedHomePoints": 21.88,
         "expectedAwayPoints": 26.58,
         "historicalGamesHome": 8,
         "historicalGamesAway": 8,
-        "overProbability": 0.4157,
-        "underProbability": 0.5843,
-        "overFairOdds": 2.406,
-        "underFairOdds": 1.711,
+        "overProbability": 0.4154,
+        "underProbability": 0.5846,
+        "overFairOdds": 2.408,
+        "underFairOdds": 1.71,
         "moneylineProbabilities": {
           "modelHome": 0.3402,
           "modelAway": 0.6598,
-          "marketHomeNoVig": 0.2825,
-          "marketAwayNoVig": 0.7175,
-          "homeProbabilityEdge": 0.0577
+          "marketHomeNoVig": 0.2827,
+          "marketAwayNoVig": 0.7173,
+          "homeProbabilityEdge": 0.0575
         },
         "baseHomeMargin": -5.56,
         "baseTotal": 51.78,
@@ -3019,7 +3019,7 @@
         "spread_line": -6.0,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 54.5,
-        "away_moneyline": -295.0,
+        "away_moneyline": -294.0,
         "home_moneyline": 240.0
       },
       "injuryImpact": {
