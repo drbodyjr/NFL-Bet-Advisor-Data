@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 12,
-  "updatedAt": "2026-11-27T08:20:08.803835+00:00",
+  "updatedAt": "2026-11-27T15:14:40.493798+00:00",
   "dataStatus": "HISTORICAL_MARKET_V4",
   "games": [
     {
@@ -766,7 +766,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: rain 1.67°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: rain 1.28°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -819,7 +819,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: rain 1.67°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: rain 1.28°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -878,7 +878,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: rain 1.67°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: rain 1.28°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -949,7 +949,7 @@
         "kind": "MONEYLINE",
         "label": "DEN",
         "confidence": 57,
-        "updated": "2026-11-27T08:20:08.803835+00:00",
+        "updated": "2026-11-27T15:14:40.493798+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -999,7 +999,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: rain 4.89°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: rain 5.31°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -1008,7 +1008,7 @@
         "kind": "SPREAD",
         "label": "PIT +4.5",
         "confidence": 64,
-        "updated": "2026-11-27T08:20:08.803835+00:00",
+        "updated": "2026-11-27T15:14:40.493798+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -1052,7 +1052,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: rain 4.89°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: rain 5.31°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -1061,7 +1061,7 @@
         "kind": "OVER",
         "label": "Over 37.5",
         "confidence": 58,
-        "updated": "2026-11-27T08:20:08.803835+00:00",
+        "updated": "2026-11-27T15:14:40.493798+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -1111,7 +1111,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: rain 4.89°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: rain 5.31°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -1149,9 +1149,9 @@
         "moneylineProbabilities": {
           "modelHome": 0.498,
           "modelAway": 0.502,
-          "marketHomeNoVig": 0.3154,
-          "marketAwayNoVig": 0.6846,
-          "homeProbabilityEdge": 0.1827
+          "marketHomeNoVig": 0.3202,
+          "marketAwayNoVig": 0.6798,
+          "homeProbabilityEdge": 0.1778
         },
         "baseHomeMargin": -0.07,
         "baseTotal": 40.32,
@@ -1163,8 +1163,8 @@
         "spread_line": -4.5,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 37.5,
-        "away_moneyline": -247.0,
-        "home_moneyline": 205.0
+        "away_moneyline": -242.0,
+        "home_moneyline": 200.0
       },
       "injuryImpact": {
         "spreadAdjustment": 0.01,
@@ -1236,7 +1236,7 @@
         "kind": "MONEYLINE",
         "label": "CIN",
         "confidence": 68,
-        "updated": "2026-11-27T08:20:08.803835+00:00",
+        "updated": "2026-11-27T15:14:40.493798+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -1286,7 +1286,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: rain 10.3°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: rain 9.57°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -1295,7 +1295,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-27T08:20:08.803835+00:00",
+        "updated": "2026-11-27T15:14:40.493798+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -1339,7 +1339,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: rain 10.3°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: rain 9.57°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -1348,7 +1348,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-27T08:20:08.803835+00:00",
+        "updated": "2026-11-27T15:14:40.493798+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -1398,7 +1398,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: rain 10.3°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: rain 9.57°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -1553,7 +1553,7 @@
         "kind": "MONEYLINE",
         "label": "HOU",
         "confidence": 65,
-        "updated": "2026-11-27T08:20:08.803835+00:00",
+        "updated": "2026-11-27T15:14:40.493798+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -1603,7 +1603,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: cloudy 19.2°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: cloudy 18.07°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -1612,7 +1612,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-27T08:20:08.803835+00:00",
+        "updated": "2026-11-27T15:14:40.493798+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -1656,7 +1656,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: cloudy 19.2°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: cloudy 18.07°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -1665,7 +1665,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-27T08:20:08.803835+00:00",
+        "updated": "2026-11-27T15:14:40.493798+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -1715,7 +1715,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: cloudy 19.2°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: cloudy 18.07°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -1920,7 +1920,7 @@
         "kind": "MONEYLINE",
         "label": "NYG",
         "confidence": 62,
-        "updated": "2026-11-27T08:20:08.803835+00:00",
+        "updated": "2026-11-27T15:14:40.493798+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -1970,7 +1970,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: rain 8.63°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: rain 8.72°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -1979,7 +1979,7 @@
         "kind": "SPREAD",
         "label": "IND +6.0",
         "confidence": 60,
-        "updated": "2026-11-27T08:20:08.803835+00:00",
+        "updated": "2026-11-27T15:14:40.493798+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2023,7 +2023,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: rain 8.63°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: rain 8.72°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -2032,7 +2032,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-27T08:20:08.803835+00:00",
+        "updated": "2026-11-27T15:14:40.493798+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2082,7 +2082,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: rain 8.63°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: rain 8.72°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -2120,9 +2120,9 @@
         "moneylineProbabilities": {
           "modelHome": 0.3809,
           "modelAway": 0.6191,
-          "marketHomeNoVig": 0.2864,
-          "marketAwayNoVig": 0.7136,
-          "homeProbabilityEdge": 0.0946
+          "marketHomeNoVig": 0.2898,
+          "marketAwayNoVig": 0.7102,
+          "homeProbabilityEdge": 0.0912
         },
         "baseHomeMargin": -4.09,
         "baseTotal": 43.35,
@@ -2134,8 +2134,8 @@
         "spread_line": -6.0,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 41.5,
-        "away_moneyline": -287.0,
-        "home_moneyline": 236.0
+        "away_moneyline": -282.0,
+        "home_moneyline": 232.0
       },
       "injuryImpact": {
         "spreadAdjustment": -0.39,
@@ -2277,7 +2277,7 @@
         "kind": "MONEYLINE",
         "label": "JAX",
         "confidence": 73,
-        "updated": "2026-11-27T08:20:08.803835+00:00",
+        "updated": "2026-11-27T15:14:40.493798+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2327,7 +2327,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: cloudy 17.59°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: cloudy 18.42°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -2336,7 +2336,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-27T08:20:08.803835+00:00",
+        "updated": "2026-11-27T15:14:40.493798+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2380,7 +2380,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: cloudy 17.59°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: cloudy 18.42°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -2389,13 +2389,13 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-27T08:20:08.803835+00:00",
+        "updated": "2026-11-27T15:14:40.493798+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált total 48.7 (alap 48.8, sérülési korrekció -0.13), referencia 49.5; eltérés -0.8, ami nem éri el a 2.0 pontos küszöböt."
+            "detail": "Sérülésekkel korrigált total 48.1 (alap 48.2, sérülési korrekció -0.13), referencia 48.5; eltérés -0.4, ami nem éri el a 2.0 pontos küszöböt."
           },
           {
             "title": "2026-os szezon",
@@ -2439,26 +2439,26 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: cloudy 17.59°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: cloudy 18.42°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
       },
       "totalTests": {
-        "overSafe": 46.5,
-        "overRisk": 49.5,
-        "underSafe": 52.5,
-        "underRisk": 49.5
+        "overSafe": 45.5,
+        "overRisk": 48.5,
+        "underSafe": 51.5,
+        "underRisk": 48.5
       },
       "forecast": {
         "homeMargin": 13.83,
         "rawHomeMargin": 14.6,
         "marketHomeMargin": 14.5,
         "spreadEdge": -0.67,
-        "total": 48.67,
+        "total": 48.12,
         "rawTotal": 47.95,
-        "marketTotal": 49.5,
-        "totalEdge": -0.83,
+        "marketTotal": 48.5,
+        "totalEdge": -0.38,
         "leagueTotalPrior": 46.42,
         "sampleReliability": 1.0,
         "spreadThreshold": 1.5,
@@ -2470,19 +2470,19 @@
         "expectedAwayPoints": 19.45,
         "historicalGamesHome": 8,
         "historicalGamesAway": 8,
-        "overProbability": 0.4753,
-        "underProbability": 0.5247,
-        "overFairOdds": 2.104,
-        "underFairOdds": 1.906,
+        "overProbability": 0.4887,
+        "underProbability": 0.5113,
+        "overFairOdds": 2.046,
+        "underFairOdds": 1.956,
         "moneylineProbabilities": {
           "modelHome": 0.8599,
           "modelAway": 0.1401,
-          "marketHomeNoVig": 0.8907,
-          "marketAwayNoVig": 0.1093,
-          "homeProbabilityEdge": -0.0309
+          "marketHomeNoVig": 0.8882,
+          "marketAwayNoVig": 0.1118,
+          "homeProbabilityEdge": -0.0284
         },
         "baseHomeMargin": 14.58,
-        "baseTotal": 48.8,
+        "baseTotal": 48.25,
         "injurySpreadAdjustment": -0.75,
         "injuryTotalAdjustment": -0.13,
         "injuryApplied": true
@@ -2490,9 +2490,9 @@
       "market": {
         "spread_line": 14.5,
         "spread_convention": "nflverse_signed_home_margin",
-        "total_line": 49.5,
-        "away_moneyline": 780.0,
-        "home_moneyline": -1260.0
+        "total_line": 48.5,
+        "away_moneyline": 760.0,
+        "home_moneyline": -1220.0
       },
       "injuryImpact": {
         "spreadAdjustment": -0.75,
@@ -2624,7 +2624,7 @@
         "kind": "MONEYLINE",
         "label": "NYJ",
         "confidence": 59,
-        "updated": "2026-11-27T08:20:08.803835+00:00",
+        "updated": "2026-11-27T15:14:40.493798+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2674,7 +2674,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: cloudy 25.65°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: cloudy 25.25°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -2683,7 +2683,7 @@
         "kind": "SPREAD",
         "label": "MIA +5.5",
         "confidence": 64,
-        "updated": "2026-11-27T08:20:08.803835+00:00",
+        "updated": "2026-11-27T15:14:40.493798+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2727,7 +2727,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: cloudy 25.65°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: cloudy 25.25°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -2736,7 +2736,7 @@
         "kind": "OVER",
         "label": "Over 39.5",
         "confidence": 57,
-        "updated": "2026-11-27T08:20:08.803835+00:00",
+        "updated": "2026-11-27T15:14:40.493798+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -2786,7 +2786,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: cloudy 25.65°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: cloudy 25.25°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -2981,7 +2981,7 @@
         "kind": "MONEYLINE",
         "label": "MIN",
         "confidence": 64,
-        "updated": "2026-11-27T08:20:08.803835+00:00",
+        "updated": "2026-11-27T15:14:40.493798+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3031,7 +3031,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: cloudy 1.7°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: cloudy 1.96°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -3040,7 +3040,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-27T08:20:08.803835+00:00",
+        "updated": "2026-11-27T15:14:40.493798+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3084,7 +3084,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: cloudy 1.7°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: cloudy 1.96°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -3093,7 +3093,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-27T08:20:08.803835+00:00",
+        "updated": "2026-11-27T15:14:40.493798+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3143,7 +3143,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: cloudy 1.7°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: cloudy 1.96°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -3181,9 +3181,9 @@
         "moneylineProbabilities": {
           "modelHome": 0.6723,
           "modelAway": 0.3277,
-          "marketHomeNoVig": 0.7276,
-          "marketAwayNoVig": 0.2724,
-          "homeProbabilityEdge": -0.0553
+          "marketHomeNoVig": 0.727,
+          "marketAwayNoVig": 0.273,
+          "homeProbabilityEdge": -0.0548
         },
         "baseHomeMargin": 6.02,
         "baseTotal": 41.48,
@@ -3195,7 +3195,7 @@
         "spread_line": 7.0,
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 41.5,
-        "away_moneyline": 253.0,
+        "away_moneyline": 252.0,
         "home_moneyline": -311.0
       },
       "injuryImpact": {
@@ -3378,7 +3378,7 @@
         "kind": "MONEYLINE",
         "label": "NE",
         "confidence": 59,
-        "updated": "2026-11-27T08:20:08.803835+00:00",
+        "updated": "2026-11-27T15:14:40.493798+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3428,7 +3428,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: partly cloudy day 22.33°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: clear day 22.05°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -3437,7 +3437,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-27T08:20:08.803835+00:00",
+        "updated": "2026-11-27T15:14:40.493798+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3481,7 +3481,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: partly cloudy day 22.33°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: clear day 22.05°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -3490,7 +3490,7 @@
         "kind": "OVER",
         "label": "Over 35.5",
         "confidence": 60,
-        "updated": "2026-11-27T08:20:08.803835+00:00",
+        "updated": "2026-11-27T15:14:40.493798+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3540,7 +3540,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: partly cloudy day 22.33°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: clear day 22.05°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -3777,7 +3777,7 @@
         "kind": "MONEYLINE",
         "label": "WAS",
         "confidence": 64,
-        "updated": "2026-11-27T08:20:08.803835+00:00",
+        "updated": "2026-11-27T15:14:40.493798+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3827,7 +3827,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: cloudy 22.69°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: cloudy 23.29°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -3836,7 +3836,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-27T08:20:08.803835+00:00",
+        "updated": "2026-11-27T15:14:40.493798+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3880,7 +3880,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: cloudy 22.69°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: cloudy 23.29°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -3889,7 +3889,7 @@
         "kind": "OVER",
         "label": "Over 41.5",
         "confidence": 57,
-        "updated": "2026-11-27T08:20:08.803835+00:00",
+        "updated": "2026-11-27T15:14:40.493798+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -3939,7 +3939,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: cloudy 22.69°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: cloudy 23.29°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -3977,9 +3977,9 @@
         "moneylineProbabilities": {
           "modelHome": 0.3326,
           "modelAway": 0.6674,
-          "marketHomeNoVig": 0.2517,
-          "marketAwayNoVig": 0.7483,
-          "homeProbabilityEdge": 0.0809
+          "marketHomeNoVig": 0.2522,
+          "marketAwayNoVig": 0.7478,
+          "homeProbabilityEdge": 0.0804
         },
         "baseHomeMargin": -5.84,
         "baseTotal": 43.69,
@@ -3992,7 +3992,7 @@
         "spread_convention": "nflverse_signed_home_margin",
         "total_line": 41.5,
         "away_moneyline": -351.0,
-        "home_moneyline": 282.0
+        "home_moneyline": 281.0
       },
       "injuryImpact": {
         "spreadAdjustment": -0.14,
@@ -4094,7 +4094,7 @@
         "kind": "MONEYLINE",
         "label": "SF",
         "confidence": 64,
-        "updated": "2026-11-27T08:20:08.803835+00:00",
+        "updated": "2026-11-27T15:14:40.493798+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -4144,7 +4144,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: rain 18.6°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: rain 18.46°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -4153,7 +4153,7 @@
         "kind": "SPREAD",
         "label": "SF -3.0",
         "confidence": 63,
-        "updated": "2026-11-27T08:20:08.803835+00:00",
+        "updated": "2026-11-27T15:14:40.493798+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -4197,7 +4197,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: rain 18.6°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: rain 18.46°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -4206,7 +4206,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-27T08:20:08.803835+00:00",
+        "updated": "2026-11-27T15:14:40.493798+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -4256,7 +4256,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: rain 18.6°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: rain 18.46°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -4534,7 +4534,7 @@
         "kind": "MONEYLINE",
         "label": "CLE",
         "confidence": 61,
-        "updated": "2026-11-27T08:20:08.803835+00:00",
+        "updated": "2026-11-27T15:14:40.493798+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -4584,7 +4584,7 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: rain 8.94°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: rain 8.93°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
@@ -4593,7 +4593,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-27T08:20:08.803835+00:00",
+        "updated": "2026-11-27T15:14:40.493798+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -4637,22 +4637,22 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: rain 8.94°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: rain 8.93°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
       },
       "total": {
         "kind": "OVER",
-        "label": "Over 40.5",
+        "label": "Over 39.5",
         "confidence": 58,
-        "updated": "2026-11-27T08:20:08.803835+00:00",
+        "updated": "2026-11-27T15:14:40.493798+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
             "weight": 25,
             "impact": 1,
-            "detail": "Sérülésekkel korrigált total 43.2 (alap 43.2, sérülési korrekció -0.02), referencia 40.5; edge +2.7."
+            "detail": "Sérülésekkel korrigált total 42.7 (alap 42.7, sérülési korrekció -0.02), referencia 39.5; edge +3.2."
           },
           {
             "title": "2026-os szezon",
@@ -4696,26 +4696,26 @@
             "title": "Időjárás és stadion",
             "weight": 0,
             "impact": 0,
-            "detail": "Forecast: rain 8.94°C. Egyelőre kontextus, nem kalibrált modell-súly.",
+            "detail": "Forecast: rain 8.93°C. Egyelőre kontextus, nem kalibrált modell-súly.",
             "source": "Highlightly NFL API"
           }
         ]
       },
       "totalTests": {
-        "overSafe": 37.5,
-        "overRisk": 40.5,
-        "underSafe": 43.5,
-        "underRisk": 40.5
+        "overSafe": 36.5,
+        "overRisk": 39.5,
+        "underSafe": 42.5,
+        "underRisk": 39.5
       },
       "forecast": {
         "homeMargin": 3.16,
         "rawHomeMargin": 3.59,
         "marketHomeMargin": 4.5,
         "spreadEdge": -1.34,
-        "total": 43.21,
+        "total": 42.66,
         "rawTotal": 46.56,
-        "marketTotal": 40.5,
-        "totalEdge": 2.71,
+        "marketTotal": 39.5,
+        "totalEdge": 3.16,
         "leagueTotalPrior": 46.42,
         "sampleReliability": 1.0,
         "spreadThreshold": 1.5,
@@ -4727,10 +4727,10 @@
         "expectedAwayPoints": 22.56,
         "historicalGamesHome": 8,
         "historicalGamesAway": 8,
-        "overProbability": 0.5801,
-        "underProbability": 0.4199,
-        "overFairOdds": 1.724,
-        "underFairOdds": 2.382,
+        "overProbability": 0.5932,
+        "underProbability": 0.4068,
+        "overFairOdds": 1.686,
+        "underFairOdds": 2.458,
         "moneylineProbabilities": {
           "modelHome": 0.6101,
           "modelAway": 0.3899,
@@ -4739,7 +4739,7 @@
           "homeProbabilityEdge": -0.0709
         },
         "baseHomeMargin": 3.77,
-        "baseTotal": 43.23,
+        "baseTotal": 42.68,
         "injurySpreadAdjustment": -0.61,
         "injuryTotalAdjustment": -0.02,
         "injuryApplied": true
@@ -4747,7 +4747,7 @@
       "market": {
         "spread_line": 4.5,
         "spread_convention": "nflverse_signed_home_margin",
-        "total_line": 40.5,
+        "total_line": 39.5,
         "away_moneyline": 201.0,
         "home_moneyline": -244.0
       },
@@ -4881,7 +4881,7 @@
         "kind": "MONEYLINE",
         "label": "TB",
         "confidence": 60,
-        "updated": "2026-11-27T08:20:08.803835+00:00",
+        "updated": "2026-11-27T15:14:40.493798+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -4939,7 +4939,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-27T08:20:08.803835+00:00",
+        "updated": "2026-11-27T15:14:40.493798+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
@@ -4991,7 +4991,7 @@
         "kind": "NO_BET",
         "label": "NO BET",
         "confidence": 0,
-        "updated": "2026-11-27T08:20:08.803835+00:00",
+        "updated": "2026-11-27T15:14:40.493798+00:00",
         "evidence": [
           {
             "title": "Mit lát a modell?",
